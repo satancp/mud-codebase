@@ -1,0 +1,8 @@
+d:\mud2\mysql\data\data_backup\mir3_backup\*.*			// 备份的MySQL数据表(mir3)
+d:\mud2\mysql\data\data_backup\yuanbao_backup\*.*			// 备份的MySQL数据表(yuanbao)
+d:\mud2\mysql\data\data_backup\gamedata_backup\*.*			// 备份的MySQL数据表(gamedata)
+d:\mud2\mysql\data\data_backup\guild_backup\*.*			// 备份的MySQL数据表(guild)
+d:\mud2\mysql\data\mir3\*.txt			// 玩家当前等级表
+d:\Mud2.0\Mir200\GuildBase\*.*			// 行会文件
+d:\Mud2.0\Mir200\Envir\Castle\*.*			// 沙巴克文件
+d:\Mud2.0\Mir200\share\*.*			// share配置文件

@@ -1,0 +1,14 @@
+2019-09-07 17:53:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-09-07 17:53:04 GS-1 ================ 服务启动 ==============
+2019-09-07 17:53:04 GS-1 TPlayerBody Size - 1616
+2019-09-07 17:53:04 GS-1 TPlayerDB Size - 61608
+2019-09-07 17:53:04 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10060)
+2019-09-07 17:53:04 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10060)
+2019-09-07 17:53:04 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10060)
+2019-09-07 17:54:33 GS-1 释放--免费回收--结束
+2019-09-07 17:54:33 GS-1 释放--mysql对象--结束
+2019-09-07 17:54:33 GS-1 ================ 服务停止 ==============

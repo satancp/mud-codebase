@@ -1,0 +1,1241 @@
+2019-07-22 23:37:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-07-22 23:37:50 GS-1 ================ 服务启动 ==============
+2019-07-22 23:37:50 GS-1 TPlayerBody Size - 1616
+2019-07-22 23:37:50 GS-1 TPlayerDB Size - 61608
+2019-07-22 23:37:50 GS-1 ======== 连接MySQL成功 =======
+2019-07-22 23:37:50 GS-1 *** ***Gamelog 的下次清理时间为 : 07月29日03时*** ***
+2019-07-22 23:37:50 GS-1 ==加载GM指令定义完成==
+2019-07-22 23:37:50 GS-1 与 DB 服务器连接成功
+2019-07-22 23:37:50 GS-1 [Error]: 火龙珠奖励配置错误！
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:赤金天赐->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:白银天赐->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:紫铜天赐->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:神秘天赐->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:檀木天赐->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: 抽取概率错误:宝藏天赐 ->宝箱1:概率7
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的天赐：新年天赐
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的钥匙：新年钥匙
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的钥匙：春节钥匙
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的钥匙：节日钥匙
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的天赐：感恩天赐
+2019-07-22 23:37:50 GS-1 [Error]: StdItems 不存在的钥匙：感恩钥匙
+2019-07-22 23:37:50 GS-1 系统参数初始化完毕
+2019-07-22 23:37:50 GS-1 准备加载NPC，共508个
+2019-07-22 23:37:50 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-22 23:37:50 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\RollMsg.txt！
+2019-07-22 23:37:50 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\掉落物品提示.txt！
+2019-07-22 23:37:50 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress.txt！
+2019-07-22 23:37:50 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\游戏元素点阵管理\GMActEvent.txt！
+2019-07-22 23:37:50 GS-1    加载邮件信息成功,加载0个玩家的邮件。
+2019-07-22 23:37:50 GS-1    加载邮件信息成功,加载0个玩家的邮件。
+2019-07-22 23:37:50 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\摆摊交易\摊位基础设置.ini！
+2019-07-22 23:37:50 GS-1 刷新摊位过期将在2:55执行！
+2019-07-22 23:37:50 GS-1   加载Stall成功，共加载摊位0个
+2019-07-22 23:37:50 GS-1 [Information]: 寄售表创建成功!
+2019-07-22 23:37:50 GS-1 [Information]: 寄售历史表创建成功!
+2019-07-22 23:37:50 GS-1 [Information]: 更新超时订单成功!
+2019-07-22 23:37:50 GS-1 已加载刷新商城时间：00:00:00.
+2019-07-22 23:37:50 GS-1 已加载刷新商城时间：06:00:00.
+2019-07-22 23:37:50 GS-1 已加载刷新商城时间：12:00:00.
+2019-07-22 23:37:50 GS-1 载入商城物品列表，共5个类别，36种商品
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 补给类：3/3
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 强化类：15/15
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 限量类：5/5
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 好友类：2/2
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 类：0/0
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 类：0/0
+2019-07-22 23:37:50 GS-1 ==> 加载商城物品 类：0/0
+2019-07-22 23:37:50 GS-1    [删除错误数据] 删除用户表中不存在的战队成员
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除战队队长不存在的项
+2019-07-22 23:37:50 GS-1    [删除错误数据] 不存在战队的成员
+2019-07-22 23:37:50 GS-1    正在加载战队...
+2019-07-22 23:37:50 GS-1    战队表数量 : 2
+2019-07-22 23:37:50 GS-1    战队表数量 : 0
+2019-07-22 23:37:50 GS-1    加载战队数量:2
+2019-07-22 23:37:50 GS-1    正在加载战队成员...
+2019-07-22 23:37:50 GS-1    战队成员总数:3 加载成员数:3
+2019-07-22 23:37:50 GS-1    正在检测战队数据有效性...
+2019-07-22 23:37:50 GS-1    战队数据有效性检测完毕
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除会长战队不存在行会
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除行会不存在的行会成员
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除行会不存在的行会关系ID排列错误的项
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除行会不存在行会关系
+2019-07-22 23:37:50 GS-1    [删除错误数据] 清除行会不存在关注行会
+2019-07-22 23:37:50 GS-1    加载行会数量 : 2
+2019-07-22 23:37:50 GS-1    加载行会成员(战队)数量 : 2
+2019-07-22 23:37:50 GS-1    加载行会关系数量 : 0
+2019-07-22 23:37:50 GS-1    加载关注行会数量 : 0
+2019-07-22 23:37:50 GS-1    加载请求数量:1
+2019-07-22 23:37:50 GS-1 [Error]: 小助手 不存在！
+2019-07-22 23:37:50 GS-1 D411地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-07-22 23:37:50 GS-1 D415地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-07-22 23:37:50 GS-1 D416地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-07-22 23:37:50 GS-1 信用分验证功能：开
+2019-07-22 23:37:50 GS-1 GS脚本版本号：10001
+2019-07-22 23:37:50 GS-1 更新排行榜，共计：28 页
+2019-07-22 23:38:25 GS-1 载入商城热销商品列表，共24个。
+2019-07-22 23:38:25 GS-1 ==> 加载商城热销榜:5
+2019-07-22 23:38:25 GS-1 [Error]: TFieldHero.FillDBData: 龙纹不存在！
+2019-07-22 23:38:32 GS-1 Gate 1 开启
+2019-07-22 23:42:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 640; Max RunCount 3123
+---[Human]: Max RunDelay: 156; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 45; Max RunDelay 0
+-----------------------------------------------------
+2019-07-22 23:46:09 GS-1 开始大刷NPC
+2019-07-22 23:47:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 594; Max RunCount 3178
+---[Human]: Max RunDelay: 140; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 43; Max RunDelay 0
+-----------------------------------------------------
+2019-07-22 23:48:23 GS-1 07-22 23:48:23 User = 4 / 4
+2019-07-22 23:52:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 766; Max RunCount 3212
+---[Human]: Max RunDelay: 453; [Socket]: Max RunDelay: 187
+---[App]: Min PerSecRun: 40; Max RunDelay 0
+-----------------------------------------------------
+2019-07-22 23:56:23 GS-1 开始大刷NPC
+2019-07-22 23:57:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3187
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-07-22 23:58:24 GS-1 开始大刷NPC
+2019-07-22 23:58:25 GS-1 07-22 23:58:25 User = 4 / 4
+2019-07-23 00:00:00 GS-1 载入商城物品列表，共5个类别，36种商品
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 补给类：3/3
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 强化类：15/15
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 限量类：5/5
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 好友类：2/2
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 00:01:28 GS-1 开始大刷NPC
+2019-07-23 00:02:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 750; Max RunCount 3186
+---[Human]: Max RunDelay: 578; [Socket]: Max RunDelay: 219
+---[App]: Min PerSecRun: 55; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:03:05 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 00:03:05 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 00:07:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3185
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:08:25 GS-1 07-23 00:08:25 User = 3 / 3
+2019-07-23 00:08:53 GS-1 开始大刷NPC
+2019-07-23 00:09:42 GS-1 开始大刷NPC
+2019-07-23 00:12:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3237
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 31
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:16:56 GS-1 开始大刷NPC
+2019-07-23 00:17:46 GS-1 开始大刷NPC
+2019-07-23 00:17:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 766; Max RunCount 3299
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 32; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 00:18:25 GS-1 07-23 00:18:25 User = 4 / 4
+2019-07-23 00:18:42 GS-1 开始大刷NPC
+2019-07-23 00:19:39 GS-1 开始大刷NPC
+2019-07-23 00:23:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1297; Max RunCount 3299
+---[Human]: Max RunDelay: 672; [Socket]: Max RunDelay: 297
+---[App]: Min PerSecRun: 21; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 00:23:28 GS-1 开始大刷NPC
+2019-07-23 00:24:08 GS-1 开始大刷NPC
+2019-07-23 00:25:43 GS-1 开始大刷NPC
+2019-07-23 00:27:28 GS-1 开始大刷NPC
+2019-07-23 00:28:00 GS-1 开始大刷NPC
+2019-07-23 00:28:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 672; Max RunCount 3298
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 45; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:28:26 GS-1 07-23 00:28:26 User = 5 / 5
+2019-07-23 00:28:43 GS-1 开始大刷NPC
+2019-07-23 00:31:01 GS-1 开始大刷NPC
+2019-07-23 00:31:52 GS-1 开始大刷NPC
+2019-07-23 00:32:16 GS-1 开始大刷NPC
+2019-07-23 00:33:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3310
+---[Human]: Max RunDelay: 438; [Socket]: Max RunDelay: 31
+---[App]: Min PerSecRun: 54; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:33:10 GS-1 开始大刷NPC
+2019-07-23 00:34:25 GS-1 开始大刷NPC
+2019-07-23 00:34:51 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-07-23 00:34:51 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 00:37:40 GS-1 开始大刷NPC
+2019-07-23 00:38:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3315
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 54; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 00:38:11 GS-1 开始大刷NPC
+2019-07-23 00:38:25 GS-1 载入商城热销商品列表，共24个。
+2019-07-23 00:38:25 GS-1 ==> 加载商城热销榜:5
+2019-07-23 00:38:26 GS-1 07-23 00:38:26 User = 5 / 5
+2019-07-23 00:40:42 GS-1 开始大刷NPC
+2019-07-23 00:41:13 GS-1 开始大刷NPC
+2019-07-23 00:42:05 GS-1 开始大刷NPC
+2019-07-23 00:43:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 485; Max RunCount 3314
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 109
+---[App]: Min PerSecRun: 54; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:48:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 485; Max RunCount 3271
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:48:27 GS-1 07-23 00:48:27 User = 5 / 5
+2019-07-23 00:53:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3313
+---[Human]: Max RunDelay: 266; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 47; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:57:02 GS-1 开始大刷NPC
+2019-07-23 00:58:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 469; Max RunCount 3313
+---[Human]: Max RunDelay: 203; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 54; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 00:58:27 GS-1 07-23 00:58:27 User = 5 / 5
+2019-07-23 00:59:24 GS-1 开始大刷NPC
+2019-07-23 01:01:07 GS-1 开始大刷NPC
+2019-07-23 01:01:41 GS-1 开始大刷NPC
+2019-07-23 01:02:17 GS-1 开始大刷NPC
+2019-07-23 01:03:06 GS-1 开始大刷NPC
+2019-07-23 01:03:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 516; Max RunCount 3313
+---[Human]: Max RunDelay: 219; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 49; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:03:41 GS-1 开始大刷NPC
+2019-07-23 01:05:02 GS-1 开始大刷NPC
+2019-07-23 01:08:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 610; Max RunCount 3313
+---[Human]: Max RunDelay: 344; [Socket]: Max RunDelay: 141
+---[App]: Min PerSecRun: 48; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:08:27 GS-1 07-23 01:08:27 User = 4 / 4
+2019-07-23 01:13:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 609; Max RunCount 3313
+---[Human]: Max RunDelay: 234; [Socket]: Max RunDelay: 156
+---[App]: Min PerSecRun: 40; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:18:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 515; Max RunCount 3280
+---[Human]: Max RunDelay: 203; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 51; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:18:28 GS-1 07-23 01:18:28 User = 4 / 4
+2019-07-23 01:23:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3281
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 125
+---[App]: Min PerSecRun: 37; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:28:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 906; Max RunCount 3314
+---[Human]: Max RunDelay: 312; [Socket]: Max RunDelay: 329
+---[App]: Min PerSecRun: 40; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:28:28 GS-1 07-23 01:28:28 User = 4 / 4
+2019-07-23 01:33:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 828; Max RunCount 3314
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 34; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:33:25 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:25 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:26 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:26 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:27 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:27 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:27 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:27 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:27 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:27 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:27 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:27 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:29 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:29 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:29 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:33:29 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:33:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:02 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:02 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:02 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:02 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:03 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:03 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:03 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:03 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:03 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:03 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:34:03 GS-1 沙巴克城主-3.pas[Error] (34:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:34:03 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:38:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 2500; Max RunCount 3281
+---[Human]: Max RunDelay: 2156; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 40; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:38:26 GS-1 载入商城热销商品列表，共24个。
+2019-07-23 01:38:26 GS-1 ==> 加载商城热销榜:5
+2019-07-23 01:38:29 GS-1 07-23 01:38:29 User = 4 / 4
+2019-07-23 01:39:07 GS-1 开始大刷NPC
+2019-07-23 01:39:07 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:09 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:09 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:09 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:09 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:10 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:10 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:10 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:10 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:10 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:10 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:11 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:11 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:11 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:11 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:11 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:12 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:13 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:13 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:13 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:13 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:13 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:15 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:15 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:15 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:15 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:15 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:16 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:17 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:17 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:17 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:17 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:17 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:17 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:17 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:17 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:20 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:20 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:41 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:41 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:42 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:42 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:43 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:43 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:43 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:43 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:46 GS-1 开始大刷NPC
+2019-07-23 01:39:46 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:47 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:47 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:48 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:48 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:48 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:48 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:39:48 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:39:48 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:43:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 437; Max RunCount 3314
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:48:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3314
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:48:29 GS-1 07-23 01:48:29 User = 3 / 3
+2019-07-23 01:53:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3314
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:53:47 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:53:47 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:53:48 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:53:48 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:53:48 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:53:48 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:53:49 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:53:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:53:49 GS-1 沙巴克城主-3.pas[Error] (206:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-07-23 01:53:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:07 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:58:07 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:07 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:58:07 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:07 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:58:07 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:08 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:58:08 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:08 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'HAVETITLE'
+2019-07-23 01:58:08 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 01:58:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3316
+---[Human]: Max RunDelay: 172; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 01:58:31 GS-1 07-23 01:58:31 User = 5 / 5
+2019-07-23 02:01:40 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'GIVETIME'
+2019-07-23 02:01:40 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:01:41 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'GIVETIME'
+2019-07-23 02:01:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:01:41 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'GIVETIME'
+2019-07-23 02:01:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:01:41 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'GIVETIME'
+2019-07-23 02:01:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:01:41 GS-1 沙巴克城主-3.pas[Error] (35:26): Unknown identifier 'GIVETIME'
+2019-07-23 02:01:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:02:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:02:31 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:02 GS-1 开始大刷NPC
+2019-07-23 02:03:02 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:02 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:02 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:03 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:03 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:04 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:04 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:04 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:04 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:04 GS-1 沙巴克城主-3.pas[Hint] (28:1): Variable 'HAVETITLE' never used[Error] (69:4): Identifier expected
+2019-07-23 02:03:04 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 468; Max RunCount 3315
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 56; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:03:31 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:32 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:36 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:03:37 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:04:44 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 02:08:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 515; Max RunCount 3315
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 51; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 02:08:30 GS-1 07-23 02:08:30 User = 5 / 5
+2019-07-23 02:13:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 562; Max RunCount 3315
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 39; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:18:20 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-07-23 02:18:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3314
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 02:18:24 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-07-23 02:18:30 GS-1 07-23 02:18:30 User = 4 / 4
+2019-07-23 02:23:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3315
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 02:28:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3315
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:28:31 GS-1 07-23 02:28:31 User = 5 / 5
+2019-07-23 02:33:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 329; Max RunCount 3315
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:38:26 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 02:38:26 GS-1 ==> 加载商城热销榜:5
+2019-07-23 02:38:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3316
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:38:32 GS-1 07-23 02:38:32 User = 7 / 7
+2019-07-23 02:43:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3320
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 65; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 02:48:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3317
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:48:32 GS-1 07-23 02:48:32 User = 5 / 5
+2019-07-23 02:53:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3317
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:58:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3315
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 02:58:33 GS-1 07-23 02:58:33 User = 4 / 4
+2019-07-23 03:03:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3316
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:08:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3388
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:08:33 GS-1 07-23 03:08:33 User = 3 / 3
+2019-07-23 03:13:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 641; Max RunCount 3392
+---[Human]: Max RunDelay: 437; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 43; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:18:34 GS-1 07-23 03:18:34 User = 3 / 3
+2019-07-23 03:18:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 703; Max RunCount 3393
+---[Human]: Max RunDelay: 468; [Socket]: Max RunDelay: 32
+---[App]: Min PerSecRun: 44; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:23:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1625; Max RunCount 3393
+---[Human]: Max RunDelay: 437; [Socket]: Max RunDelay: 234
+---[App]: Min PerSecRun: 5; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:28:33 GS-1 07-23 03:28:33 User = 3 / 3
+2019-07-23 03:28:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1297; Max RunCount 3307
+---[Human]: Max RunDelay: 687; [Socket]: Max RunDelay: 234
+---[App]: Min PerSecRun: 9; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:33:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1516; Max RunCount 3335
+---[Human]: Max RunDelay: 703; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 4; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:38:26 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 03:38:26 GS-1 ==> 加载商城热销榜:5
+2019-07-23 03:38:34 GS-1 07-23 03:38:34 User = 4 / 4
+2019-07-23 03:38:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 2797; Max RunCount 3342
+---[Human]: Max RunDelay: 906; [Socket]: Max RunDelay: 359
+---[App]: Min PerSecRun: 12; Max RunDelay 2235
+-----------------------------------------------------
+2019-07-23 03:43:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1453; Max RunCount 3342
+---[Human]: Max RunDelay: 344; [Socket]: Max RunDelay: 563
+---[App]: Min PerSecRun: 6; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:48:34 GS-1 07-23 03:48:34 User = 6 / 6
+2019-07-23 03:48:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3334
+---[Human]: Max RunDelay: 234; [Socket]: Max RunDelay: 156
+---[App]: Min PerSecRun: 36; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:51:12 GS-1 开始大刷NPC
+2019-07-23 03:53:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3334
+---[Human]: Max RunDelay: 203; [Socket]: Max RunDelay: 94
+---[App]: Min PerSecRun: 54; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 03:55:39 GS-1 开始大刷NPC
+2019-07-23 03:58:35 GS-1 07-23 03:58:35 User = 5 / 5
+2019-07-23 03:58:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 485; Max RunCount 3334
+---[Human]: Max RunDelay: 219; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:03:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 907; Max RunCount 3334
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 157
+---[App]: Min PerSecRun: 24; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 04:08:10 GS-1   玩家： 豹子头零充，邮件Idx:  1，功加载了 1附件。
+2019-07-23 04:08:10 GS-1   玩家： 豹子头零充，邮件Idx:  2，功加载了 1附件。
+2019-07-23 04:08:10 GS-1   玩家： 豹子头零充，邮件Idx:  3，功加载了 1附件。
+2019-07-23 04:08:10 GS-1   玩家： 豹子头零充，邮件Idx:  4，功加载了 1附件。
+2019-07-23 04:08:35 GS-1 07-23 04:08:35 User = 7 / 7
+2019-07-23 04:08:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 688; Max RunCount 3334
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 37; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:13:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 812; Max RunCount 3334
+---[Human]: Max RunDelay: 266; [Socket]: Max RunDelay: 187
+---[App]: Min PerSecRun: 29; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:18:36 GS-1 07-23 04:18:36 User = 7 / 7
+2019-07-23 04:18:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 609; Max RunCount 3334
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 37; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:21:55 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-07-23 04:23:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 562; Max RunCount 3322
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:28:37 GS-1 07-23 04:28:37 User = 9 / 9
+2019-07-23 04:28:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 672; Max RunCount 3321
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 172
+---[App]: Min PerSecRun: 48; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 04:31:12 GS-1 开始大刷NPC
+2019-07-23 04:31:40 GS-1 开始大刷NPC
+2019-07-23 04:32:42 GS-1 开始大刷NPC
+2019-07-23 04:33:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3321
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 43; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 04:34:42 GS-1   玩家： 乱世柠檬，邮件Idx:  5，功加载了 1附件。
+2019-07-23 04:36:51 GS-1 开始大刷NPC
+2019-07-23 04:37:28 GS-1 开始大刷NPC
+2019-07-23 04:38:26 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 04:38:26 GS-1 ==> 加载商城热销榜:5
+2019-07-23 04:38:37 GS-1 07-23 04:38:37 User = 9 / 9
+2019-07-23 04:38:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3320
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 34; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 04:43:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 610; Max RunCount 3320
+---[Human]: Max RunDelay: 188; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 31; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 04:48:38 GS-1 07-23 04:48:38 User = 8 / 8
+2019-07-23 04:48:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 641; Max RunCount 3320
+---[Human]: Max RunDelay: 312; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 38; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 04:53:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 938; Max RunCount 3321
+---[Human]: Max RunDelay: 281; [Socket]: Max RunDelay: 125
+---[App]: Min PerSecRun: 39; Max RunDelay 125
+-----------------------------------------------------
+2019-07-23 04:58:38 GS-1 07-23 04:58:38 User = 7 / 7
+2019-07-23 04:58:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3320
+---[Human]: Max RunDelay: 219; [Socket]: Max RunDelay: 94
+---[App]: Min PerSecRun: 41; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 05:01:32 GS-1 开始大刷NPC
+2019-07-23 05:02:12 GS-1 开始大刷NPC
+2019-07-23 05:03:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 641; Max RunCount 3320
+---[Human]: Max RunDelay: 422; [Socket]: Max RunDelay: 203
+---[App]: Min PerSecRun: 44; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 05:08:40 GS-1 07-23 05:08:40 User = 10 / 10
+2019-07-23 05:08:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3321
+---[Human]: Max RunDelay: 265; [Socket]: Max RunDelay: 234
+---[App]: Min PerSecRun: 41; Max RunDelay 218
+-----------------------------------------------------
+2019-07-23 05:13:04 GS-1   玩家： 杂碎王，邮件Idx:  9，功加载了 1附件。
+2019-07-23 05:13:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3346
+---[Human]: Max RunDelay: 234; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 37; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 05:14:28 GS-1 开始大刷NPC
+2019-07-23 05:14:28 GS-1 盟重衣服店-0149.pas[Error] (63:2): 'THEN' expected
+2019-07-23 05:14:30 GS-1 盟重衣服店-0149.pas[Error] (63:2): 'THEN' expected
+2019-07-23 05:14:30 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:30 GS-1 盟重衣服店-0149.pas[Error] (63:2): 'THEN' expected
+2019-07-23 05:14:30 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:30 GS-1 盟重衣服店-0149.pas[Error] (63:2): 'THEN' expected
+2019-07-23 05:14:30 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:48 GS-1 开始大刷NPC
+2019-07-23 05:14:48 GS-1 盟重衣服店-0149.pas[Error] (120:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:14:49 GS-1 盟重衣服店-0149.pas[Error] (120:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:14:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:50 GS-1 盟重衣服店-0149.pas[Error] (120:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:14:50 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:52 GS-1 盟重衣服店-0149.pas[Error] (120:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:14:52 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:14:52 GS-1 盟重衣服店-0149.pas[Error] (120:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:14:52 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:15:22 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:15:22 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:15:22 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:15:22 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:15:22 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:15:22 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:15:23 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:15:23 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:15:23 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:15:23 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:15 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:15 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:16 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:16 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:16 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:16 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:16 GS-1 盟重衣服店-0149.pas[Error] (118:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:16 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:35 GS-1   玩家： 胡力，邮件Idx:  10，功加载了 1附件。
+2019-07-23 05:16:49 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:49 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:49 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:49 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:50 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:50 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:50 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:50 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:16:50 GS-1 盟重衣服店-0149.pas[Error] (50:11): Duplicate identifier '_HECHENG'
+2019-07-23 05:16:50 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:17:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 05:18:40 GS-1 07-23 05:18:40 User = 11 / 11
+2019-07-23 05:18:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 532; Max RunCount 3287
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 51; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 05:23:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 813; Max RunCount 3320
+---[Human]: Max RunDelay: 360; [Socket]: Max RunDelay: 141
+---[App]: Min PerSecRun: 41; Max RunDelay 46
+-----------------------------------------------------
+2019-07-23 05:27:24 GS-1   玩家： 专业打酱油，邮件Idx:  13，功加载了 1附件。
+2019-07-23 05:27:24 GS-1   玩家： 专业打酱油，邮件Idx:  14，功加载了 1附件。
+2019-07-23 05:28:40 GS-1 07-23 05:28:40 User = 11 / 11
+2019-07-23 05:28:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 937; Max RunCount 3320
+---[Human]: Max RunDelay: 312; [Socket]: Max RunDelay: 140
+---[App]: Min PerSecRun: 37; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 05:32:28 GS-1 开始大刷NPC
+2019-07-23 05:33:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 766; Max RunCount 3325
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 41; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 05:38:27 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 05:38:27 GS-1 ==> 加载商城热销榜:5
+2019-07-23 05:38:40 GS-1 07-23 05:38:40 User = 10 / 10
+2019-07-23 05:38:55 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-07-23 05:38:56 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-07-23 05:38:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 3547; Max RunCount 3326
+---[Human]: Max RunDelay: 3031; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 45; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 05:44:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 657; Max RunCount 3337
+---[Human]: Max RunDelay: 281; [Socket]: Max RunDelay: 203
+---[App]: Min PerSecRun: 43; Max RunDelay 46
+-----------------------------------------------------
+2019-07-23 05:48:40 GS-1 07-23 05:48:40 User = 10 / 10
+2019-07-23 05:49:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3340
+---[Human]: Max RunDelay: 265; [Socket]: Max RunDelay: 203
+---[App]: Min PerSecRun: 35; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 05:54:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 656; Max RunCount 3340
+---[Human]: Max RunDelay: 266; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 40; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 05:58:41 GS-1 07-23 05:58:41 User = 10 / 10
+2019-07-23 05:59:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 734; Max RunCount 3415
+---[Human]: Max RunDelay: 359; [Socket]: Max RunDelay: 125
+---[App]: Min PerSecRun: 34; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 06:00:00 GS-1 载入商城物品列表，共5个类别，36种商品
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 补给类：3/3
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 强化类：15/15
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 限量类：5/5
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 好友类：2/2
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-07-23 06:04:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 688; Max RunCount 3360
+---[Human]: Max RunDelay: 281; [Socket]: Max RunDelay: 109
+---[App]: Min PerSecRun: 34; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 06:08:41 GS-1 07-23 06:08:41 User = 10 / 10
+2019-07-23 06:09:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 657; Max RunCount 3355
+---[Human]: Max RunDelay: 312; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 35; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 06:14:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 812; Max RunCount 3365
+---[Human]: Max RunDelay: 297; [Socket]: Max RunDelay: 94
+---[App]: Min PerSecRun: 38; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 06:17:55 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-07-23 06:17:55 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 06:18:42 GS-1 07-23 06:18:42 User = 9 / 9
+2019-07-23 06:19:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 953; Max RunCount 3412
+---[Human]: Max RunDelay: 313; [Socket]: Max RunDelay: 250
+---[App]: Min PerSecRun: 14; Max RunDelay 125
+-----------------------------------------------------
+2019-07-23 06:24:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3355
+---[Human]: Max RunDelay: 234; [Socket]: Max RunDelay: 188
+---[App]: Min PerSecRun: 48; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 06:28:43 GS-1 07-23 06:28:43 User = 7 / 7
+2019-07-23 06:29:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3344
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 60; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 06:34:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 329; Max RunCount 3331
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 70; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 06:38:28 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 06:38:28 GS-1 ==> 加载商城热销榜:5
+2019-07-23 06:38:44 GS-1 07-23 06:38:44 User = 7 / 7
+2019-07-23 06:39:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 640; Max RunCount 3389
+---[Human]: Max RunDelay: 328; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 42; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 06:44:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 438; Max RunCount 3393
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 59; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 06:48:44 GS-1 07-23 06:48:44 User = 7 / 7
+2019-07-23 06:49:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 422; Max RunCount 3391
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 61; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 06:54:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 2500; Max RunCount 3391
+---[Human]: Max RunDelay: 1953; [Socket]: Max RunDelay: 156
+---[App]: Min PerSecRun: 24; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 06:55:34 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-07-23 06:55:34 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 06:58:43 GS-1 07-23 06:58:43 User = 9 / 9
+2019-07-23 06:59:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 656; Max RunCount 3391
+---[Human]: Max RunDelay: 265; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 39; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 06:59:33 GS-1 开始大刷NPC
+2019-07-23 07:00:02 GS-1 更新排行榜，共计：32 页
+2019-07-23 07:01:13 GS-1 开始大刷NPC
+2019-07-23 07:01:53 GS-1 开始大刷NPC
+2019-07-23 07:02:48 GS-1 开始大刷NPC
+2019-07-23 07:04:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 656; Max RunCount 3391
+---[Human]: Max RunDelay: 296; [Socket]: Max RunDelay: 156
+---[App]: Min PerSecRun: 39; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 07:06:47 GS-1 The Used Time of TMySQLDB.ExecuteScript = 2297 Sql语句=Insert into gamelog.YB_Script_Buy_Log(UpdateTime, PTID, UserID, CharName, CostType, PsBkFuncName, CostNum,UseCredit, Status, CurrentCredit) Select Now(), "pt17945a3d7c2934f5ba", 185001000000114, "胡力", 20051, "@Gaoji0LB", 1, 1, "Undetermined", YBNUM from gamedata.yb_user_data where UserID = 185001000000114 Limit 1;
+2019-07-23 07:08:44 GS-1 07-23 07:08:44 User = 9 / 9
+2019-07-23 07:09:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 8485; Max RunCount 3395
+---[Human]: Max RunDelay: 3000; [Socket]: Max RunDelay: 1906
+---[App]: Min PerSecRun: 1; Max RunDelay 640
+-----------------------------------------------------
+2019-07-23 07:14:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 437; Max RunCount 3393
+---[Human]: Max RunDelay: 141; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 55; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 07:18:44 GS-1 07-23 07:18:44 User = 8 / 8
+2019-07-23 07:19:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 5015; Max RunCount 3392
+---[Human]: Max RunDelay: 1422; [Socket]: Max RunDelay: 515
+---[App]: Min PerSecRun: 3; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 07:24:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3360
+---[Human]: Max RunDelay: 203; [Socket]: Max RunDelay: 109
+---[App]: Min PerSecRun: 41; Max RunDelay 62
+-----------------------------------------------------
+2019-07-23 07:28:45 GS-1 07-23 07:28:45 User = 8 / 8
+2019-07-23 07:29:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 532; Max RunCount 3393
+---[Human]: Max RunDelay: 187; [Socket]: Max RunDelay: 94
+---[App]: Min PerSecRun: 45; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 07:34:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3388
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 58; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 07:38:28 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 07:38:28 GS-1 ==> 加载商城热销榜:5
+2019-07-23 07:38:46 GS-1 07-23 07:38:46 User = 7 / 7
+2019-07-23 07:39:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 2578; Max RunCount 3392
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 33; Max RunDelay 2250
+-----------------------------------------------------
+2019-07-23 07:44:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3389
+---[Human]: Max RunDelay: 141; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 61; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 07:48:46 GS-1 07-23 07:48:46 User = 6 / 6
+2019-07-23 07:49:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 469; Max RunCount 3391
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 59; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 07:54:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1421; Max RunCount 3391
+---[Human]: Max RunDelay: 922; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 10; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 07:58:47 GS-1 07-23 07:58:47 User = 5 / 5
+2019-07-23 07:59:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 469; Max RunCount 3391
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 60; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 08:04:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 5125; Max RunCount 3396
+---[Human]: Max RunDelay: 469; [Socket]: Max RunDelay: 156
+---[App]: Min PerSecRun: 12; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 08:08:47 GS-1 07-23 08:08:47 User = 7 / 7
+2019-07-23 08:09:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1593; Max RunCount 3411
+---[Human]: Max RunDelay: 1047; [Socket]: Max RunDelay: 218
+---[App]: Min PerSecRun: 10; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 08:14:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1765; Max RunCount 3450
+---[Human]: Max RunDelay: 156; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 1; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 08:18:47 GS-1 07-23 08:18:47 User = 8 / 8
+2019-07-23 08:19:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3432
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 08:21:01 GS-1   玩家： 小道士，邮件Idx:  21，功加载了 1附件。
+2019-07-23 08:21:01 GS-1   玩家： 小道士，邮件Idx:  22，功加载了 1附件。
+2019-07-23 08:21:27 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:28 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:30 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:31 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:32 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:21:32 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:24:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3449
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 56; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 08:28:48 GS-1 07-23 08:28:48 User = 7 / 7
+2019-07-23 08:29:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 515; Max RunCount 3448
+---[Human]: Max RunDelay: 171; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 46; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 08:34:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 516; Max RunCount 3448
+---[Human]: Max RunDelay: 188; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 54; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 08:35:06 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:37:05 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-07-23 08:38:29 GS-1 载入商城热销商品列表，共26个。
+2019-07-23 08:38:29 GS-1 ==> 加载商城热销榜:5
+2019-07-23 08:38:49 GS-1 07-23 08:38:49 User = 9 / 9
+2019-07-23 08:39:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 563; Max RunCount 3448
+---[Human]: Max RunDelay: 172; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 47; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 08:44:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3451
+---[Human]: Max RunDelay: 157; [Socket]: Max RunDelay: 78
+---[App]: Min PerSecRun: 54; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 08:47:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:47:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 08:48:49 GS-1 07-23 08:48:49 User = 7 / 7
+2019-07-23 08:49:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3433
+---[Human]: Max RunDelay: 172; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 51; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 08:54:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3465
+---[Human]: Max RunDelay: 157; [Socket]: Max RunDelay: 79
+---[App]: Min PerSecRun: 51; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 08:58:49 GS-1 07-23 08:58:49 User = 8 / 8
+2019-07-23 08:59:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3432
+---[Human]: Max RunDelay: 157; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 55; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 09:04:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3465
+---[Human]: Max RunDelay: 281; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 52; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 09:08:50 GS-1 07-23 09:08:50 User = 7 / 7
+2019-07-23 09:09:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3466
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 60; Max RunDelay 31
+-----------------------------------------------------
+2019-07-23 09:12:53 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-07-23 09:14:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3397
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 62; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 09:18:51 GS-1 07-23 09:18:51 User = 7 / 7
+2019-07-23 09:19:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 407; Max RunCount 3432
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 59; Max RunDelay 47
+-----------------------------------------------------
+2019-07-23 09:24:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 3426
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 68; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 09:28:50 GS-1 07-23 09:28:50 User = 5 / 5
+2019-07-23 09:29:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3411
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 09:32:07 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-23 09:34:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 344; Max RunCount 3479
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 09:38:29 GS-1 载入商城热销商品列表，共27个。
+2019-07-23 09:38:29 GS-1 ==> 加载商城热销榜:5
+2019-07-23 09:38:51 GS-1 07-23 09:38:51 User = 5 / 5
+2019-07-23 09:39:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 344; Max RunCount 3364
+---[Human]: Max RunDelay: 93; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 32
+-----------------------------------------------------
+2019-07-23 09:44:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3505
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 09:48:51 GS-1 07-23 09:48:51 User = 8 / 8
+2019-07-23 09:49:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 344; Max RunCount 3558
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 68; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 09:54:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 329; Max RunCount 3558
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 09:58:52 GS-1 07-23 09:58:52 User = 6 / 6
+2019-07-23 09:59:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 344; Max RunCount 3557
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 10:04:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3557
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 66; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 10:08:52 GS-1 07-23 10:08:52 User = 7 / 7
+2019-07-23 10:09:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1953; Max RunCount 3574
+---[Human]: Max RunDelay: 1407; [Socket]: Max RunDelay: 188
+---[App]: Min PerSecRun: 25; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 10:14:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3524
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 65; Max RunDelay 16
+-----------------------------------------------------
+2019-07-23 10:18:53 GS-1 07-23 10:18:53 User = 6 / 6
+2019-07-23 10:19:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3503
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 46; Max RunDelay 15
+-----------------------------------------------------
+2019-07-23 10:24:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 360; Max RunCount 3557
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-07-23 10:28:54 GS-1 07-23 10:28:54 User = 5 / 5
+2019-07-23 10:29:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 719; Max RunCount 3533
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 93
+---[App]: Min PerSecRun: 22; Max RunDelay 0
+-----------------------------------------------------
+2019-07-21 20:52:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 469; Max RunCount 3569
+---[Human]: Max RunDelay: 188; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 50; Max RunDelay 32
+-----------------------------------------------------
+2019-07-21 20:55:58 GS-1 载入商城热销商品列表，共27个。
+2019-07-21 20:55:58 GS-1 ==> 加载商城热销榜:5
+2019-07-21 20:56:22 GS-1 07-21 20:56:22 User = 6 / 6
+2019-07-21 20:57:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3577
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-07-21 21:02:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 562; Max RunCount 3575
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 47; Max RunDelay 32
+-----------------------------------------------------
+2019-07-21 21:06:23 GS-1 07-21 21:06:23 User = 5 / 5
+2019-07-21 21:07:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3567
+---[Human]: Max RunDelay: 172; [Socket]: Max RunDelay: 63
+---[App]: Min PerSecRun: 39; Max RunDelay 15
+-----------------------------------------------------
+2019-07-21 21:11:41 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-07-21 21:11:41 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-07-21 21:12:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 468; Max RunCount 3567
+---[Human]: Max RunDelay: 156; [Socket]: Max RunDelay: 46
+---[App]: Min PerSecRun: 42; Max RunDelay 0
+-----------------------------------------------------
+2019-07-21 21:13:50 GS-1 21:13:51 Gate 1 (129.28.198.181) 关闭
+2019-07-21 21:13:50 GS-1 [Warning]: 与DB 服务器断开连接....
+2019-07-21 21:13:56 GS-1 释放--魔龙冰晶升级对象--结束
+2019-07-21 21:13:56 GS-1 释放--天赐宝箱1--结束
+2019-07-21 21:13:56 GS-1 释放--天赐宝箱2--结束
+2019-07-21 21:13:56 GS-1 释放--一点充--结束
+2019-07-21 21:13:56 GS-1 释放--事件管理对象--结束
+2019-07-21 21:13:56 GS-1 释放--任务管理对象--结束
+2019-07-21 21:13:57 GS-1 释放--升级提醒管理对象--结束
+2019-07-21 21:13:57 GS-1 释放--GDMsg管理对象--结束
+2019-07-21 21:13:57 GS-1 释放--跨地图寻路管理对象--结束
+2019-07-21 21:13:58 GS-1 释放--沙巴克管理对象--结束
+2019-07-21 21:13:58 GS-1 释放--中央活动服务器客户端--结束
+2019-07-21 21:13:58 GS-1 释放--乾坤包--结束
+2019-07-21 21:13:58 GS-1 正在清除模块-卧龙英雄管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress-HERO1.txt
+2019-07-21 21:13:58 GS-1 正在清除模块-卧龙英雄管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress.txt
+2019-07-21 21:13:58 GS-1 正在清除模块-游戏元素点阵管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\游戏元素点阵管理\GMActEvent.txt
+2019-07-21 21:13:58 GS-1 正在清除模块-信用分管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\信用分管理\PlayerActivePoint.xml
+2019-07-21 21:13:58 GS-1 正在清除模块-信用分管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\信用分管理\MapActivePoint.xml
+2019-07-21 21:13:58 GS-1 正在清除模块-摆摊交易-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\摆摊交易\摊位基础设置.ini
+2019-07-21 21:13:58 GS-1 正在清除模块-元宝商城管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\元宝商城管理\YBGoods.sql
+2019-07-21 21:13:58 GS-1 正在清除模块-小助手管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\小助手管理\小助手.txt
+2019-07-21 21:13:58 GS-1 正在清除模块-静态地图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\静态地图管理\MapDropLimitBagItems.xml
+2019-07-21 21:14:09 GS-1 正在清除模块-装备合成管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\装备合成管理\StrengthenEquip.xml
+2019-07-21 21:14:14 GS-1 正在清除模块-藏宝图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\藏宝图管理\修复藏宝图.txt
+2019-07-21 21:14:14 GS-1 正在清除模块-藏宝图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\藏宝图管理\魔龙藏宝图合成装备.txt
+2019-07-21 21:14:14 GS-1 正在清除模块-衣服升级管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\衣服升级管理\UpdateClothes.xml
+2019-07-21 21:14:14 GS-1 正在清除模块-道具管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\道具管理\宝石配置.txt
+2019-07-21 21:14:14 GS-1 正在清除模块-世界暴率管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\世界暴率管理\世界爆率文件1.txt
+2019-07-21 21:14:14 GS-1 释放--跨GS消息管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--gate管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--魔法管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--套装管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--新暴率管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--角色信息初始化管理对象--结束
+2019-07-21 21:14:14 GS-1 释放--GS本地日志--结束
+2019-07-21 21:14:15 GS-1 释放--DBEngn对象--结束
+2019-07-21 21:14:15 GS-1 释放--任务列表--结束
+2019-07-21 21:14:15 GS-1 释放--buffer管理类--结束
+2019-07-21 21:14:15 GS-1 释放--排行榜--结束
+2019-07-21 21:14:15 GS-1 释放--免费回收--结束
+2019-07-21 21:14:15 GS-1 释放--mysql对象--结束
+2019-07-21 21:14:15 GS-1 ================ 服务停止 ==============

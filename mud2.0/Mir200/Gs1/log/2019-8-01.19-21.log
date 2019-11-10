@@ -1,0 +1,188 @@
+2019-08-01 19:21:19 GS-1 SetForm:hero_lv_exp.txt文件不存在
+2019-08-01 19:21:19 GS-1 SetForm:hero_lv_nq.txt文件不存在
+2019-08-01 19:21:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-08-01 19:21:19 GS-1 ================ 服务启动 ==============
+2019-08-01 19:21:19 GS-1 TPlayerBody Size - 1616
+2019-08-01 19:21:19 GS-1 TPlayerDB Size - 61608
+2019-08-01 19:21:19 GS-1 ======== 连接MySQL成功 =======
+2019-08-01 19:21:19 GS-1 *** ***Gamelog 的下次清理时间为 : 08月08日03时*** ***
+2019-08-01 19:21:19 GS-1 ==加载GM指令定义完成==
+2019-08-01 19:21:19 GS-1 找不到文件d:\Mud2.0\Mir200\Share\config\GPForbidItems.txt
+2019-08-01 19:21:19 GS-1 [Error]: 未发现怪物PK当量配置文件 d:\Mud2.0\Mir200\Share\Config\MonBasePk.txt
+2019-08-01 19:21:19 GS-1 [Error]: 未发现怪物可探索类型配置文件 d:\Mud2.0\Mir200\Share\Config\ButchType.txt
+2019-08-01 19:21:19 GS-1 [Error]: 致命错误：新天关怪物文件错误
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关个人奖励配置文件：d:\Mud2.0\Mir200\Share\Config\NewSelfPrize.ini
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关服务器奖励配置文件：d:\Mud2.0\Mir200\Share\Config\NewServPrize.ini
+2019-08-01 19:21:19 GS-1 与 DB 服务器连接成功
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：0 399:225->0111 11:15
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：0157 20:5->D501 166:216
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GA0 49:46->GUDONG01 31:33
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG01 30:34->GA0 49:46
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG01 31:33->GA0 49:46
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG01 25:6->GUDONG02 19:11
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG02 19:11->GUDONG01 25:6
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG01 9:22->GUDONG02 10:20
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG02 10:20->GUDONG01 9:22
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG02 13:9->GUDONG03 21:21
+2019-08-01 19:21:19 GS-1 [Warning]: 无效连接点：GUDONG03 21:21->GUDONG02 13:9
+2019-08-01 19:21:19 GS-1 [Error]:怪物脚本列表d:\Mud2.0\Mir200\Envir\monScript.txt不存在
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Envir\UnBindItem.txt不存在。
+2019-08-01 19:21:19 GS-1 [error]:配置文件d:\Mud2.0\Mir200\Share\config\SuperEquipSmeltNew.txt不存在
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关配置文件：d:\Mud2.0\Mir200\Share\Config\CopperBoxPrize.ini
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关配置文件：d:\Mud2.0\Mir200\Share\Config\SillerBoxPrize.ini
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关配置文件：d:\Mud2.0\Mir200\Share\Config\GoldBoxPrize.ini
+2019-08-01 19:21:19 GS-1 [Error]: 缺少新天关配置文件：d:\Mud2.0\Mir200\Share\Config\WoodBoxPrize.ini
+2019-08-01 19:21:19 GS-1 [Error]: File not Found d:\Mud2.0\Mir200\Share\Config\ChgTu.ini
+2019-08-01 19:21:19 GS-1 [Error]: File not Found GoldId.ini
+2019-08-01 19:21:19 GS-1 [Error]: File not Found d:\Mud2.0\Mir200\Share\Config\NewGoldId.ini
+2019-08-01 19:21:19 GS-1 [Error]: File not Found d:\Mud2.0\Mir200\Share\config\Platina.ini
+2019-08-01 19:21:19 GS-1 [Error]: File not Found d:\Mud2.0\Mir200\Share\Config\CupAction.ini
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Envir\Gifts.txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\config\圣殿天关.ini不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\config\Paihang.ini不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\SearchNormalPrize.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\SearchNormalPrizeNew.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\火龙珠.ini不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize1.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize2.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize3.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize4.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize5.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize6.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize7.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]: d:\Mud2.0\Mir200\Share\Config\ButchNormalPrize8.Txt不存在。
+2019-08-01 19:21:19 GS-1 [Error]; 新手天赐奖励配置不存在：d:\Mud2.0\Mir200\Share\config\新手天赐.ini
+2019-08-01 19:21:19 GS-1 [Error]:找不到d:\Mud2.0\Mir200\Share\config\randItems.txt
+2019-08-01 19:21:19 GS-1 [Error]: 物品回收配置不存在：d:\Mud2.0\Mir200\Share\config\ItemRecycleBase.ini
+2019-08-01 19:21:19 GS-1 [Error]:神佑属性文件不存在！！ d:\Mud2.0\Mir200\Share\Config\神佑属性.txt
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\赤金天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\白银天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\紫铜天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\神秘天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\檀木天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\宝藏天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\幸运天赐.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\赤金天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\白银天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\紫铜天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\神秘天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\新年天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\春节天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\节日天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: 天赐抽奖配置文件: d:\Mud2.0\Mir200\Share\Config\感恩天赐2.ini 不存在！
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的天赐：新年天赐
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的钥匙：新年钥匙
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的钥匙：春节钥匙
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的钥匙：节日钥匙
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的天赐：感恩天赐
+2019-08-01 19:21:19 GS-1 [Error]: StdItems 不存在的钥匙：感恩钥匙
+2019-08-01 19:21:19 GS-1 [Error]: File not Found d:\Mud2.0\Mir200\Share\Config\ItemBuild.ini
+2019-08-01 19:21:19 GS-1 系统参数初始化完毕
+2019-08-01 19:21:19 GS-1 [Error]:d:\Mud2.0\Mir200\Envir\PsMapQuest\TaskDispatch.pas不存在
+2019-08-01 19:21:19 GS-1 [error]:找不到文件d:\Mud2.0\Mir200\Share\Config\升级提示.txt
+2019-08-01 19:21:19 GS-1 [Error]: 缺少脚本文件:d:\Mud2.0\Mir200\Envir\PsNpcScripts\镇魔守将-3.pas
+2019-08-01 19:21:19 GS-1 准备加载NPC，共288个
+2019-08-01 19:21:19 GS-1 爆率控制-G001.pas[Error] (19:3): Unknown identifier 'ChgMonItemPercent'
+2019-08-01 19:21:19 GS-1 沙巴克城主-3.pas[Error] (205:18): Unknown identifier 'GIVEPOSITIVEVVALUE'
+2019-08-01 19:21:19 GS-1 [Error]:缺少任务列表管理文件d:\Mud2.0\Mir200\Envir\PsTaskList\PsTaskConfig.txt
+2019-08-01 19:21:19 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\RollMsg.txt！
+2019-08-01 19:21:19 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\掉落物品提示.txt！
+2019-08-01 19:21:19 GS-1 [Error]：卧龙配置文件不存在 d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress.txt
+2019-08-01 19:21:19 GS-1 [Error] 文件不存在：d:\Mud2.0\Mir200\Share\EngineConfig\游戏元素点阵管理\GMActEvent.txt
+2019-08-01 19:21:19 GS-1    加载邮件信息成功,加载1个玩家的邮件。
+2019-08-01 19:21:19 GS-1    加载邮件信息成功,加载1个玩家的邮件。
+2019-08-01 19:21:19 GS-1   加载Stall成功，共加载摊位0个
+2019-08-01 19:21:19 GS-1 [Information]: 寄售表创建成功!
+2019-08-01 19:21:19 GS-1 [Information]: 寄售历史表创建成功!
+2019-08-01 19:21:19 GS-1 [Information]: 更新超时订单成功!
+2019-08-01 19:21:19 GS-1 已加载刷新商城时间：00:00:00.
+2019-08-01 19:21:19 GS-1 已加载刷新商城时间：06:00:00.
+2019-08-01 19:21:19 GS-1 已加载刷新商城时间：12:00:00.
+2019-08-01 19:21:19 GS-1 载入商城物品列表，共4个类别，18种商品
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 装饰类：2/2
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 补给类：1/1
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 强化类：13/13
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 好友类：2/2
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 类：0/0
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 类：0/0
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 类：0/0
+2019-08-01 19:21:19 GS-1 ==> 加载商城物品 类：0/0
+2019-08-01 19:21:19 GS-1    [删除错误数据] 删除用户表中不存在的战队成员
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除战队队长不存在的项
+2019-08-01 19:21:19 GS-1    [删除错误数据] 不存在战队的成员
+2019-08-01 19:21:19 GS-1    正在加载战队...
+2019-08-01 19:21:19 GS-1    战队表数量 : 2
+2019-08-01 19:21:19 GS-1    战队表数量 : 0
+2019-08-01 19:21:19 GS-1    加载战队数量:2
+2019-08-01 19:21:19 GS-1    正在加载战队成员...
+2019-08-01 19:21:19 GS-1    战队成员总数:2 加载成员数:2
+2019-08-01 19:21:19 GS-1    正在检测战队数据有效性...
+2019-08-01 19:21:19 GS-1    战队数据有效性检测完毕
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除会长战队不存在行会
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除行会不存在的行会成员
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除行会不存在的行会关系ID排列错误的项
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除行会不存在行会关系
+2019-08-01 19:21:19 GS-1    [删除错误数据] 清除行会不存在关注行会
+2019-08-01 19:21:19 GS-1    加载行会数量 : 2
+2019-08-01 19:21:19 GS-1    加载行会成员(战队)数量 : 2
+2019-08-01 19:21:19 GS-1    加载行会关系数量 : 0
+2019-08-01 19:21:19 GS-1    加载关注行会数量 : 0
+2019-08-01 19:21:19 GS-1    加载请求数量:0
+2019-08-01 19:21:19 GS-1 [Error]: 小助手 不存在！
+2019-08-01 19:21:19 GS-1 信用分验证功能：开
+2019-08-01 19:21:19 GS-1 GS脚本版本号：10001
+2019-08-01 19:21:19 GS-1 更新排行榜，共计：30 页
+2019-08-01 19:21:46 GS-1 载入商城热销商品列表，共11个。
+2019-08-01 19:21:46 GS-1 ==> 加载商城热销榜:5
+2019-08-01 19:21:52 GS-1 Gate 1 开启
+2019-08-01 19:26:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 703; Max RunCount 3275
+---[Human]: Max RunDelay: 344; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 57; Max RunDelay 266
+-----------------------------------------------------
+2019-08-01 19:27:43 GS-1 19:27:43 Gate 1 (129.28.198.181) 关闭
+2019-08-01 19:27:43 GS-1 [Warning]: 与DB 服务器断开连接....
+2019-08-01 19:27:48 GS-1 释放--魔龙冰晶升级对象--结束
+2019-08-01 19:27:48 GS-1 释放--天赐宝箱1--结束
+2019-08-01 19:27:48 GS-1 释放--天赐宝箱2--结束
+2019-08-01 19:27:48 GS-1 释放--一点充--结束
+2019-08-01 19:27:48 GS-1 释放--事件管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--任务管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--升级提醒管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--GDMsg管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--跨地图寻路管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--沙巴克管理对象--结束
+2019-08-01 19:27:48 GS-1 释放--中央活动服务器客户端--结束
+2019-08-01 19:27:48 GS-1 释放--乾坤包--结束
+2019-08-01 19:27:48 GS-1 正在清除模块-卧龙英雄管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress.txt
+2019-08-01 19:27:48 GS-1 正在清除模块-游戏元素点阵管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\游戏元素点阵管理\GMActEvent.txt
+2019-08-01 19:27:48 GS-1 正在清除模块-信用分管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\信用分管理\PlayerActivePoint.xml
+2019-08-01 19:27:48 GS-1 正在清除模块-信用分管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\信用分管理\MapActivePoint.xml
+2019-08-01 19:27:48 GS-1 正在清除模块-摆摊交易-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\摆摊交易\摊位基础设置.txt
+2019-08-01 19:27:48 GS-1 正在清除模块-元宝商城管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\元宝商城管理\YBGoods.sql
+2019-08-01 19:27:48 GS-1 正在清除模块-小助手管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\小助手管理\小助手.txt
+2019-08-01 19:27:48 GS-1 正在清除模块-静态地图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\静态地图管理\MapDropLimitBagItems.xml
+2019-08-01 19:27:49 GS-1 正在清除模块-装备合成管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\装备合成管理\StrengthenEquip.xml
+2019-08-01 19:27:49 GS-1 正在清除模块-藏宝图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\藏宝图管理\修复藏宝图.txt
+2019-08-01 19:27:49 GS-1 正在清除模块-藏宝图管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\藏宝图管理\魔龙藏宝图合成装备.txt
+2019-08-01 19:27:49 GS-1 正在清除模块-衣服升级管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\衣服升级管理\UpdateClothes.xml
+2019-08-01 19:27:49 GS-1 正在清除模块-道具管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\道具管理\宝石配置.txt
+2019-08-01 19:27:49 GS-1 正在清除模块-世界暴率管理-的配置表d:\Mud2.0\Mir200\Share\EngineConfig\世界暴率管理\世界爆率文件1.txt
+2019-08-01 19:27:49 GS-1 释放--跨GS消息管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--gate管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--魔法管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--套装管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--新暴率管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--角色信息初始化管理对象--结束
+2019-08-01 19:27:49 GS-1 释放--GS本地日志--结束
+2019-08-01 19:27:49 GS-1 释放--DBEngn对象--结束
+2019-08-01 19:27:49 GS-1 释放--任务列表--结束
+2019-08-01 19:27:49 GS-1 释放--buffer管理类--结束
+2019-08-01 19:27:49 GS-1 释放--排行榜--结束
+2019-08-01 19:27:49 GS-1 释放--免费回收--结束
+2019-08-01 19:27:49 GS-1 释放--mysql对象--结束
+2019-08-01 19:27:49 GS-1 ================ 服务停止 ==============

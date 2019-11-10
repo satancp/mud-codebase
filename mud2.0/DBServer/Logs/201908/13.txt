@@ -1,0 +1,85 @@
+2019-08-13 00:00:00 [BackupSave]: -= 本地备份 =-
+2019-08-13 00:03:45 UnKnown Cmd of TYPE_A:344
+2019-08-13 00:24:15 UnKnown Cmd of TYPE_A:344
+2019-08-13 00:42:36 UnKnown Cmd of TYPE_A:344
+2019-08-13 02:36:34 中断一个非法的 GameServer 连接，IP = 71.6.167.142
+2019-08-13 02:36:34 与M2Server通信错误：ErrorCode=10061
+2019-08-13 03:17:18 UnKnown Cmd of TYPE_A:344
+2019-08-13 05:30:01 [BackupSave]: ==== 复制备份昨日数据 ====
+2019-08-13 05:30:02 [BackupSave]: ======================= 数据备份 =======================
+2019-08-13 05:30:02 ======================= 开始拷贝所有数据库中所有数据表文件 =======================
+2019-08-13 05:30:02 ====== 拷贝源数据库 mir3（d:\mud2\mysql\data\mir3）---->目标数据库 mir3_backup（d:\mud2\mysql\data\data_backup\mir3_backup） 完成，共拷贝数据表文件51个======
+2019-08-13 05:30:02 ====== 拷贝源数据库 gamedata（d:\mud2\mysql\data\gamedata）---->目标数据库 gamedata_backup（d:\mud2\mysql\data\data_backup\gamedata_backup） 完成，共拷贝数据表文件144个======
+2019-08-13 05:30:02 ====== 拷贝源数据库 guild（d:\mud2\mysql\data\guild）---->目标数据库 guild_backup（d:\mud2\mysql\data\data_backup\guild_backup） 完成，共拷贝数据表文件21个======
+2019-08-13 05:30:02 ======================= 结束拷贝所有数据库中所有数据表文件，花费时间 0 秒 =======================
+2019-08-13 05:30:02 [BackupSave]: ============ 压缩数据 ============
+2019-08-13 05:30:03 执行外部上传程序d:\mud2\backup\backup.exe
+2019-08-13 05:30:03 [BackupSave]: ======================= 数据备份成功 用时 1 秒 =======================
+2019-08-13 06:00:02 [BackupSave]: -= 本地备份 =-
+2019-08-13 06:21:22 UnKnown Cmd of TYPE_A:344
+2019-08-13 07:00:00 刷新排行榜开始...
+2019-08-13 07:00:00 刷新战神榜共100条记录
+2019-08-13 07:00:00 刷新法神榜共45条记录
+2019-08-13 07:00:00 刷新道尊榜共32条记录
+2019-08-13 07:00:00 刷新玛法群英榜共100条记录
+2019-08-13 07:00:01 刷新名师榜共0条记录
+2019-08-13 07:00:01 刷新战斗力排行榜共0条记录
+2019-08-13 07:00:01 刷新玛法内功榜共0条记录
+2019-08-13 07:00:01 刷新刺客榜共0条记录
+2019-08-13 07:00:01 刷新战士英雄榜共28条记录
+2019-08-13 07:00:02 刷新法师英雄榜共16条记录
+2019-08-13 07:00:02 刷新道士英雄榜共55条记录
+2019-08-13 07:00:02 刷新英雄总排行榜共99条记录
+2019-08-13 07:00:02 刷新排行榜结束，共 72 页
+2019-08-13 08:58:44 UnKnown Cmd of TYPE_A:344
+2019-08-13 09:35:43 UnKnown Cmd of TYPE_A:344
+2019-08-13 10:06:57 UnKnown Cmd of TYPE_A:344
+2019-08-13 10:08:01 UnKnown Cmd of TYPE_A:344
+2019-08-13 10:19:23 UnKnown Cmd of TYPE_A:344
+2019-08-13 11:15:00 中断一个非法的 GameServer 连接，IP = 185.153.196.5
+2019-08-13 11:15:00 与M2Server通信错误：ErrorCode=10061
+2019-08-13 11:15:01 中断一个非法的 GameServer 连接，IP = 185.153.196.5
+2019-08-13 11:15:01 与M2Server通信错误：ErrorCode=10061
+2019-08-13 11:15:01 中断一个非法的 GameServer 连接，IP = 185.153.196.5
+2019-08-13 11:15:01 与M2Server通信错误：ErrorCode=10061
+2019-08-13 11:27:44 UnKnown Cmd of TYPE_A:344
+2019-08-13 11:40:10 UnKnown Cmd of TYPE_A:344
+2019-08-13 12:00:02 [BackupSave]: -= 本地备份 =-
+2019-08-13 12:28:44 UnKnown Cmd of TYPE_A:344
+2019-08-13 12:48:05 UnKnown Cmd of TYPE_A:344
+2019-08-13 14:00:30 UnKnown Cmd of TYPE_A:344
+2019-08-13 14:15:06 UnKnown Cmd of TYPE_A:344
+2019-08-13 14:19:31 UnKnown Cmd of TYPE_A:344
+2019-08-13 15:04:33 UnKnown Cmd of TYPE_A:344
+2019-08-13 15:53:05 UnKnown Cmd of TYPE_A:344
+2019-08-13 15:53:31 UnKnown Cmd of TYPE_A:344
+2019-08-13 16:02:37 UnKnown Cmd of TYPE_A:344
+2019-08-13 16:29:23 UnKnown Cmd of TYPE_A:344
+2019-08-13 17:29:16 UnKnown Cmd of TYPE_A:344
+2019-08-13 18:00:04 [BackupSave]: -= 本地备份 =-
+2019-08-13 20:04:34 UnKnown Cmd of TYPE_A:344
+2019-08-13 20:21:47 中断一个非法的 GameServer 连接，IP = 92.53.65.57
+2019-08-13 20:21:47 与M2Server通信错误：ErrorCode=10061
+2019-08-13 21:06:34 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:15:58 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:20:39 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:33:18 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:39:13 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:45:14 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:50:15 UnKnown Cmd of TYPE_A:344
+2019-08-13 21:56:44 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:00:43 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:09:43 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:10:18 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:10:55 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:10:56 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:14:15 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:32:00 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:37:07 UnKnown Cmd of TYPE_A:344
+2019-08-13 22:45:41 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:00:49 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:04:26 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:10:58 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:21:10 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:26:29 UnKnown Cmd of TYPE_A:344
+2019-08-13 23:31:00 UnKnown Cmd of TYPE_A:344

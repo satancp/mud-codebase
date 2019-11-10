@@ -1,0 +1,780 @@
+2019-08-05 00:00:04 [BackupSave]: -= 本地备份 =-
+2019-08-05 00:26:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:29:03 中断一个非法的 GameServer 连接，IP = 138.68.107.250
+2019-08-05 00:29:03 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:29:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:31:22 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:22 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:23 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:23 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:23 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:23 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:24 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:24 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:26 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:26 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:27 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:27 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:27 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:27 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:27 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:27 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:29 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:29 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:29 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:29 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:29 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:29 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:30 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:30 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:31 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:31 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:32 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:32 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:33 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:33 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:31:34 中断一个非法的 GameServer 连接，IP = 45.33.71.222
+2019-08-05 00:31:34 与M2Server通信错误：ErrorCode=10061
+2019-08-05 00:42:43 GameServer 1 已连接.
+2019-08-05 00:43:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:44:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:44:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:45:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:45:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:45:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:53:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:56:02 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:56:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 00:59:29 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:10:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:12:21 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:18:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:22:56 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:24:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:50:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:54:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 01:55:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:05:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:05:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:10:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:22:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:23:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:26:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 02:34:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 03:12:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 04:21:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 05:30:00 [BackupSave]: ==== 复制备份昨日数据 ====
+2019-08-05 05:30:00 [BackupSave]: ======================= 数据备份 =======================
+2019-08-05 05:30:00 ======================= 开始拷贝所有数据库中所有数据表文件 =======================
+2019-08-05 05:30:00 ====== 拷贝源数据库 mir3（d:\mud2\mysql\data\mir3）---->目标数据库 mir3_backup（d:\mud2\mysql\data\data_backup\mir3_backup） 完成，共拷贝数据表文件51个======
+2019-08-05 05:30:00 ====== 拷贝源数据库 gamedata（d:\mud2\mysql\data\gamedata）---->目标数据库 gamedata_backup（d:\mud2\mysql\data\data_backup\gamedata_backup） 完成，共拷贝数据表文件144个======
+2019-08-05 05:30:00 ====== 拷贝源数据库 guild（d:\mud2\mysql\data\guild）---->目标数据库 guild_backup（d:\mud2\mysql\data\data_backup\guild_backup） 完成，共拷贝数据表文件21个======
+2019-08-05 05:30:01 ======================= 结束拷贝所有数据库中所有数据表文件，花费时间 0 秒 =======================
+2019-08-05 05:30:01 [BackupSave]: ============ 压缩数据 ============
+2019-08-05 05:30:01 执行外部上传程序d:\mud2\backup\backup.exe
+2019-08-05 05:30:01 [BackupSave]: ======================= 数据备份成功 用时 1 秒 =======================
+2019-08-05 05:43:26 UnKnown Cmd of TYPE_A:344
+2019-08-05 05:58:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:00:00 [BackupSave]: -= 本地备份 =-
+2019-08-05 06:08:29 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:08:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:15:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:19:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:20:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:31:06 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:33:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:56:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:56:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 06:58:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:00:00 刷新排行榜开始...
+2019-08-05 07:00:00 刷新战神榜共46条记录
+2019-08-05 07:00:00 刷新法神榜共31条记录
+2019-08-05 07:00:00 刷新道尊榜共18条记录
+2019-08-05 07:00:00 刷新玛法群英榜共95条记录
+2019-08-05 07:00:01 刷新名师榜共0条记录
+2019-08-05 07:00:01 刷新战斗力排行榜共0条记录
+2019-08-05 07:00:01 刷新玛法内功榜共0条记录
+2019-08-05 07:00:01 刷新刺客榜共0条记录
+2019-08-05 07:00:01 刷新战士英雄榜共11条记录
+2019-08-05 07:00:02 刷新法师英雄榜共11条记录
+2019-08-05 07:00:02 刷新道士英雄榜共31条记录
+2019-08-05 07:00:02 刷新英雄总排行榜共53条记录
+2019-08-05 07:00:02 刷新排行榜结束，共 46 页
+2019-08-05 07:00:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:02:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:03:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:08:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:14:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:15:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:20:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:21:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:21:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:25:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:31:02 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:31:34 中断一个非法的 GameServer 连接，IP = 198.108.67.48
+2019-08-05 07:31:34 与M2Server通信错误：ErrorCode=10061
+2019-08-05 07:31:35 中断一个非法的 GameServer 连接，IP = 198.108.67.48
+2019-08-05 07:31:35 与M2Server通信错误：ErrorCode=10061
+2019-08-05 07:31:35 中断一个非法的 GameServer 连接，IP = 198.108.67.48
+2019-08-05 07:31:35 与M2Server通信错误：ErrorCode=10061
+2019-08-05 07:41:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:47:21 GameServer 1 已连接.
+2019-08-05 07:48:12 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:48:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:48:56 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:50:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:52:47 GameServer 1 已连接.
+2019-08-05 07:53:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:53:30 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:53:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:54:27 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:54:43 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:56:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:58:19 GameServer 1 已连接.
+2019-08-05 07:58:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:59:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:59:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 07:59:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:00:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:00:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:01:11 GameServer 1 已连接.
+2019-08-05 08:01:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:01:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:01:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:01:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:01:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:04:15 GameServer 1 已连接.
+2019-08-05 08:04:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:04:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:05:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:05:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:06:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:07:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:13:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:18:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:20:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:22:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:26:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:29:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:38:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:42:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:47:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:51:23 GameServer 1 已连接.
+2019-08-05 08:52:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:52:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:52:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:52:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:53:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:53:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:54:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:54:57 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:55:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:57:19 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:57:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:58:03 GameServer 1 已连接.
+2019-08-05 08:58:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:58:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:58:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 08:59:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:00:10 GameServer 1 已连接.
+2019-08-05 09:00:39 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:00:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:01:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:03:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:03:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:03:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:04:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:04:44 GameServer 1 已连接.
+2019-08-05 09:05:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:05:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:07:35 GameServer 1 已连接.
+2019-08-05 09:08:19 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:08:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:08:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:10:07 GameServer 1 已连接.
+2019-08-05 09:10:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:10:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:11:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:11:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:11:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:12:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:13:06 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:13:37 GameServer 1 已连接.
+2019-08-05 09:14:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:14:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:16:29 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:16:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:17:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:18:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:19:40 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:20:06 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:21:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:25:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:26:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:29:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:30:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:30:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:34:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:41:10 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:42:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:45:30 GameServer 1 已连接.
+2019-08-05 09:46:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:46:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:46:56 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:47:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:47:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:48:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:49:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:49:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:50:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:51:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:51:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 09:52:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:00:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:04:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:07:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:08:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:09:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:10:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:11:46 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:14:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:22:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:22:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:23:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:23:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:24:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:24:43 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:25:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:25:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:26:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:28:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:29:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:32:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:35:26 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:38:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:41:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:44:43 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:45:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:48:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:57:21 UnKnown Cmd of TYPE_A:344
+2019-08-05 10:58:39 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:08:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:21:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:24:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:28:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:31:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:39:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:42:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:43:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:43:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:44:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:45:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:46:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:46:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:47:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:57:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 11:58:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:00:02 [BackupSave]: -= 本地备份 =-
+2019-08-05 12:06:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:07:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:07:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:12:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:13:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:29:19 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:29:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:31:05 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:32:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:33:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:35:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:38:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:42:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:45:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:47:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:47:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:49:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:55:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:58:46 GameServer 1 已连接.
+2019-08-05 12:59:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:19 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:25 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 12:59:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:00:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:01:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:02:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:02:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:04:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:04:57 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:06:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:09:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:11:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:12:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:14:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:15:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:15:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:17:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:18:12 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:18:40 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:22:40 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:30:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:34:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:38:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:47:43 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:50:30 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:52:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 13:55:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:03:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:11:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:12:29 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:14:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:15:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:19:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:21:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:22:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:22:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:23:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:24:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:25:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:26:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:27:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:27:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:31:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:32:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:32:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:33:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:35:21 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:42:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 14:55:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:02:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:03:56 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:07:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:08:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:22:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:27:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:29:25 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:30:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:31:45 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:38:02 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:42:56 [Exception]: ProcThreadMessage - 10013  Access violation at address 3332333D. Write of address 3332333D
+2019-08-05 15:43:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:48:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:50:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 15:59:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:07:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:10:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:11:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:31:52 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 654C2028
+2019-08-05 16:36:12 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:36:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:36:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:37:25 UnKnown Cmd of TYPE_A:344
+2019-08-05 16:52:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:02:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:06:00 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:07:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:14:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:18:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:23:40 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:24:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:26:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:26:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:27:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:29:30 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:36:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:42:31 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:47:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:47:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:50:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:50:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 17:56:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:00:03 [BackupSave]: -= 本地备份 =-
+2019-08-05 18:01:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:02:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:13:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:19:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:20:05 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:22:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:23:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:26:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:01 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:02 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:03 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:04 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:05 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:06 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:07 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:08 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:09 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:10 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:11 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:12 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:13 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:14 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:14 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:14 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:15 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:15 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:15 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:16 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:16 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:16 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:17 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:17 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:17 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:17 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:18 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:18 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:18 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:18 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:19 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:19 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:19 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:19 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:20 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:20 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:21 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:21 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:21 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:21 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:22 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:22 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:22 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:22 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:23 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:23 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:23 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-05 18:26:23 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:23 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:24 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:24 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:24 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:24 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:25 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:25 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:25 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:25 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:26 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:26 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:26 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:26 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:27 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:27 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:27 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:27 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:28 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:28 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:28 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:28 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:29 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:29 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:29 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:29 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:30 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:30 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:30 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:31 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:31 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:31 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:32 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:32 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:32 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:33 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:33 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:33 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:34 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:34 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:34 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:35 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:35 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:35 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:35 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:35 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-05 18:26:36 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:36 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:37 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:37 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:26:38 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:38 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=141 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-05 18:26:39 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:39 [PlayerSave]: Update user_index Set PTID="pt091f5c07eb18e63805", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=285167735, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=141;
+2019-08-05 18:26:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-05 18:26:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=74951919, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-05 18:27:16 GameServer 1 已连接.
+2019-08-05 18:27:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:27:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:29:16 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:29:19 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:30:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:32:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:33:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:33:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:38:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:38:46 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:39:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:40:06 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:41:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:44:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:47:15 中断一个非法的 GameServer 连接，IP = 122.228.19.80
+2019-08-05 18:47:15 与M2Server通信错误：ErrorCode=10061
+2019-08-05 18:47:15 中断一个非法的 GameServer 连接，IP = 122.228.19.80
+2019-08-05 18:47:15 与M2Server通信错误：ErrorCode=10061
+2019-08-05 18:51:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:52:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:52:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:53:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:54:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:54:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:55:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:56:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:57:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 18:59:09 中断一个非法的 GameServer 连接，IP = 62.4.14.206
+2019-08-05 18:59:09 与M2Server通信错误：ErrorCode=10061
+2019-08-05 19:04:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:06:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:07:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:24:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:25:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:34:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:35:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:38:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:39:39 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:41:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:42:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:44:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:45:25 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:48:38 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:52:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:52:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:53:05 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:54:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:59:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 19:59:09 清除重复物品：HeroName=神兽 ItemIdx=1049, ItemID=1921368592
+2019-08-05 20:08:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:09:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:10:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:11:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:12:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:13:10 [Exception]: ProcThreadMessage - 10013  Access violation at address 3632313D. Write of address 3632313D
+2019-08-05 20:13:15 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:15:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:16:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:27:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:40:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:44:21 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:48:25 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:51:12 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:52:33 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:56:39 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:57:41 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:58:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 20:59:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:00:21 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:02:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:03:17 中断一个非法的 GameServer 连接，IP = 60.191.38.78
+2019-08-05 21:03:17 与M2Server通信错误：ErrorCode=10061
+2019-08-05 21:03:17 中断一个非法的 GameServer 连接，IP = 60.191.38.78
+2019-08-05 21:03:17 与M2Server通信错误：ErrorCode=10061
+2019-08-05 21:04:05 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:06:37 清除重复物品：HeroName=神兽 ItemIdx=193, ItemID=1911237631
+2019-08-05 21:06:37 清除重复物品：HeroName=神兽 ItemIdx=193, ItemID=1911237637
+2019-08-05 21:06:37 清除重复物品：HeroName=神兽 ItemIdx=193, ItemID=1911237640
+2019-08-05 21:06:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:07:14 [Exception]: ProcThreadMessage - 10013  Access violation at address 3231313D. Write of address 3231313D
+2019-08-05 21:07:26 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:09:40 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 654C2028
+2019-08-05 21:10:10 GameServer 1 已连接.
+2019-08-05 21:10:46 [Exception]: ProcThreadMessage - 10013  Access violation at address 3232313D. Write of address 3232313D
+2019-08-05 21:10:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:10:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:11:03 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:11:12 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:11:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:12:28 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:13:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:13:35 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:16:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:20:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:21:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:24:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:25:18 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 654C2028
+2019-08-05 21:26:01 [Exception]: ProcThreadMessage - 10013  Access violation at address 3435333D. Write of address 3435333D
+2019-08-05 21:26:06 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:27:12 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 654C2028
+2019-08-05 21:27:49 [Exception]: ProcThreadMessage - 10013  Access violation at address 3235333D. Write of address 3235333D
+2019-08-05 21:27:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:28:16 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 654C2028
+2019-08-05 21:28:30 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:28:37 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:30:27 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:33:40 与M2Server通信错误：ErrorCode=10054
+2019-08-05 21:33:53 GameServer 1 已连接.
+2019-08-05 21:34:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:34:43 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:34:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:34:49 [Exception]: ProcThreadMessage - 10013  Access violation at address 3235333D. Write of address 3235333D
+2019-08-05 21:34:49 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:35:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:35:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:36:17 GameServer 1 已连接.
+2019-08-05 21:36:50 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:36:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:36:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:38:57 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:38:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:39:00 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:40:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:41:54 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:44:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:46:04 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:47:00 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:47:52 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:53:09 UnKnown Cmd of TYPE_A:344
+2019-08-05 21:58:29 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:01:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:02:34 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:03:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:04:02 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:11:46 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:15:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:16:18 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:16:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:19:14 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:24:17 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:36:32 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:38:11 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:44:20 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:45:24 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:47:18 中断一个非法的 GameServer 连接，IP = 92.63.194.15
+2019-08-05 22:47:18 与M2Server通信错误：ErrorCode=10061
+2019-08-05 22:50:05 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:50:47 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:51:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:52:07 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:52:23 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:55:22 UnKnown Cmd of TYPE_A:344
+2019-08-05 22:55:27 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:01:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:02:01 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:09:53 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:11:36 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:14:51 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:23:13 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:36:10 与 LoginGate 连接断开
+2019-08-05 23:36:15 GameGate 1 断开.
+2019-08-05 23:36:17 ============= DBService Stop =============
+2019-08-05 23:38:49 ============= DBService Start =============
+2019-08-05 23:38:49 检查基础信息表的更新... 
+2019-08-05 23:38:49 删除等级小于8级的小号...
+2019-08-05 23:38:49 共删除 0 个小号
+2019-08-05 23:38:49 清除行会无效角色... 
+2019-08-05 23:38:49 检查基础信息表... 
+2019-08-05 23:38:49 设置MySQL访问权限... 
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:110
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:113
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:120
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:125
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:151
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:160
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:210
+2019-08-05 23:38:49 读取 humanmagic Idx不连续:230
+2019-08-05 23:38:49 读取 humanmagic 表成功，记录数:96
+2019-08-05 23:38:49 读取 heromagic Idx不连续:112
+2019-08-05 23:38:49 读取 heromagic Idx不连续:114
+2019-08-05 23:38:49 读取 heromagic Idx不连续:129
+2019-08-05 23:38:49 读取 heromagic Idx不连续:210
+2019-08-05 23:38:49 读取 heromagic Idx不连续:230
+2019-08-05 23:38:49 读取 heromagic 表成功，记录数:80
+2019-08-05 23:38:49 读取 monster 表成功，记录数:1165
+2019-08-05 23:38:50 读取 stditems 成功，记录数:1882
+2019-08-05 23:38:50 读取 AntiqueItems 成功，记录数:293
+2019-08-05 23:38:50 读取 fieldhero 表成功，记录数:129
+2019-08-05 23:38:50 读取 superForce 成功，记录数:100
+2019-08-05 23:38:50 读取 superSkill 成功，记录数:23
+2019-08-05 23:38:50 读取 ForceMagic 表成功，记录数:47
+2019-08-05 23:38:50 重复的地图文件配置 EM300
+2019-08-05 23:38:50 重复的地图文件配置 B010~10
+2019-08-05 23:38:50 重复的地图文件配置 Q002
+2019-08-05 23:38:50 正在删除废弃角色数据
+2019-08-05 23:38:50 已成功删除角色数据, 共0条
+2019-08-05 23:38:50 正在删除没有主号的英雄数据
+2019-08-05 23:38:50 已成功删除英雄数据,共0条
+2019-08-05 23:38:50 载入 IpAddress.txt 成功
+2019-08-05 23:38:50 最大人数限制 = 20000
+2019-08-05 23:38:51 载入 !AbUse.Txt 成功
+2019-08-05 23:38:51 设置当前语言为 中文（中国）
+2019-08-05 23:38:51 载入 125/125
+2019-08-05 23:38:51 共载入玩家帐号 53，角色 125
+2019-08-05 23:38:51 共载入帐号仓库 0/0
+2019-08-05 23:38:51 [加载]：添加出生点 map: 0 x: 289 y: 618 range: 5
+2019-08-05 23:38:51 [加载]：添加出生点 map: 0 x: 650 y: 631 range: 5
+2019-08-05 23:38:51 刷新排行榜开始...
+2019-08-05 23:38:51 刷新战神榜共69条记录
+2019-08-05 23:38:51 载入 59/59
+2019-08-05 23:38:51 共载入有英雄的角色 59，英雄 59
+2019-08-05 23:38:51 共载入宠物 0
+2019-08-05 23:38:51 MySQL宗派信息记录数: 0
+2019-08-05 23:38:51 载入 !AbUseName.Txt 成功
+2019-08-05 23:38:51 [BackupSave]: 重新连接 MySQL.
+2019-08-05 23:38:51 刷新法神榜共32条记录
+2019-08-05 23:38:51 刷新道尊榜共21条记录
+2019-08-05 23:38:51 刷新玛法群英榜共100条记录
+2019-08-05 23:38:51 刷新名师榜共0条记录
+2019-08-05 23:38:52 刷新战斗力排行榜共0条记录
+2019-08-05 23:38:52 刷新玛法内功榜共0条记录
+2019-08-05 23:38:52 刷新刺客榜共0条记录
+2019-08-05 23:38:52 刷新战士英雄榜共14条记录
+2019-08-05 23:38:52 刷新法师英雄榜共12条记录
+2019-08-05 23:38:53 刷新道士英雄榜共33条记录
+2019-08-05 23:38:53 刷新英雄总排行榜共59条记录
+2019-08-05 23:38:53 刷新排行榜结束，共 51 页
+2019-08-05 23:39:00 尝试连接 LoginGate 49.234.26.20
+2019-08-05 23:39:03 GameServer 1 已连接.
+2019-08-05 23:39:15 GameGate 49.234.26.20 已连接.
+2019-08-05 23:39:15 GameGate 1 开启
+2019-08-05 23:39:15 Send GameServer Configure to GameGate 1
+2019-08-05 23:39:15 Send MagicDB Configure to GameGate 1
+2019-08-05 23:39:15 Send !AbUse.txt Configure to GameGate 1
+2019-08-05 23:39:20 尝试连接 LoginGate 49.234.26.20
+2019-08-05 23:39:40 尝试连接 LoginGate 49.234.26.20
+2019-08-05 23:39:40 与 LoginGate 连接成功
+2019-08-05 23:40:42 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:40:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:41:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:41:08 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:41:55 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:44:59 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:45:44 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:45:58 清除重复物品：HeroName=无极 ItemIdx=668, ItemID=1945145320
+2019-08-05 23:47:58 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:48:48 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:54:00 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:58:57 UnKnown Cmd of TYPE_A:344
+2019-08-05 23:59:27 UnKnown Cmd of TYPE_A:344

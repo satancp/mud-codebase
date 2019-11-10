@@ -1,0 +1,87 @@
+[Server]
+ServerIndex=0
+ServerName=1.80复古
+testserver=False
+;超级GM密码
+GMSuperCode=www.gowlom2.com
+DBAddr=192.168.50.29
+DBPort=6000
+
+HumLimit=30
+MonLimit=30
+ZenLimit=5
+NpcLimit=5
+SocLimit=30
+DecLimit=10
+UserFull=500
+ZenFastStep=300
+SendBlock=1000
+CheckBlock=8000
+AvailableBlock=50
+GateLoad=0
+
+LogServerAddr=192.168.50.29
+LogServerPort=10000
+;apply discount for night time.  
+;0: false  1: true
+DiscountForNightTime=0
+HalfFeeStart=2
+HalfFeeEnd=10
+
+[Share]
+BaseDir=d:\Mud2.0\Mir200\Share\
+GuildDir=d:\Mud2.0\Mir200\GuildBase\Guilds\
+GuildFile=d:\Mud2.0\Mir200\GuildBase\Guildlist.txt
+VentureDir=d:\Mud2.0\Mir200\ShareV\
+ConLogDir=d:\Mud2.0\Mir200\ShareL\DragonServer\
+CastleDir=d:\Mud2.0\Mir200\Envir\Castle\
+EnvirDir=d:\Mud2.0\Mir200\Envir\
+MapDir=d:\Mud2.0\Mir200\Map\
+
+[Setup]
+ItemNumber=27530056
+HomeMap=0
+HomeX=291
+HomeY=614
+
+ClientFile1 =mir.dat
+ClientFile2 =
+ClientFile3 =
+WLLinFuNum=3651442
+WLLinFuNum_New=79797,11191,26760,43008,72849,98582,74435,55673,75931,89008,83959,17047,0,0,0,0
+PKAddPoint=100
+;开区日期
+OpenDay=2019-09-10
+GS_Task_Version = 10001
+
+[Names]
+;ClothsMan='龙骨甲(男)'
+;ClothsWoman='龙骨甲(女)'
+;WoodenSword='龙骨刀'
+;Candle='蜡烛'
+BasicDrug='金创药(小量)'
+BasicItemMan='龙骨甲(男)'
+BasicItemWoman='龙骨甲(女)'
+;新手出生背包赠送的物品
+BasicItem='龙骨刀|3级礼盒|蜡烛|布衣|50灵符礼包'
+
+GoldStone='金矿'
+SilverStone='银矿'
+SteelStone='铁矿'
+CopperStone='铜矿'
+BlackStone='黑铁矿石'
+
+Zuma1='祖玛卫士'
+Zuma2='祖玛雕像'
+Zuma3='祖玛弓箭手'
+Zuma4='楔蛾'
+
+Bee='蝙蝠'
+Spider='爆裂蜘蛛'
+
+WomaHorn='沃玛号角'
+ZumaPiece='祖玛头像'
+[Authenticate]
+;opened的参数0为关闭信用分验证，1为开启信用分验证。当opened=0 AuthStartDay=1 时代表1天后开启信用分验证。
+opened=1
+AuthStartDay=1

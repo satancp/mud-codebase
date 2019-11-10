@@ -1,0 +1,1425 @@
+[
+    {
+        "id": 10001,
+        "name": "森林雪人",
+        "race": 10,
+        "appr": 1,
+        "img": "mon1",
+        "imgIdx": 280,
+        "canMove": true
+    },
+    {
+        "id": 11160,
+        "name": "鸡",
+        "race": 11,
+        "appr": 160,
+        "img": "mon17",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 11161,
+        "name": "鹿",
+        "race": 11,
+        "appr": 161,
+        "img": "mon17",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 12000,
+        "name": "卫士",
+        "race": 12,
+        "appr": 0,
+        "img": "mon1",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 13010,
+        "name": "食人花",
+        "race": 13,
+        "appr": 10,
+        "img": "mon2",
+        "imgIdx": 0,
+        "canMove": false
+    },
+    {
+        "id": 14020,
+        "name": "骷髅",
+        "race": 14,
+        "appr": 20,
+        "img": "mon3",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 14022,
+        "name": "骷髅战士",
+        "race": 14,
+        "appr": 22,
+        "img": "mon3",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 14023,
+        "name": "骷髅战将",
+        "race": 14,
+        "appr": 23,
+        "img": "mon3",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 14150,
+        "name": "骷髅精灵",
+        "race": 14,
+        "appr": 150,
+        "img": "mon16",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 15021,
+        "name": "掷斧骷髅",
+        "race": 15,
+        "appr": 21,
+        "img": "mon3",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 15037,
+        "name": "变异骷髅0",
+        "race": 15,
+        "appr": 37,
+        "img": "mon4",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 15102,
+        "name": "半兽统领",
+        "race": 15,
+        "appr": 102,
+        "img": "mon11",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 16024,
+        "name": "洞蛆",
+        "race": 16,
+        "appr": 24,
+        "img": "mon3",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 16029,
+        "name": "粪虫",
+        "race": 16,
+        "appr": 29,
+        "img": "mon3",
+        "imgIdx": 3240,
+        "canMove": true
+    },
+    {
+        "id": 17025,
+        "name": "多钩猫",
+        "race": 17,
+        "appr": 25,
+        "img": "mon3",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 17026,
+        "name": "钉耙猫",
+        "race": 17,
+        "appr": 26,
+        "img": "mon3",
+        "imgIdx": 2160,
+        "canMove": true
+    },
+    {
+        "id": 18027,
+        "name": "稻草人",
+        "race": 18,
+        "appr": 27,
+        "img": "mon3",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 19030,
+        "name": "沃玛战士",
+        "race": 19,
+        "appr": 30,
+        "img": "mon4",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19032,
+        "name": "沃玛勇士",
+        "race": 19,
+        "appr": 32,
+        "img": "mon4",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19033,
+        "name": "沃玛战将",
+        "race": 19,
+        "appr": 33,
+        "img": "mon4",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19036,
+        "name": "红蛇",
+        "race": 19,
+        "appr": 36,
+        "img": "mon4",
+        "imgIdx": 2160,
+        "canMove": true
+    },
+    {
+        "id": 19038,
+        "name": "虎蛇",
+        "race": 19,
+        "appr": 38,
+        "img": "mon4",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+    {
+        "id": 19042,
+        "name": "蜜蜂",
+        "race": 19,
+        "appr": 42,
+        "img": "mon5",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19043,
+        "name": "羊",
+        "race": 19,
+        "appr": 43,
+        "img": "mon5",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19044,
+        "name": "猎鹰",
+        "race": 19,
+        "appr": 44,
+        "img": "mon5",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19045,
+        "name": "盔甲虫",
+        "race": 19,
+        "appr": 45,
+        "img": "mon5",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 19046,
+        "name": "大老鼠",
+        "race": 19,
+        "appr": 46,
+        "img": "mon5",
+        "imgIdx": 2160,
+        "canMove": true
+    },
+    {
+        "id": 19048,
+        "name": "威思而小虫",
+        "race": 19,
+        "appr": 48,
+        "img": "mon5",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+    {
+        "id": 19049,
+        "name": "沙虫",
+        "race": 19,
+        "appr": 49,
+        "img": "mon5",
+        "imgIdx": 3240,
+        "canMove": true
+    },
+    {
+        "id": 19070,
+        "name": "狼",
+        "race": 19,
+        "appr": 70,
+        "img": "mon8",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19072,
+        "name": "练功师",
+        "race": 19,
+        "appr": 72,
+        "img": "mon8",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19073,
+        "name": "蜈蚣",
+        "race": 19,
+        "appr": 73,
+        "img": "mon8",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19074,
+        "name": "黑色恶蛆",
+        "race": 19,
+        "appr": 74,
+        "img": "mon8",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19080,
+        "name": "山洞蝙蝠",
+        "race": 19,
+        "appr": 80,
+        "img": "mon9",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19081,
+        "name": "跳跳蜂",
+        "race": 19,
+        "appr": 81,
+        "img": "mon9",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19082,
+        "name": "巨型蠕虫",
+        "race": 19,
+        "appr": 82,
+        "img": "mon9",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19090,
+        "name": "多角虫",
+        "race": 19,
+        "appr": 90,
+        "img": "mon10",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19091,
+        "name": "巨型多角虫",
+        "race": 19,
+        "appr": 91,
+        "img": "mon10",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19100,
+        "name": "半兽人",
+        "race": 19,
+        "appr": 100,
+        "img": "mon11",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19101,
+        "name": "半兽战士",
+        "race": 19,
+        "appr": 101,
+        "img": "mon11",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19102,
+        "name": "半兽勇士",
+        "race": 19,
+        "appr": 102,
+        "img": "mon11",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19110,
+        "name": "红野猪",
+        "race": 19,
+        "appr": 110,
+        "img": "mon12",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19111,
+        "name": "黑野猪",
+        "race": 19,
+        "appr": 111,
+        "img": "mon12",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19112,
+        "name": "白野猪",
+        "race": 19,
+        "appr": 112,
+        "img": "mon12",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19113,
+        "name": "月魔蜘蛛",
+        "race": 19,
+        "appr": 113,
+        "img": "mon12",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19114,
+        "name": "钢牙蜘蛛",
+        "race": 19,
+        "appr": 114,
+        "img": "mon12",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19115,
+        "name": "血巨人",
+        "race": 19,
+        "appr": 115,
+        "img": "mon12",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 19117,
+        "name": "花吻蜘蛛",
+        "race": 19,
+        "appr": 117,
+        "img": "mon12",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 19118,
+        "name": "黑锷蜘蛛",
+        "race": 19,
+        "appr": 118,
+        "img": "mon12",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+    {
+        "id": 19119,
+        "name": "天狼蜘蛛",
+        "race": 19,
+        "appr": 119,
+        "img": "mon12",
+        "imgIdx": 3240,
+        "canMove": true
+    },
+    {
+        "id": 19120,
+        "name": "钳虫",
+        "race": 19,
+        "appr": 120,
+        "img": "mon13",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19121,
+        "name": "邪恶钳虫",
+        "race": 19,
+        "appr": 121,
+        "img": "mon13",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19130,
+        "name": "蝎蛇",
+        "race": 19,
+        "appr": 130,
+        "img": "mon14",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19142,
+        "name": "恶灵僵尸",
+        "race": 19,
+        "appr": 142,
+        "img": "mon15",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19143,
+        "name": "恶灵尸王",
+        "race": 19,
+        "appr": 143,
+        "img": "mon15",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19144,
+        "name": "骷髅锤兵",
+        "race": 19,
+        "appr": 144,
+        "img": "mon15",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19145,
+        "name": "骷髅长枪兵",
+        "race": 19,
+        "appr": 145,
+        "img": "mon15",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 19146,
+        "name": "骷髅刀斧手",
+        "race": 19,
+        "appr": 146,
+        "img": "mon15",
+        "imgIdx": 2160,
+        "canMove": true
+    },
+    {
+        "id": 19148,
+        "name": "黄泉教主",
+        "race": 19,
+        "appr": 148,
+        "img": "mon15",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+    {
+        "id": 19150,
+        "name": "暗之骷髅精灵",
+        "race": 19,
+        "appr": 150,
+        "img": "mon16",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19151,
+        "name": "沃玛卫士",
+        "race": 19,
+        "appr": 151,
+        "img": "mon16",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19152,
+        "name": "尸王",
+        "race": 19,
+        "appr": 152,
+        "img": "mon16",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19162,
+        "name": "蛤蟆",
+        "race": 19,
+        "appr": 162,
+        "img": "mon17",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19163,
+        "name": "毒蜘蛛",
+        "race": 19,
+        "appr": 163,
+        "img": "mon17",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19164,
+        "name": "邪恶毒蛇",
+        "race": 19,
+        "appr": 164,
+        "img": "mon17",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19166,
+        "name": "宝箱",
+        "race": 19,
+        "appr": 166,
+        "img": "mon17",
+        "imgIdx": 2160,
+        "canMove": true
+    },
+    {
+        "id": 19181,
+        "name": "虹魔猪卫",
+        "race": 19,
+        "appr": 181,
+        "img": "mon19",
+        "imgIdx": 520,
+        "canMove": true
+    },
+    {
+        "id": 19182,
+        "name": "虹魔教主0",
+        "race": 19,
+        "appr": 182,
+        "img": "mon19",
+        "imgIdx": 950,
+        "canMove": true
+    },
+    {
+        "id": 19183,
+        "name": "魔龙血蛙",
+        "race": 19,
+        "appr": 183,
+        "img": "mon19",
+        "imgIdx": 1574,
+        "canMove": true
+    },
+    {
+        "id": 19185,
+        "name": "魔龙邪眼2",
+        "race": 19,
+        "appr": 185,
+        "img": "mon19",
+        "imgIdx": 2294,
+        "canMove": true
+    },
+    {
+        "id": 19186,
+        "name": "魔龙刺蛙1",
+        "race": 19,
+        "appr": 186,
+        "img": "mon19",
+        "imgIdx": 2654,
+        "canMove": true
+    },
+    {
+        "id": 19187,
+        "name": "魔龙刺蛙2",
+        "race": 19,
+        "appr": 187,
+        "img": "mon19",
+        "imgIdx": 3014,
+        "canMove": true
+    },
+    {
+        "id": 19190,
+        "name": "恶灵僵尸0812",
+        "race": 19,
+        "appr": 190,
+        "img": "mon20",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19192,
+        "name": "骷髅锤兵0812",
+        "race": 19,
+        "appr": 192,
+        "img": "mon20",
+        "imgIdx": 810,
+        "canMove": true
+    },
+    {
+        "id": 19193,
+        "name": "骷髅长枪兵0812",
+        "race": 19,
+        "appr": 193,
+        "img": "mon20",
+        "imgIdx": 1250,
+        "canMove": true
+    },
+    {
+        "id": 19200,
+        "name": "牛头魔",
+        "race": 19,
+        "appr": 200,
+        "img": "mon21",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19201,
+        "name": "牛魔战士",
+        "race": 19,
+        "appr": 201,
+        "img": "mon21",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 19202,
+        "name": "牛魔斗士",
+        "race": 19,
+        "appr": 202,
+        "img": "mon21",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 19203,
+        "name": "牛魔侍卫",
+        "race": 19,
+        "appr": 203,
+        "img": "mon21",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 19204,
+        "name": "牛魔将军",
+        "race": 19,
+        "appr": 204,
+        "img": "mon21",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 19207,
+        "name": "牛魔王",
+        "race": 19,
+        "appr": 207,
+        "img": "mon21",
+        "imgIdx": 3060,
+        "canMove": true
+    },
+    {
+        "id": 19210,
+        "name": "魔龙巨蛾",
+        "race": 19,
+        "appr": 210,
+        "img": "mon22",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 19211,
+        "name": "魔龙力士0",
+        "race": 19,
+        "appr": 211,
+        "img": "mon22",
+        "imgIdx": 460,
+        "canMove": true
+    },
+    {
+        "id": 19212,
+        "name": "魔龙战将0",
+        "race": 19,
+        "appr": 212,
+        "img": "mon22",
+        "imgIdx": 820,
+        "canMove": true
+    },
+    {
+        "id": 19213,
+        "name": "魔龙刀兵",
+        "race": 19,
+        "appr": 213,
+        "img": "mon22",
+        "imgIdx": 1180,
+        "canMove": true
+    },
+    {
+        "id": 19214,
+        "name": "魔龙破甲兵",
+        "race": 19,
+        "appr": 214,
+        "img": "mon22",
+        "imgIdx": 1540,
+        "canMove": true
+    },
+    {
+        "id": 19230,
+        "name": "珍宝绿魔蜘蛛",
+        "race": 19,
+        "appr": 230,
+        "img": "mon24",
+        "imgIdx": 680,
+        "canMove": true
+    },
+	{
+        "id": 19231,
+        "name": "雷炎蛛王",
+        "race": 19,
+        "appr": 231,
+        "img": "mon24",
+        "imgIdx": 3290,
+        "canMove": true
+    },
+	{
+        "id": 19232,
+        "name": "巨镰蜘蛛",
+        "race": 19,
+        "appr": 232,
+        "img": "mon24",
+        "imgIdx": 0,
+        "canMove": true
+    },
+	{
+        "id": 19233,
+        "name": "金杖蜘蛛",
+        "race": 19,
+        "appr": 233,
+        "img": "mon24",
+        "imgIdx": 340,
+        "canMove": true
+    },
+	{
+        "id": 19234,
+        "name": "火龙蛤蟆",
+        "race": 19,
+        "appr": 234,
+        "img": "mon24",
+        "imgIdx": 4810,
+        "canMove": true
+    },
+	{
+        "id": 19235,
+        "name": "蓝背蜘蛛",
+        "race": 19,
+        "appr": 235,
+        "img": "mon24",
+        "imgIdx": 3750,
+        "canMove": true
+    },
+	{
+        "id": 19236,
+        "name": "冰异狼蛛",
+        "race": 19,
+        "appr": 236,
+        "img": "mon24",
+        "imgIdx": 680,
+        "canMove": true
+    },
+	{
+        "id": 19237,
+        "name": "黑牙蜘蛛",
+        "race": 19,
+        "appr": 237,
+        "img": "mon24",
+        "imgIdx": 2950,
+        "canMove": true
+    },
+	{
+        "id": 19238,
+        "name": "铁翼巨蛾",
+        "race": 19,
+        "appr": 238,
+        "img": "mon24",
+        "imgIdx": 2610,
+        "canMove": true
+    },
+	{
+        "id": 19239,
+        "name": "剧毒骷髅",
+        "race": 19,
+        "appr": 239,
+        "img": "mon24",
+        "imgIdx": 4460,
+        "canMove": true
+    },
+	{
+        "id": 19240,
+        "name": "火焰蛇王",
+        "race": 19,
+        "appr": 240,
+        "img": "mon24",
+        "imgIdx": 1180,
+        "canMove": true
+    },
+	{
+        "id": 19241,
+        "name": "圣殿卫士",
+        "race": 19,
+        "appr": 241,
+        "img": "mon24",
+        "imgIdx": 1770,
+        "canMove": true
+    },
+	{
+        "id": 19242,
+        "name": "火蜥蜴",
+        "race": 19,
+        "appr": 242,
+        "img": "mon23",
+        "imgIdx": 0,
+        "canMove": true
+    },
+	{
+        "id": 19243,
+        "name": "白虎",
+        "race": 19,
+        "appr": 243,
+        "img": "mon23",
+        "imgIdx": 1290,
+        "canMove": true
+    },
+	{
+        "id": 19244,
+        "name": "恶魔蜘蛛",
+        "race": 19,
+        "appr": 244,
+        "img": "mon23",
+        "imgIdx": 1810,
+        "canMove": true
+    },
+    {
+        "id": 20031,
+        "name": "火焰沃玛",
+        "race": 20,
+        "appr": 31,
+        "img": "mon4",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 21034,
+        "name": "沃玛教主",
+        "race": 21,
+        "appr": 34,
+        "img": "mon4",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 21092,
+        "name": "双头血魔",
+        "race": 21,
+        "appr": 92,
+        "img": "mon10",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 21212,
+        "name": "魔龙战将",
+        "race": 21,
+        "appr": 212,
+        "img": "mon22",
+        "imgIdx": 820,
+        "canMove": true
+    },
+    {
+        "id": 21219,
+        "name": "暗之魔龙教主",
+        "race": 21,
+        "appr": 219,
+        "img": "mon22",
+        "imgIdx": 2700,
+        "canMove": true
+    },
+    {
+        "id": 22028,
+        "name": "暗黑战士",
+        "race": 22,
+        "appr": 28,
+        "img": "mon3",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+    {
+        "id": 22114,
+        "name": "暴牙蜘蛛",
+        "race": 22,
+        "appr": 114,
+        "img": "mon12",
+        "imgIdx": 1440,
+        "canMove": true
+    },
+    {
+        "id": 23037,
+        "name": "变异骷髅",
+        "race": 23,
+        "appr": 37,
+        "img": "mon4",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 24002,
+        "name": "带刀护卫",
+        "race": 24,
+        "appr": 2,
+        "img": "mon1",
+        "imgIdx": 560,
+        "canMove": true
+    },
+    {
+        "id": 31042,
+        "name": "蝙蝠",
+        "race": 31,
+        "appr": 42,
+        "img": "mon5",
+        "imgIdx": 720,
+        "canMove": true
+    },
+    {
+        "id": 32083,
+        "name": "蝎子",
+        "race": 32,
+        "appr": 83,
+        "img": "mon9",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 33140,
+        "name": "触龙神",
+        "race": 33,
+        "appr": 140,
+        "img": "mon15",
+        "imgIdx": 0,
+        "canMove": false
+    },
+    {
+        "id": 34131,
+        "name": "赤月恶魔",
+        "race": 34,
+        "appr": 131,
+        "img": "mon14",
+        "imgIdx": 360,
+        "canMove": false
+    },
+    {
+        "id": 34141,
+        "name": "千年树妖",
+        "race": 34,
+        "appr": 141,
+        "img": "mon15",
+        "imgIdx": 360,
+        "canMove": false
+    },
+    {
+        "id": 35132,
+        "name": "幻影蜘蛛",
+        "race": 35,
+        "appr": 132,
+        "img": "mon14",
+        "imgIdx": 440,
+        "canMove": false
+    },
+    {
+        "id": 36133,
+        "name": "爆裂蜘蛛",
+        "race": 36,
+        "appr": 133,
+        "img": "mon14",
+        "imgIdx": 550,
+        "canMove": true
+    },
+    {
+        "id": 37182,
+        "name": "虹魔教主",
+        "race": 37,
+        "appr": 182,
+        "img": "mon19",
+        "imgIdx": 950,
+        "canMove": true
+    },
+    {
+        "id": 40040,
+        "name": "僵尸1",
+        "race": 40,
+        "appr": 40,
+        "img": "mon5",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 40205,
+        "name": "牛魔法师",
+        "race": 40,
+        "appr": 205,
+        "img": "mon21",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 41050,
+        "name": "僵尸2",
+        "race": 41,
+        "appr": 50,
+        "img": "mon6",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 41184,
+        "name": "魔龙邪眼1",
+        "race": 41,
+        "appr": 184,
+        "img": "mon19",
+        "imgIdx": 1934,
+        "canMove": true
+    },
+    {
+        "id": 42051,
+        "name": "僵尸3",
+        "race": 42,
+        "appr": 51,
+        "img": "mon6",
+        "imgIdx": 430,
+        "canMove": true
+    },
+    {
+        "id": 42052,
+        "name": "僵尸4",
+        "race": 42,
+        "appr": 52,
+        "img": "mon6",
+        "imgIdx": 860,
+        "canMove": true
+    },
+    {
+        "id": 42053,
+        "name": "僵尸5",
+        "race": 42,
+        "appr": 53,
+        "img": "mon6",
+        "imgIdx": 1290,
+        "canMove": true
+    },
+    {
+        "id": 42115,
+        "name": "血僵尸",
+        "race": 42,
+        "appr": 115,
+        "img": "mon12",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 43041,
+        "name": "角蝇",
+        "race": 43,
+        "appr": 41,
+        "img": "mon5",
+        "imgIdx": 600,
+        "canMove": false
+    },
+    {
+        "id": 45002,
+        "name": "带刀护卫1",
+        "race": 45,
+        "appr": 2,
+        "img": "mon1",
+        "imgIdx": 560,
+        "canMove": true
+    },
+    {
+        "id": 45047,
+        "name": "祖玛弓箭手",
+        "race": 45,
+        "appr": 47,
+        "img": "mon5",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 45071,
+        "name": "弓箭手",
+        "race": 45,
+        "appr": 71,
+        "img": "mon8",
+        "imgIdx": 360,
+        "canMove": true
+    },
+    {
+        "id": 45147,
+        "name": "骷髅弓箭手",
+        "race": 45,
+        "appr": 147,
+        "img": "mon15",
+        "imgIdx": 2520,
+        "canMove": true
+    },
+    {
+        "id": 45215,
+        "name": "魔龙射手",
+        "race": 45,
+        "appr": 215,
+        "img": "mon22",
+        "imgIdx": 1900,
+        "canMove": true
+    },
+    {
+        "id": 47061,
+        "name": "祖玛雕像",
+        "race": 47,
+        "appr": 61,
+        "img": "mon7",
+        "imgIdx": 440,
+        "canMove": true
+    },
+    {
+        "id": 47062,
+        "name": "祖玛卫士",
+        "race": 47,
+        "appr": 62,
+        "img": "mon7",
+        "imgIdx": 880,
+        "canMove": true
+    },
+    {
+        "id": 49063,
+        "name": "祖玛教主9",
+        "race": 49,
+        "appr": 63,
+        "img": "mon7",
+        "imgIdx": 1320,
+        "canMove": true
+    },
+    {
+        "id": 52039,
+        "name": "楔蛾",
+        "race": 52,
+        "appr": 39,
+        "img": "mon4",
+        "imgIdx": 3240,
+        "canMove": true
+    },
+    {
+        "id": 52093,
+        "name": "双头金刚",
+        "race": 52,
+        "appr": 93,
+        "img": "mon10",
+        "imgIdx": 1080,
+        "canMove": true
+    },
+    {
+        "id": 52211,
+        "name": "魔龙力士",
+        "race": 52,
+        "appr": 211,
+        "img": "mon22",
+        "imgIdx": 460,
+        "canMove": true
+    },
+    {
+        "id": 53180,
+        "name": "虹魔蝎卫",
+        "race": 53,
+        "appr": 180,
+        "img": "mon19",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 53206,
+        "name": "牛魔祭司",
+        "race": 53,
+        "appr": 206,
+        "img": "mon21",
+        "imgIdx": 2350,
+        "canMove": true
+    },
+    {
+        "id": 54170,
+        "name": "神兽",
+        "race": 54,
+        "appr": 170,
+        "img": "mon18",
+        "imgIdx": 0,
+        "canMove": true
+    },
+    {
+        "id": 55171,
+        "name": "神兽1",
+        "race": 55,
+        "appr": 171,
+        "img": "mon18",
+        "imgIdx": 350,
+        "canMove": true
+    },
+    {
+        "id": 56172,
+        "name": "月灵",
+        "race": 56,
+        "appr": 172,
+        "img": "mon18",
+        "imgIdx": 1260,
+        "canMove": true
+    },
+    {
+        "id": 61181,
+        "name": "散财猪",
+        "race": 61,
+        "appr": 181,
+        "img": "mon19",
+        "imgIdx": 520,
+        "canMove": true
+    },
+    {
+        "id": 62182,
+        "name": "珍宝虹魔教主",
+        "race": 62,
+        "appr": 182,
+        "img": "mon19",
+        "imgIdx": 950,
+        "canMove": true
+    },
+    {
+        "id": 70205,
+        "name": "混沌牛魔法师",
+        "race": 70,
+        "appr": 205,
+        "img": "mon21",
+        "imgIdx": 1800,
+        "canMove": true
+    },
+    {
+        "id": 71206,
+        "name": "天之牛魔祭司",
+        "race": 71,
+        "appr": 206,
+        "img": "mon21",
+        "imgIdx": 2350,
+        "canMove": true
+    },
+    {
+        "id": 72207,
+        "name": "地藏魔王",
+        "race": 72,
+        "appr": 207,
+        "img": "mon21",
+        "imgIdx": 3060,
+        "canMove": true
+    },
+    {
+        "id": 78219,
+        "name": "魔龙教主",
+        "race": 78,
+        "appr": 219,
+        "img": "mon22",
+        "imgIdx": 2700,
+        "canMove": true
+    },
+    {
+        "id": 98901,
+        "name": "SabukW1",
+        "race": 98,
+        "appr": 901,
+        "img": "effect",
+        "imgIdx": 168,
+        "canMove": false
+    },
+    {
+        "id": 98902,
+        "name": "SabukW2",
+        "race": 98,
+        "appr": 902,
+        "img": "effect",
+        "imgIdx": 184,
+        "canMove": false
+    },
+    {
+        "id": 98903,
+        "name": "SabukW3",
+        "race": 98,
+        "appr": 903,
+        "img": "effect",
+        "imgIdx": 200,
+        "canMove": false
+    },
+    {
+        "id": 99900,
+        "name": "SabukDoor",
+        "race": 99,
+        "appr": 900,
+        "img": "effect",
+        "imgIdx": 80,
+        "canMove": false,
+        "blend": true
+    },
+    {
+        "id": 200142,
+        "name": "灵兽皮卷",
+        "race": 200,
+        "appr": 142,
+        "img": "mon28",
+        "imgIdx": 1130,
+        "canMove": true
+    },
+     {
+        "id": 87298,
+        "name": "火龙1",
+        "race": 55,
+        "appr": 298,
+        "img": "mon30",
+        "imgIdx": 2880,
+        "canMove": true
+    },
+	{
+        "id": 19291,
+        "name": "烈焰魔神",
+        "race": 19,
+        "appr": 291,
+        "img": "mon30",
+        "imgIdx": 360,
+        "canMove": true
+    },
+	{
+        "id": 19292,
+        "name": "烈焰战熊",
+        "race": 19,
+        "appr": 292,
+        "img": "mon30",
+        "imgIdx": 720,
+        "canMove": true
+    },
+	{
+        "id": 19293,
+        "name": "巨灵神",
+        "race": 19,
+        "appr": 293,
+        "img": "mon30",
+        "imgIdx": 1080,
+        "canMove": true
+    }
+]

@@ -1,0 +1,654 @@
+2019-09-05 00:00:02 [BackupSave]: -= 本地备份 =-
+2019-09-05 00:03:49 中断一个非法的 GameServer 连接，IP = 193.106.28.250
+2019-09-05 00:03:49 与M2Server通信错误：ErrorCode=10061
+2019-09-05 00:07:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:07:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:08:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:08:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:08:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:12:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:13:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:19:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:23:40 中断一个非法的 GameGate 连接, IP = 185.156.177.235
+2019-09-05 00:23:40 与GameGate通信错误：ErrorCode=10061
+2019-09-05 00:31:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:32:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:36:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:38:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:42:40 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:43:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:43:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:43:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:49:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:55:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 00:57:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:18:30 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:18:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:18:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:21:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:26:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:26:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:41:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 01:43:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:10:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:36:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:44:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:45:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:46:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 02:53:11 UnKnown Cmd of TYPE_A:344
+2019-09-05 03:13:28 UnKnown Cmd of TYPE_A:344
+2019-09-05 03:42:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 03:44:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:11:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:12:40 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:13:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:14:51 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:15:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:44:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 04:57:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 05:02:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 05:04:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 05:11:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 05:30:04 [BackupSave]: ==== 复制备份昨日数据 ====
+2019-09-05 05:30:05 [BackupSave]: ======================= 数据备份 =======================
+2019-09-05 05:30:05 ======================= 开始拷贝所有数据库中所有数据表文件 =======================
+2019-09-05 05:30:05 ====== 拷贝源数据库 mir3（d:\mud2\mysql\data\mir3）---->目标数据库 mir3_backup（d:\mud2\mysql\data\data_backup\mir3_backup） 完成，共拷贝数据表文件51个======
+2019-09-05 05:30:05 ====== 拷贝源数据库 gamedata（d:\mud2\mysql\data\gamedata）---->目标数据库 gamedata_backup（d:\mud2\mysql\data\data_backup\gamedata_backup） 完成，共拷贝数据表文件144个======
+2019-09-05 05:30:05 ====== 拷贝源数据库 guild（d:\mud2\mysql\data\guild）---->目标数据库 guild_backup（d:\mud2\mysql\data\data_backup\guild_backup） 完成，共拷贝数据表文件21个======
+2019-09-05 05:30:05 ======================= 结束拷贝所有数据库中所有数据表文件，花费时间 0 秒 =======================
+2019-09-05 05:30:05 [BackupSave]: ============ 压缩数据 ============
+2019-09-05 05:30:06 执行外部上传程序d:\mud2\backup\backup.exe
+2019-09-05 05:30:06 [BackupSave]: ======================= 数据备份成功 用时 2 秒 =======================
+2019-09-05 05:42:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 06:00:04 [BackupSave]: -= 本地备份 =-
+2019-09-05 06:12:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 06:26:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 06:32:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 06:53:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:00:00 刷新排行榜开始...
+2019-09-05 07:00:00 刷新战神榜共88条记录
+2019-09-05 07:00:00 刷新法神榜共38条记录
+2019-09-05 07:00:00 刷新道尊榜共74条记录
+2019-09-05 07:00:00 刷新玛法群英榜共100条记录
+2019-09-05 07:00:01 刷新名师榜共0条记录
+2019-09-05 07:00:01 刷新战斗力排行榜共0条记录
+2019-09-05 07:00:01 刷新玛法内功榜共0条记录
+2019-09-05 07:00:01 刷新刺客榜共0条记录
+2019-09-05 07:00:01 刷新战士英雄榜共0条记录
+2019-09-05 07:00:02 刷新法师英雄榜共0条记录
+2019-09-05 07:00:02 刷新道士英雄榜共0条记录
+2019-09-05 07:00:02 刷新英雄总排行榜共0条记录
+2019-09-05 07:00:02 刷新排行榜结束，共 45 页
+2019-09-05 07:05:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:21 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:06:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:10:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:12:46 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:23:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:30:21 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:32:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:45:42 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:45:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:46:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:46:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:49:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 07:57:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:19:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:21:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:23:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:34:13 中断一个非法的 GameServer 连接，IP = 193.106.28.250
+2019-09-05 08:34:13 与M2Server通信错误：ErrorCode=10061
+2019-09-05 08:35:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:38:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 08:44:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:02:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:05:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:11:51 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:13:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:14:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:17:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:17:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:35:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:35:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 09:40:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:11:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:11:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:12:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:20:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:24:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:25:11 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:26:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:36:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:36:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:37:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:40:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:43:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:44:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:46:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:47:21 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:48:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:52:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:57:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:57:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 10:58:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:01:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:02:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:03:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:14:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:15:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:16:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:16:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:27:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:27:30 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:27:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:28:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:30:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:30:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:34:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:36:50 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:43:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 11:55:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:00:01 [BackupSave]: -= 本地备份 =-
+2019-09-05 12:02:28 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:03:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:08:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:08:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:09:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:10:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:12:36 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:17:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:18:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:18:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:21:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:21:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:21:57 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:24:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:30:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:38:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:38:51 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:43:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:44:46 重复的地图文件配置 0139~2
+2019-09-05 12:44:46 重复的地图文件配置 EM300
+2019-09-05 12:44:46 重复的地图文件配置 B121~01
+2019-09-05 12:46:16 重复的地图文件配置 0139~2
+2019-09-05 12:46:16 重复的地图文件配置 EM300
+2019-09-05 12:46:16 重复的地图文件配置 B121~01
+2019-09-05 12:46:16 重复的地图文件配置 xy1
+2019-09-05 12:46:16 重复的地图文件配置 xy1
+2019-09-05 12:46:16 重复的地图文件配置 xy1
+2019-09-05 12:46:16 重复的地图文件配置 xy1
+2019-09-05 12:46:16 重复的地图文件配置 xy1
+2019-09-05 12:48:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:50:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 12:53:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:05:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:05:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:06:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:06:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:08:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:10:12 与 LoginGate 连接断开
+2019-09-05 13:10:12 GameGate 1 断开.
+2019-09-05 13:10:18 ============= DBService Stop =============
+2019-09-05 13:10:26 ============= DBService Start =============
+2019-09-05 13:10:26 检查基础信息表的更新... 
+2019-09-05 13:10:26 删除等级小于8级的小号...
+2019-09-05 13:10:26 共删除 0 个小号
+2019-09-05 13:10:26 清除行会无效角色... 
+2019-09-05 13:10:26 检查基础信息表... 
+2019-09-05 13:10:26 设置MySQL访问权限... 
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:110
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:113
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:120
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:125
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:151
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:160
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:210
+2019-09-05 13:10:26 读取 humanmagic Idx不连续:230
+2019-09-05 13:10:26 读取 humanmagic 表成功，记录数:96
+2019-09-05 13:10:26 读取 heromagic Idx不连续:112
+2019-09-05 13:10:26 读取 heromagic Idx不连续:114
+2019-09-05 13:10:26 读取 heromagic Idx不连续:129
+2019-09-05 13:10:26 读取 heromagic Idx不连续:210
+2019-09-05 13:10:26 读取 heromagic Idx不连续:230
+2019-09-05 13:10:26 读取 heromagic 表成功，记录数:80
+2019-09-05 13:10:27 读取 monster 表成功，记录数:1214
+2019-09-05 13:10:27 读取 stditems 成功，记录数:1951
+2019-09-05 13:10:27 读取 AntiqueItems 成功，记录数:293
+2019-09-05 13:10:27 读取 fieldhero 表成功，记录数:138
+2019-09-05 13:10:27 读取 superForce 成功，记录数:100
+2019-09-05 13:10:27 读取 superSkill 成功，记录数:23
+2019-09-05 13:10:27 读取 ForceMagic 表成功，记录数:47
+2019-09-05 13:10:27 重复的地图文件配置 0139~2
+2019-09-05 13:10:27 重复的地图文件配置 EM300
+2019-09-05 13:10:27 重复的地图文件配置 B121~01
+2019-09-05 13:10:27 重复的地图文件配置 xy1
+2019-09-05 13:10:27 重复的地图文件配置 xy1
+2019-09-05 13:10:27 重复的地图文件配置 xy1
+2019-09-05 13:10:27 重复的地图文件配置 xy1
+2019-09-05 13:10:27 重复的地图文件配置 xy1
+2019-09-05 13:10:27 正在删除废弃角色数据
+2019-09-05 13:10:27 已成功删除角色数据, 共0条
+2019-09-05 13:10:27 正在删除没有主号的英雄数据
+2019-09-05 13:10:27 已成功删除英雄数据,共0条
+2019-09-05 13:10:27 载入 IpAddress.txt 成功
+2019-09-05 13:10:27 最大人数限制 = 20000
+2019-09-05 13:10:27 载入 !AbUse.Txt 成功
+2019-09-05 13:10:28 设置当前语言为 中文（中国）
+2019-09-05 13:10:28 载入 216/216
+2019-09-05 13:10:28 共载入玩家帐号 132，角色 216
+2019-09-05 13:10:28 共载入帐号仓库 0/0
+2019-09-05 13:10:28 [加载]：添加出生点 map: 0 x: 289 y: 618 range: 5
+2019-09-05 13:10:28 [加载]：添加出生点 map: 0 x: 650 y: 631 range: 5
+2019-09-05 13:10:28 共载入有英雄的角色 0，英雄 0
+2019-09-05 13:10:28 共载入宠物 0
+2019-09-05 13:10:28 MySQL宗派信息记录数: 0
+2019-09-05 13:10:28 刷新排行榜开始...
+2019-09-05 13:10:28 刷新战神榜共89条记录
+2019-09-05 13:10:28 载入 !AbUseName.Txt 成功
+2019-09-05 13:10:28 [BackupSave]: 重新连接 MySQL.
+2019-09-05 13:10:28 刷新法神榜共40条记录
+2019-09-05 13:10:28 刷新道尊榜共76条记录
+2019-09-05 13:10:28 刷新玛法群英榜共100条记录
+2019-09-05 13:10:28 刷新名师榜共0条记录
+2019-09-05 13:10:29 刷新战斗力排行榜共0条记录
+2019-09-05 13:10:29 刷新玛法内功榜共0条记录
+2019-09-05 13:10:29 刷新刺客榜共0条记录
+2019-09-05 13:10:29 刷新战士英雄榜共0条记录
+2019-09-05 13:10:29 刷新法师英雄榜共0条记录
+2019-09-05 13:10:30 刷新道士英雄榜共0条记录
+2019-09-05 13:10:30 刷新英雄总排行榜共0条记录
+2019-09-05 13:10:30 刷新排行榜结束，共 45 页
+2019-09-05 13:10:31 GameGate 49.234.26.20 已连接.
+2019-09-05 13:10:31 GameGate 1 开启
+2019-09-05 13:10:37 尝试连接 LoginGate 49.234.26.20
+2019-09-05 13:10:37 与 LoginGate 连接成功
+2019-09-05 13:10:43 GameServer 1 已连接.
+2019-09-05 13:11:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:11:48 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:12:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:12:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:13:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:13:40 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:14:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:14:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:17:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:17:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:17:46 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:18:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:20:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:21:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:24:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:29:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:30:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:33:28 重复的地图文件配置 0139~2
+2019-09-05 13:33:28 重复的地图文件配置 EM300
+2019-09-05 13:33:28 重复的地图文件配置 B121~01
+2019-09-05 13:36:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:40:16 [Warning]: pt118735fa27332c6a70(流烟昔泠)：等级：50->5,经验：2655000->2655000
+2019-09-05 13:41:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:42:58 重复的地图文件配置 0139~2
+2019-09-05 13:42:58 重复的地图文件配置 EM300
+2019-09-05 13:42:58 重复的地图文件配置 B121~01
+2019-09-05 13:48:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:49:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:50:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:52:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:55:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:57:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:58:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 13:59:28 重复的地图文件配置 0139~2
+2019-09-05 13:59:28 重复的地图文件配置 EM300
+2019-09-05 13:59:28 重复的地图文件配置 B121~01
+2019-09-05 14:00:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:01:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:02:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:02:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:02:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:03:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:04:28 重复的地图文件配置 0139~2
+2019-09-05 14:04:28 重复的地图文件配置 EM300
+2019-09-05 14:04:28 重复的地图文件配置 B121~01
+2019-09-05 14:07:28 重复的地图文件配置 0139~2
+2019-09-05 14:07:28 重复的地图文件配置 EM300
+2019-09-05 14:07:28 重复的地图文件配置 B121~01
+2019-09-05 14:10:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:22:56 [Exception]:ReceiveData - 336:Access violation at address 0040501E in module 'DBServer.exe'. Read of address 3F3D7860
+2019-09-05 14:24:34 [Exception]: ProcThreadMessage - 10013  Access violation at address 00404EBC in module 'DBServer.exe'. Read of address 0000003C
+2019-09-05 14:24:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:27:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:28:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:28:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:31:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:33:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:34:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:35:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:35:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:36:28 重复的地图文件配置 0139~2
+2019-09-05 14:36:28 重复的地图文件配置 EM300
+2019-09-05 14:36:28 重复的地图文件配置 B121~01
+2019-09-05 14:43:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 14:56:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:07:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:08:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:11:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:15:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:21:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:22:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:23:26 中断一个非法的 GameServer 连接，IP = 193.106.28.250
+2019-09-05 15:23:26 与M2Server通信错误：ErrorCode=10061
+2019-09-05 15:37:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:40:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:43:30 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:43:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:44:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:49:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:53:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:54:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:55:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 15:57:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:01:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:04:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:04:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:09:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:12:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:14:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:24:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:28:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:31:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:41:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:49:14 UnKnown Cmd of TYPE_A:344
+2019-09-05 16:54:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:03:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:08:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:22:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:35:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:49:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 17:57:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:00:04 [BackupSave]: -= 本地备份 =-
+2019-09-05 18:00:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:16:28 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:17:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:19:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:19:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:20:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:21:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:21:48 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:21:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:22:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:22:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:22:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:22:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:22:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:23:58 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:24:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:29:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:29:42 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:29:46 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:30:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:31:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:33:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:35:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:36:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:37:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:40:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:40:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:46:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:47:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:51:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:53:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:56:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 18:57:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:01:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:01:48 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:02:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:02:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:02:50 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:04:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:04:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:06:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:06:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:06:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:13:51 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:17:51 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:19:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:20:54 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:21:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:27:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:30:14 中断一个非法的 GameServer 连接，IP = 51.15.191.81
+2019-09-05 19:30:14 与M2Server通信错误：ErrorCode=10061
+2019-09-05 19:31:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:31:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:31:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:31:36 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:31:45 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:29 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:32:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:36:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:37:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:37:34 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:45:54 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:46:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:48:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:51:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:51:54 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:52:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:52:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:52:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:55:10 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:57:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 19:59:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:00:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:01:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:02:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:03:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:07:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:11:54 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:15:07 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:24:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:30:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:33:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:33:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:35:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:37:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:37:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:44:44 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:46:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:50:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 20:57:50 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:02:30 重复的地图文件配置 0139~2
+2019-09-05 21:02:30 重复的地图文件配置 EM300
+2019-09-05 21:02:30 重复的地图文件配置 B121~01
+2019-09-05 21:04:55 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:07:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:09:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:14:26 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:17:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:20:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:20:46 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:22:40 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:27:42 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:31:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:33:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:36:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:36:43 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:38:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:39:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:43:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:53:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:56:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 21:59:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:02:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:13:31 重复的地图文件配置 0139~2
+2019-09-05 22:13:31 重复的地图文件配置 EM300
+2019-09-05 22:13:31 重复的地图文件配置 B121~01
+2019-09-05 22:15:01 重复的地图文件配置 0139~2
+2019-09-05 22:15:01 重复的地图文件配置 EM300
+2019-09-05 22:15:01 重复的地图文件配置 B121~01
+2019-09-05 22:15:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:16:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:17:19 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:18:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:18:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:18:53 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:21:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:21:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:30:28 与 LoginGate 连接断开
+2019-09-05 22:30:28 GameGate 1 断开.
+2019-09-05 22:30:28 与M2Server通信错误：ErrorCode=10054
+2019-09-05 22:30:34 ============= DBService Stop =============
+2019-09-05 22:30:39 ============= DBService Start =============
+2019-09-05 22:30:39 检查基础信息表的更新... 
+2019-09-05 22:30:39 删除等级小于8级的小号...
+2019-09-05 22:30:39 共删除 0 个小号
+2019-09-05 22:30:39 清除行会无效角色... 
+2019-09-05 22:30:39 检查基础信息表... 
+2019-09-05 22:30:39 设置MySQL访问权限... 
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:110
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:113
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:120
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:125
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:151
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:160
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:210
+2019-09-05 22:30:39 读取 humanmagic Idx不连续:230
+2019-09-05 22:30:39 读取 humanmagic 表成功，记录数:96
+2019-09-05 22:30:39 读取 heromagic Idx不连续:112
+2019-09-05 22:30:39 读取 heromagic Idx不连续:114
+2019-09-05 22:30:39 读取 heromagic Idx不连续:129
+2019-09-05 22:30:39 读取 heromagic Idx不连续:210
+2019-09-05 22:30:39 读取 heromagic Idx不连续:230
+2019-09-05 22:30:39 读取 heromagic 表成功，记录数:80
+2019-09-05 22:30:39 读取 monster 表成功，记录数:1214
+2019-09-05 22:30:40 读取 stditems 成功，记录数:1951
+2019-09-05 22:30:40 读取 AntiqueItems 成功，记录数:293
+2019-09-05 22:30:40 读取 fieldhero 表成功，记录数:138
+2019-09-05 22:30:40 读取 superForce 成功，记录数:100
+2019-09-05 22:30:40 读取 superSkill 成功，记录数:23
+2019-09-05 22:30:40 读取 ForceMagic 表成功，记录数:47
+2019-09-05 22:30:40 重复的地图文件配置 0139~2
+2019-09-05 22:30:40 重复的地图文件配置 EM300
+2019-09-05 22:30:40 重复的地图文件配置 B121~01
+2019-09-05 22:30:40 正在删除废弃角色数据
+2019-09-05 22:30:40 已成功删除角色数据, 共0条
+2019-09-05 22:30:40 正在删除没有主号的英雄数据
+2019-09-05 22:30:40 已成功删除英雄数据,共0条
+2019-09-05 22:30:40 载入 IpAddress.txt 成功
+2019-09-05 22:30:40 最大人数限制 = 20000
+2019-09-05 22:30:40 载入 !AbUse.Txt 成功
+2019-09-05 22:30:40 设置当前语言为 中文（中国）
+2019-09-05 22:30:40 载入 218/218
+2019-09-05 22:30:40 刷新排行榜开始...
+2019-09-05 22:30:40 共载入玩家帐号 134，角色 218
+2019-09-05 22:30:40 共载入帐号仓库 0/0
+2019-09-05 22:30:40 [加载]：添加出生点 map: 0 x: 289 y: 618 range: 5
+2019-09-05 22:30:40 [加载]：添加出生点 map: 0 x: 650 y: 631 range: 5
+2019-09-05 22:30:40 刷新战神榜共89条记录
+2019-09-05 22:30:40 共载入有英雄的角色 0，英雄 0
+2019-09-05 22:30:40 共载入宠物 0
+2019-09-05 22:30:40 MySQL宗派信息记录数: 0
+2019-09-05 22:30:40 载入 !AbUseName.Txt 成功
+2019-09-05 22:30:40 [BackupSave]: 重新连接 MySQL.
+2019-09-05 22:30:41 刷新法神榜共40条记录
+2019-09-05 22:30:41 刷新道尊榜共78条记录
+2019-09-05 22:30:41 刷新玛法群英榜共100条记录
+2019-09-05 22:30:41 刷新名师榜共0条记录
+2019-09-05 22:30:41 刷新战斗力排行榜共0条记录
+2019-09-05 22:30:42 刷新玛法内功榜共0条记录
+2019-09-05 22:30:42 刷新刺客榜共0条记录
+2019-09-05 22:30:42 刷新战士英雄榜共0条记录
+2019-09-05 22:30:42 刷新法师英雄榜共0条记录
+2019-09-05 22:30:42 刷新道士英雄榜共0条记录
+2019-09-05 22:30:43 刷新英雄总排行榜共0条记录
+2019-09-05 22:30:43 刷新排行榜结束，共 46 页
+2019-09-05 22:30:48 GameGate 49.234.26.20 已连接.
+2019-09-05 22:30:48 GameGate 1 开启
+2019-09-05 22:30:49 尝试连接 LoginGate 49.234.26.20
+2019-09-05 22:30:49 与 LoginGate 连接成功
+2019-09-05 22:30:54 GameServer 1 已连接.
+2019-09-05 22:31:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:31:50 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:32:05 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:32:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:33:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:34:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:35:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:36:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:39:15 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:39:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:43:36 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:43:37 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:43:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:43:59 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:03 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:27 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:44:42 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:45:52 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:46:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:48:56 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:51:16 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:53:11 重复的地图文件配置 0139~2
+2019-09-05 22:53:11 重复的地图文件配置 EM300
+2019-09-05 22:53:11 重复的地图文件配置 B121~01
+2019-09-05 22:53:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:53:48 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:24 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:25 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:30 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:31 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:54:32 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:55:18 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:57:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:57:21 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:57:23 UnKnown Cmd of TYPE_A:344
+2019-09-05 22:59:41 重复的地图文件配置 0139~2
+2019-09-05 22:59:41 重复的地图文件配置 EM300
+2019-09-05 22:59:41 重复的地图文件配置 B121~01
+2019-09-05 23:00:11 重复的地图文件配置 0139~2
+2019-09-05 23:00:11 重复的地图文件配置 EM300
+2019-09-05 23:00:11 重复的地图文件配置 B121~01
+2019-09-05 23:07:04 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:07:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:08:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:09:39 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:13:33 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:15:01 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:16:08 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:17:47 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:24:17 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:27:49 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:30:13 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:32:02 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:32:06 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:34:12 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:34:38 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:37:09 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:37:57 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:39:00 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:40:22 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:40:41 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:41:20 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:45:35 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:55:30 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:56:57 UnKnown Cmd of TYPE_A:344
+2019-09-05 23:57:18 UnKnown Cmd of TYPE_A:344

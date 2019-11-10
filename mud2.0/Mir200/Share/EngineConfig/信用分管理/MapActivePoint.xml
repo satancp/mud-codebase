@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	
+  -->
+<Describle>
+	<Overview>进入地图需要的活跃度</Overview>
+	<Maps>
+		<Map Name = "D2008" Value = "30"/>
+		<Map Name = "D717" Value = "30"/>
+		<Map Name = "D613" Value = "30"/>
+		<Map Name = "D5071" Value = "30"/>
+		<Map Name = "D2079" Value = "30"/>
+		<Map Name = "62" Value = "30"/>
+		<Map Name = "D024" Value = "10"/>
+		<Map Name = "D505" Value = "10"/>
+		<Map Name = "D411~01" Value = "30"/>
+		<Map Name = "D415~01" Value = "30"/>
+		<Map Name = "D416~01" Value = "30"/>
+		<Map Name = "D5061" Value = "30"/>
+	</Maps>
+</Describle>

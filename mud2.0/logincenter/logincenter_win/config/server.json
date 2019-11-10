@@ -1,0 +1,51 @@
+{"serverlist":{
+	"kaifubiao":1,
+	"servers":
+	[
+
+
+		{
+			"isactive" : 0,
+			"serverid" : "99aipk",
+			"rank1" : 1,   	
+			"rank2" : 1,
+			"serverip":"192.168.50.29:8088",
+			"servername":"逐鹿中原",
+			"desc":" 1.80复古传奇"
+		},
+	{
+			"isactive" : 1,
+			"serverid" : "99aipk",
+			"rank1" : 1,   	
+			"rank2" : 1,
+			"serverip":"192.168.50.29:8088",
+			"servername":"逐鹿中原",
+			"desc":" 测试中,q群:652048917"
+		},
+	{
+			"isactive" : 2,
+			"serverid" : "wwww1",
+			"rank1" : 2,   	
+			"rank2" : 2,
+			"serverip":"192.168.50.29:8088",
+			"servername":"逐鹿中原",
+			"desc":" 1.80复古"
+		}
+	],
+	"imglist":
+	[
+		{	
+			"pos":"1",
+			"url":"http://b.zxsfv.com/gg/1.png"
+		},
+		{	
+			"pos":"2",
+			"url":"http://b.zxsfv.com/gg/2.png"
+		},
+		{	
+			"pos":"3",
+			"url":"http://b.zxsfv.com/gg/3.png"
+		}		
+	],
+	"notice":"<b><param size=20 textcolor=255|222|173 /><t \n\n欢迎来到复古传奇 \n\n\n要了解更多详情请访问我们的站点： /></b><b><param size=20 urlcolor=255|222|173 urltext=www.ziyanwl.com urladdr=http://www.ziyanwl.com /></b>"
+}}

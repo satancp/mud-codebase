@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Ranger 概率的分母= Rnd1 + Rnd2 + Rnd3 +...
+	Rnd 概率的分子
+	MinePrice 该等级熔锭的价格
+	LimitLv 升级下一等级所需的全区最高等级
+  -->
+<Describle>
+	<Overview>装备合成表</Overview>
+	<Info>
+		<EquipLevel Level="1" MinePrice="10" LimitLv="0">
+			<Equips>
+				<Equip Name="力量戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣战戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="紫碧螺" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="法神戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="泰坦戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="天尊戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="骑士手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣战手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="龙之手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="法神手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="三眼手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="天尊手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="绿色项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣战项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="恶魔铃铛" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="法神项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="灵魂项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="天尊项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="青铜腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="钢铁腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="紫绸靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="避魂靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="黑铁头盔" Ranger="5">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣战头盔"/>
+						<TargetEquip Rnd="3" Name="法神头盔"/>
+						<TargetEquip Rnd="1" name="天尊头盔"/>
+					</Targets>
+				</Equip>
+			</Equips>
+		</EquipLevel>
+		<EquipLevel Level="2" MinePrice="40" LimitLv="36">
+			<Equips>
+				<Equip Name="圣战戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆战戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="法神戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="烈焰魔戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="天尊戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="光芒道戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣战手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="法神手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="烈焰护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="天尊手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="光芒护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣战项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="法神项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="烈焰项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="天尊项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="光芒项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="钢铁腰带" Ranger="5">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆腰带"/>
+						<TargetEquip Rnd="3" Name="烈焰腰带"/>
+						<TargetEquip Rnd="1" Name="光芒腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="避魂靴" Ranger="5">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆战靴"/>
+						<TargetEquip Rnd="3" Name="烈焰魔靴"/>
+						<TargetEquip Rnd="1" Name="光芒道靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣战头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="雷霆战盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="法神头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="烈焰魔盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="天尊头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="光芒道盔"/>
+					</Targets>
+				</Equip>
+			</Equips>
+		</EquipLevel>
+		<EquipLevel Level="3" MinePrice="160" LimitLv="42">
+			<Equips>
+				<Equip Name="雷霆战戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆战戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰魔戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰魔戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒道戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒道戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="雷霆护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒护腕"/>
+					</Targets>
+				</Equip>
+				<Equip Name="雷霆项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="雷霆腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="雷霆战靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆战靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰魔靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰魔靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒道靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒道靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="雷霆战盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化雷霆战盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="烈焰魔盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化烈焰魔盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="光芒道盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="强化光芒道盔"/>
+					</Targets>
+				</Equip>
+			</Equips>
+		</EquipLevel>
+		<EquipLevel Level="4" MinePrice="640" LimitLv="47">
+			<Equips>
+				<Equip Name="强化雷霆战戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰魔戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒道戒" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂戒指"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化雷霆护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒护腕" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂手镯"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化雷霆项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂项链"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化雷霆腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂腰带"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化雷霆战靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰魔靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒道靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化雷霆战盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="战神头盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化烈焰魔盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="圣魔头盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="强化光芒道盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="真魂头盔"/>
+					</Targets>
+				</Equip>
+			</Equips>
+		</EquipLevel>
+		<EquipLevel Level="5" MinePrice="2560" LimitLv="55">
+			<Equips>
+				<Equip Name="战神戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王战戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王魔戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂戒指" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王道戒"/>
+					</Targets>
+				</Equip>
+				<Equip Name="战神手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王护腕(战)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王护腕(法)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂手镯" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王护腕(道)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="战神项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王项链(战)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王项链(法)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂项链" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王项链(道)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="战神腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王腰带(战)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王腰带(法)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂腰带" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王腰带(道)"/>
+					</Targets>
+				</Equip>
+				<Equip Name="战神靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王战靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王法靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂靴" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王道靴"/>
+					</Targets>
+				</Equip>
+				<Equip Name="战神头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王战盔"/>
+					</Targets>
+				</Equip>
+				<Equip Name="圣魔头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王法冠"/>
+					</Targets>
+				</Equip>
+				<Equip Name="真魂头盔" Ranger="1">
+					<Targets>
+						<TargetEquip Rnd="1" Name="星王道盔"/>
+					</Targets>
+				</Equip>
+			</Equips>
+		</EquipLevel>
+	</Info>
+</Describle>

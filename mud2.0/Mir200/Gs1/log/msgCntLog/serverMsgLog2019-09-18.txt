@@ -1,0 +1,3257 @@
+~2019/9/18 0:00:33
+3017 : 5, 72
+!totalCnt: 5; totalSize: 0K
+~2019/9/18 0:01:33
+3017 : 1, 24
+3013 : 1, 24
+4629 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 0:02:34
+3011 : 9, 120
+3017 : 2, 36
+4629 : 3, 48
+3013 : 48, 588
+1001 : 33, 408
+1006 : 5, 72
+1000 : 2, 69
+!totalCnt: 102; totalSize: 1K
+~2019/9/18 0:03:34
+3013 : 17, 216
+3017 : 7, 96
+!totalCnt: 24; totalSize: 0K
+~2019/9/18 0:04:34
+3017 : 11, 144
+3030 : 4, 90
+!totalCnt: 15; totalSize: 0K
+~2019/9/18 0:05:34
+3017 : 12, 156
+!totalCnt: 12; totalSize: 0K
+~2019/9/18 0:06:34
+3017 : 21, 264
+1006 : 2, 69
+3010 : 3, 48
+3013 : 38, 468
+1001 : 1, 24
+3011 : 2, 36
+!totalCnt: 67; totalSize: 0K
+~2019/9/18 0:07:34
+3013 : 50, 612
+3017 : 25, 312
+!totalCnt: 75; totalSize: 0K
+~2019/9/18 0:08:34
+3017 : 23, 288
+3013 : 55, 672
+1000 : 3, 82
+!totalCnt: 81; totalSize: 1K
+~2019/9/18 0:09:34
+3013 : 19, 240
+3017 : 9, 120
+3011 : 1, 24
+1001 : 2, 36
+4633 : 1, 24
+1010 : 2, 36
+1011 : 1, 38
+3030 : 8, 162
+!totalCnt: 43; totalSize: 0K
+~2019/9/18 0:10:34
+1010 : 5, 72
+1011 : 9, 244
+81 : 1, 24
+3013 : 5, 72
+3017 : 8, 108
+3011 : 4, 60
+1001 : 3, 48
+!totalCnt: 35; totalSize: 0K
+~2019/9/18 0:11:34
+3013 : 27, 336
+1010 : 6, 84
+1011 : 4, 99
+3017 : 14, 180
+3011 : 5, 72
+3016 : 1, 24
+!totalCnt: 57; totalSize: 0K
+~2019/9/18 0:12:34
+3013 : 43, 528
+3017 : 19, 240
+1001 : 1, 24
+3011 : 1, 24
+!totalCnt: 64; totalSize: 0K
+~2019/9/18 0:13:34
+3017 : 24, 300
+3013 : 24, 300
+1001 : 1, 24
+1115 : 1, 24
+!totalCnt: 50; totalSize: 0K
+~2019/9/18 0:14:34
+3013 : 33, 408
+3017 : 22, 276
+3011 : 4, 60
+1001 : 3, 48
+1115 : 1, 24
+!totalCnt: 63; totalSize: 0K
+~2019/9/18 0:15:34
+3013 : 44, 540
+1001 : 1, 24
+3011 : 1, 24
+3017 : 18, 228
+!totalCnt: 64; totalSize: 0K
+~2019/9/18 0:16:34
+3013 : 29, 360
+3011 : 1, 24
+3017 : 19, 240
+!totalCnt: 49; totalSize: 0K
+~2019/9/18 0:17:34
+3017 : 25, 312
+3013 : 11, 144
+!totalCnt: 36; totalSize: 0K
+~2019/9/18 0:18:34
+3017 : 24, 300
+3011 : 3, 48
+3013 : 10, 132
+!totalCnt: 37; totalSize: 0K
+~2019/9/18 0:19:34
+3017 : 25, 312
+3013 : 39, 480
+4464 : 1, 24
+4629 : 1, 24
+1000 : 1, 42
+!totalCnt: 67; totalSize: 0K
+~2019/9/18 0:20:34
+3013 : 25, 312
+3017 : 22, 276
+3011 : 6, 84
+1001 : 1, 24
+!totalCnt: 54; totalSize: 0K
+~2019/9/18 0:21:35
+3017 : 18, 228
+3013 : 24, 300
+3011 : 12, 156
+3010 : 1, 24
+1001 : 1, 24
+4629 : 2, 36
+!totalCnt: 58; totalSize: 0K
+~2019/9/18 0:22:35
+3013 : 94, 1140
+4629 : 2, 36
+3017 : 2, 36
+1006 : 1, 24
+3011 : 1, 24
+!totalCnt: 100; totalSize: 1K
+~2019/9/18 0:23:35
+3013 : 50, 612
+3011 : 18, 228
+3017 : 11, 144
+3010 : 1, 24
+!totalCnt: 80; totalSize: 0K
+~2019/9/18 0:24:35
+3017 : 26, 324
+3011 : 2, 36
+545 : 1, 24
+3013 : 4, 60
+1006 : 1, 46
+!totalCnt: 34; totalSize: 0K
+~2019/9/18 0:25:35
+3013 : 22, 276
+3017 : 23, 288
+3011 : 2, 36
+1001 : 2, 36
+!totalCnt: 49; totalSize: 0K
+~2019/9/18 0:26:35
+3017 : 14, 180
+1006 : 1, 24
+3013 : 8, 108
+4633 : 1, 24
+1010 : 2, 36
+1011 : 2, 62
+!totalCnt: 28; totalSize: 0K
+~2019/9/18 0:27:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:28:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:29:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:30:35
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:31:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:32:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:33:35
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:34:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:35:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:36:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:37:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:38:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:39:35
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:40:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:41:35
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:42:35
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:43:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:44:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:45:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:46:36
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:47:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:48:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:49:36
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:50:36
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:51:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:52:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:53:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:54:36
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:55:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:56:36
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:57:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 0:58:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 0:59:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:00:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:01:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:02:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:03:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:04:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:05:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:06:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:07:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:08:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:09:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:10:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:11:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:12:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:13:37
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:14:37
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:15:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:16:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:17:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:18:38
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:19:38
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:20:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:21:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:22:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:23:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:24:38
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:25:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:26:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:27:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:28:38
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:29:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:30:38
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:31:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:32:38
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:33:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:34:39
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:35:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:36:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:37:39
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:38:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:39:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:40:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:41:39
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:42:39
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:43:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:44:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:45:39
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:46:40
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:47:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:48:40
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:49:40
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:50:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:51:40
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:52:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:53:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:54:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:55:40
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:56:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:57:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 1:58:40
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 1:59:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:00:40
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:01:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:02:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:03:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:04:41
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:05:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:06:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:07:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:08:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:09:41
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:10:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:11:41
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:12:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:13:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:14:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:15:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:16:41
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:17:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:18:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:19:42
+3017 : 2, 36
+4464 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 2:20:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:21:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:22:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:23:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:24:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:25:42
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:26:42
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:27:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:28:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:29:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:30:42
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:31:42
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:32:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:33:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:34:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:35:43
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:36:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:37:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:38:43
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:39:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:40:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:41:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:42:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:43:43
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:44:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:45:43
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:46:43
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:47:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:48:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:49:44
+3017 : 2, 36
+4464 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 2:50:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:51:44
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:52:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:53:44
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:54:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:55:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:56:44
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 2:57:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:58:44
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 2:59:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:00:45
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:01:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:02:45
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:03:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:04:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:05:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:06:45
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:07:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:08:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:09:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:10:45
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:11:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:12:45
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:13:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:14:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:15:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:16:46
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:17:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:18:46
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:19:46
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:20:46
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:21:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:22:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:23:46
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:24:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:25:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:26:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:27:46
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:28:46
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:29:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:30:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:31:47
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:32:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:33:47
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:34:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:35:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:36:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:37:47
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:38:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:39:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:40:47
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:41:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:42:47
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:43:48
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:44:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:45:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:46:48
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:47:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:48:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:49:48
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:50:48
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:51:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:52:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:53:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:54:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:55:48
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:56:48
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 3:57:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:58:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 3:59:49
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:00:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:01:49
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:02:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:03:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:04:49
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:05:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:06:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:07:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:08:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:09:49
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:10:50
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:11:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:12:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:13:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:14:50
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:15:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:16:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:17:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:18:50
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:19:50
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:20:50
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:21:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:22:50
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:23:51
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:24:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:25:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:26:51
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:27:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:28:51
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:29:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:30:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:31:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:32:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:33:51
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:34:51
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:35:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:36:51
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:37:52
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:38:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:39:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:40:52
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:41:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:42:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:43:52
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:44:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:45:52
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:46:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:47:52
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:48:52
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:49:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:50:52
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:51:53
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:52:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:53:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:54:53
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:55:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:56:53
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 4:57:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:58:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 4:59:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:00:53
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:01:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:02:53
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:03:53
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:04:54
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:06:54
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:07:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:08:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:09:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:10:54
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:11:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:12:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:13:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:14:54
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:15:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:16:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:17:54
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:18:55
+3017 : 2, 36
+4464 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 5:19:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:20:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:21:55
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:22:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:23:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:24:55
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:25:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:26:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:27:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:28:55
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:29:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:30:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:31:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:32:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:33:55
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:34:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:35:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:36:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:37:55
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:38:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:39:56
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:40:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:41:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:42:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:43:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:44:56
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:45:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:46:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:47:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:48:56
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:49:56
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:50:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:51:56
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:52:56
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:53:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:54:57
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:55:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:56:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:57:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 5:58:57
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 5:59:57
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:00:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:01:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:02:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:03:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:04:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:05:57
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:06:57
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:07:58
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:08:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:09:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:10:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:11:58
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:12:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:13:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:14:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:15:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:16:58
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:17:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:18:58
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:19:58
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:20:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:21:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:22:58
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:23:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:24:59
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:25:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:26:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:27:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:28:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:29:59
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:30:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:31:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:32:59
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:33:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:34:59
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:35:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:36:59
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:37:59
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:39:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:40:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:41:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:42:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:43:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:44:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:45:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:46:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:47:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:48:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:49:00
+3017 : 2, 36
+4464 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 6:50:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:51:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:52:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:53:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:54:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:55:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 6:56:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:57:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:58:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 6:59:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:00:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:01:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:02:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:03:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:04:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:05:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:06:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:07:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:08:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:09:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:10:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:11:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:12:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:13:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:14:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:15:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:16:02
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:17:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:18:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:19:02
+3017 : 2, 36
+4464 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 7:20:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:21:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:22:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:23:02
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:24:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:25:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:26:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:27:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:28:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:29:02
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:30:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:31:03
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:32:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:33:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:34:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:35:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:36:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:37:03
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:38:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:39:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:40:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:41:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:42:03
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:43:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:44:03
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:45:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:46:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:47:04
+1003 : 2, 71
+3013 : 4, 60
+3017 : 2, 36
+!totalCnt: 8; totalSize: 0K
+~2019/9/18 7:48:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:49:04
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:50:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:51:04
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:52:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:53:04
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:54:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:55:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:56:04
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 7:57:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:58:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 7:59:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:00:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:01:04
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 8:02:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:03:04
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:04:04
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 8:05:05
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:06:05
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:07:05
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:08:05
+3017 : 3, 48
+4629 : 1, 24
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 8:31:06
+3017 : 6, 84
+3010 : 3, 48
+3013 : 14, 180
+4633 : 1, 24
+1010 : 3, 48
+1011 : 3, 87
+3011 : 1, 24
+1032 : 1, 50
+1003 : 1, 50
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 8:32:06
+3013 : 19, 240
+3017 : 2, 36
+3011 : 3, 48
+3010 : 1, 24
+4633 : 1, 24
+1010 : 2, 36
+1011 : 1, 48
+!totalCnt: 29; totalSize: 0K
+~2019/9/18 8:33:07
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 8:34:07
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:35:07
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 8:36:07
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 9:12:09
+1018 : 1, 186
+81 : 1, 24
+3011 : 1, 24
+3013 : 8, 108
+3014 : 3, 48
+!totalCnt: 14; totalSize: 0K
+~2019/9/18 9:13:09
+3030 : 4, 125
+1003 : 1, 50
+3013 : 1, 24
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 9:14:09
+3030 : 2, 88
+1003 : 1, 50
+3013 : 34, 420
+1006 : 1, 24
+3010 : 2, 36
+3011 : 1, 24
+!totalCnt: 41; totalSize: 0K
+~2019/9/18 9:15:09
+3013 : 25, 312
+3011 : 1, 24
+4633 : 1, 24
+3030 : 1, 62
+1003 : 1, 50
+!totalCnt: 29; totalSize: 0K
+~2019/9/18 9:16:09
+3030 : 4, 135
+3013 : 14, 180
+1003 : 2, 63
+!totalCnt: 20; totalSize: 0K
+~2019/9/18 9:17:09
+1010 : 4, 60
+1011 : 3, 83
+3013 : 24, 300
+4629 : 2, 36
+1006 : 1, 46
+1001 : 1, 24
+3011 : 1, 24
+!totalCnt: 36; totalSize: 0K
+~2019/9/18 9:18:09
+3011 : 2, 36
+3013 : 1, 24
+1006 : 1, 24
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 10:28:13
+1018 : 1, 186
+81 : 1, 24
+4633 : 1, 24
+3013 : 6, 84
+1010 : 1, 24
+1011 : 1, 48
+!totalCnt: 11; totalSize: 0K
+~2019/9/18 10:29:13
+1006 : 3, 48
+4633 : 1, 24
+3013 : 8, 108
+3010 : 1, 24
+!totalCnt: 13; totalSize: 0K
+~2019/9/18 10:30:13
+3013 : 26, 324
+3011 : 1, 24
+3010 : 1, 24
+1010 : 3, 48
+1011 : 1, 48
+!totalCnt: 32; totalSize: 0K
+~2019/9/18 10:34:13
+3010 : 1, 24
+3013 : 2, 36
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 10:42:14
+1018 : 1, 186
+81 : 1, 24
+3010 : 1, 24
+4633 : 1, 24
+3013 : 9, 120
+1010 : 2, 36
+1011 : 1, 48
+!totalCnt: 16; totalSize: 0K
+~2019/9/18 10:43:14
+3013 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 11:04:15
+1018 : 1, 186
+81 : 1, 24
+3010 : 1, 24
+4633 : 1, 24
+3013 : 4, 60
+1010 : 2, 36
+1011 : 1, 48
+!totalCnt: 11; totalSize: 0K
+~2019/9/18 11:05:15
+3013 : 1, 24
+3011 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 11:25:16
+3013 : 1, 24
+3011 : 1, 24
+3010 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 11:30:17
+3011 : 1, 24
+3010 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 11:34:17
+4464 : 1, 24
+3010 : 1, 24
+3013 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 11:45:10
+1018 : 2, 279
+81 : 2, 36
+4633 : 1, 24
+3013 : 13, 168
+3017 : 6, 84
+!totalCnt: 24; totalSize: 0K
+~2019/9/18 11:46:10
+3013 : 64, 780
+3017 : 22, 276
+4629 : 2, 36
+4633 : 1, 24
+1009 : 1, 24
+3011 : 1, 24
+1006 : 1, 38
+!totalCnt: 92; totalSize: 1K
+~2019/9/18 11:47:10
+3011 : 10, 132
+1001 : 6, 84
+3017 : 21, 264
+3013 : 31, 384
+!totalCnt: 68; totalSize: 0K
+~2019/9/18 11:48:10
+3017 : 4, 60
+3013 : 24, 300
+1001 : 5, 72
+3011 : 7, 96
+1010 : 3, 48
+1011 : 2, 64
+!totalCnt: 45; totalSize: 0K
+~2019/9/18 11:49:10
+3013 : 78, 948
+1010 : 2, 36
+1011 : 2, 62
+4629 : 2, 36
+1006 : 5, 72
+!totalCnt: 89; totalSize: 1K
+~2019/9/18 11:50:10
+3013 : 35, 432
+4629 : 1, 24
+3017 : 17, 216
+3011 : 2, 36
+!totalCnt: 55; totalSize: 0K
+~2019/9/18 11:50:25
+3017 : 4, 60
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 12:28:57
+1018 : 1, 186
+81 : 1, 24
+3013 : 6, 84
+3011 : 1, 24
+1010 : 4, 60
+1011 : 1, 36
+1006 : 1, 24
+!totalCnt: 15; totalSize: 0K
+~2019/9/18 12:29:57
+1010 : 6, 84
+1011 : 1, 36
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 12:30:57
+1006 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 12:58:58
+4464 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:16:59
+1018 : 1, 186
+81 : 1, 24
+3017 : 18, 228
+!totalCnt: 20; totalSize: 0K
+~2019/9/18 13:17:59
+3017 : 27, 336
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 13:18:59
+3017 : 27, 336
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 13:19:59
+3017 : 27, 336
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 13:21:00
+3017 : 27, 336
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 13:22:00
+3017 : 22, 276
+3013 : 1, 24
+1001 : 15, 192
+3011 : 3, 48
+1006 : 1, 24
+!totalCnt: 42; totalSize: 0K
+~2019/9/18 13:23:00
+1006 : 1, 24
+1000 : 2, 67
+4633 : 1, 24
+3013 : 41, 504
+3017 : 15, 192
+3011 : 1, 24
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 13:24:00
+4633 : 1, 24
+3013 : 77, 936
+1010 : 3, 48
+4629 : 2, 36
+1006 : 1, 24
+3017 : 1, 24
+!totalCnt: 85; totalSize: 1K
+~2019/9/18 13:25:00
+3013 : 42, 516
+3011 : 5, 72
+3017 : 6, 84
+4633 : 1, 24
+1010 : 2, 36
+1011 : 2, 62
+!totalCnt: 58; totalSize: 0K
+~2019/9/18 13:26:00
+3013 : 27, 336
+3017 : 22, 276
+3011 : 3, 48
+1001 : 3, 48
+!totalCnt: 55; totalSize: 0K
+~2019/9/18 13:27:00
+4633 : 1, 24
+3013 : 6, 84
+3011 : 1, 24
+1010 : 5, 72
+3017 : 1, 24
+1011 : 1, 48
+!totalCnt: 15; totalSize: 0K
+~2019/9/18 13:28:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:29:00
+3017 : 1, 24
+4464 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:30:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:31:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:32:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:33:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:34:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:35:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:36:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:37:00
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:38:00
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:39:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:40:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:41:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:42:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:43:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:44:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:45:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:46:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:47:01
+4464 : 1, 24
+3017 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:48:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:49:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:50:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:51:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:52:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:53:01
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 13:54:01
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:55:02
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:58:02
+1060 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 13:59:02
+1060 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 14:03:02
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 14:04:02
+3013 : 10, 132
+3017 : 1, 24
+1006 : 3, 48
+1000 : 1, 50
+!totalCnt: 15; totalSize: 0K
+~2019/9/18 14:05:02
+4633 : 1, 24
+3013 : 11, 144
+3011 : 1, 24
+1010 : 6, 84
+1011 : 14, 366
+3017 : 1, 24
+!totalCnt: 34; totalSize: 0K
+~2019/9/18 14:06:02
+3013 : 53, 648
+3010 : 1, 24
+1010 : 4, 60
+3017 : 3, 48
+1011 : 1, 48
+3011 : 1, 24
+!totalCnt: 63; totalSize: 0K
+~2019/9/18 14:07:02
+3013 : 41, 504
+3011 : 2, 36
+3010 : 1, 24
+4633 : 1, 24
+3017 : 2, 36
+1010 : 12, 156
+!totalCnt: 59; totalSize: 0K
+~2019/9/18 14:08:02
+3013 : 18, 228
+3017 : 2, 36
+1010 : 7, 96
+1011 : 2, 60
+!totalCnt: 29; totalSize: 0K
+~2019/9/18 14:09:03
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 14:10:03
+1003 : 2, 71
+3017 : 1, 24
+!totalCnt: 3; totalSize: 0K
+~2019/9/18 17:37:28
+1018 : 1, 186
+81 : 1, 24
+3011 : 2, 36
+1010 : 1, 24
+1011 : 1, 32
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 17:38:28
+1006 : 3, 74
+3014 : 21, 264
+1009 : 2, 36
+1018 : 1, 186
+81 : 1, 24
+3013 : 2, 36
+3011 : 1, 24
+3010 : 1, 24
+1003 : 2, 59
+!totalCnt: 34; totalSize: 0K
+~2019/9/18 17:39:29
+1018 : 1, 186
+81 : 1, 24
+3013 : 6, 84
+3014 : 53, 648
+1003 : 6, 147
+1006 : 4, 60
+!totalCnt: 71; totalSize: 1K
+~2019/9/18 17:40:29
+3014 : 57, 696
+3013 : 5, 72
+3011 : 6, 84
+1006 : 1, 24
+3018 : 4, 60
+!totalCnt: 73; totalSize: 0K
+~2019/9/18 17:41:29
+3014 : 53, 648
+3013 : 6, 84
+3011 : 4, 60
+3018 : 7, 96
+!totalCnt: 70; totalSize: 0K
+~2019/9/18 17:42:29
+3014 : 45, 552
+3011 : 12, 156
+3013 : 17, 216
+3018 : 8, 108
+!totalCnt: 82; totalSize: 1K
+~2019/9/18 17:43:29
+3014 : 19, 240
+3011 : 7, 96
+3018 : 2, 36
+3013 : 7, 96
+4633 : 2, 36
+1018 : 1, 186
+81 : 1, 24
+!totalCnt: 39; totalSize: 0K
+~2019/9/18 17:44:29
+3013 : 6, 84
+1010 : 2, 36
+1011 : 1, 48
+1003 : 1, 42
+!totalCnt: 10; totalSize: 0K
+~2019/9/18 18:07:30
+3013 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 18:33:31
+1018 : 1, 186
+81 : 1, 24
+3010 : 1, 24
+3013 : 4, 60
+1010 : 2, 36
+1011 : 1, 48
+!totalCnt: 10; totalSize: 0K
+~2019/9/18 18:36:32
+1018 : 1, 186
+81 : 1, 24
+1010 : 2, 36
+1011 : 1, 32
+4633 : 1, 24
+1003 : 8, 193
+1006 : 8, 123
+!totalCnt: 22; totalSize: 0K
+~2019/9/18 18:37:32
+1006 : 4, 60
+1000 : 2, 57
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 18:38:32
+3013 : 1, 24
+1010 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 18:39:32
+1011 : 3, 88
+4629 : 1, 24
+4633 : 1, 24
+3013 : 18, 228
+1010 : 1, 24
+1003 : 1, 46
+1000 : 11, 242
+3011 : 7, 96
+!totalCnt: 43; totalSize: 0K
+~2019/9/18 18:40:32
+3013 : 18, 228
+1010 : 3, 48
+1011 : 6, 162
+4633 : 1, 24
+3011 : 2, 36
+3014 : 14, 180
+3018 : 2, 36
+!totalCnt: 46; totalSize: 0K
+~2019/9/18 18:41:32
+3014 : 14, 180
+1001 : 4, 60
+3010 : 1, 24
+3013 : 8, 108
+3011 : 15, 192
+1010 : 5, 72
+1011 : 6, 164
+3018 : 2, 36
+!totalCnt: 55; totalSize: 0K
+~2019/9/18 18:42:32
+3018 : 7, 96
+3014 : 42, 516
+1010 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+4633 : 1, 24
+3013 : 19, 240
+3017 : 14, 180
+3011 : 22, 276
+545 : 1, 24
+!totalCnt: 109; totalSize: 1K
+~2019/9/18 18:43:32
+3011 : 31, 384
+3013 : 62, 756
+3014 : 18, 228
+3017 : 14, 180
+3018 : 4, 60
+1006 : 2, 69
+1001 : 13, 168
+3010 : 1, 24
+1009 : 1, 24
+!totalCnt: 146; totalSize: 1K
+~2019/9/18 18:44:32
+3013 : 28, 348
+3017 : 2, 36
+1010 : 5, 72
+1011 : 5, 150
+4633 : 1, 24
+1006 : 3, 48
+!totalCnt: 44; totalSize: 0K
+~2019/9/18 18:45:32
+3013 : 14, 180
+1010 : 2, 36
+3017 : 1, 24
+1011 : 1, 48
+!totalCnt: 18; totalSize: 0K
+~2019/9/18 18:46:32
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 18:47:32
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 18:48:32
+3017 : 3, 48
+3013 : 1, 24
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 18:49:32
+3017 : 2, 36
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 18:50:32
+3013 : 10, 132
+1006 : 4, 60
+1003 : 1, 46
+3017 : 1, 24
+!totalCnt: 16; totalSize: 0K
+~2019/9/18 18:51:32
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 18:52:32
+3017 : 16, 204
+3013 : 5, 72
+1006 : 2, 69
+!totalCnt: 23; totalSize: 0K
+~2019/9/18 18:53:32
+3017 : 10, 132
+3013 : 5, 72
+1006 : 2, 69
+!totalCnt: 17; totalSize: 0K
+~2019/9/18 18:54:32
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 18:55:33
+3017 : 2, 36
+4633 : 2, 36
+3013 : 29, 360
+1010 : 4, 60
+1011 : 3, 87
+1031 : 1, 50
+!totalCnt: 41; totalSize: 0K
+~2019/9/18 18:56:33
+3013 : 3, 48
+3017 : 2, 36
+1010 : 3, 48
+1011 : 2, 60
+!totalCnt: 10; totalSize: 0K
+~2019/9/18 18:57:33
+3013 : 2, 36
+4629 : 1, 24
+3017 : 1, 24
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 18:58:33
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 18:59:33
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 19:00:33
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 19:00:55
+3017 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 19:02:59
+1018 : 1, 186
+81 : 1, 24
+4633 : 1, 24
+3013 : 3, 48
+1010 : 2, 36
+1011 : 3, 72
+1110 : 1, 30
+!totalCnt: 12; totalSize: 0K
+~2019/9/18 19:04:00
+1011 : 20, 378
+1110 : 1, 34
+4633 : 1, 24
+1006 : 1, 24
+!totalCnt: 23; totalSize: 0K
+~2019/9/18 19:25:01
+4633 : 1, 24
+3013 : 3, 48
+3011 : 2, 36
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 19:31:28
+1018 : 1, 186
+81 : 1, 24
+3013 : 1, 24
+1010 : 8, 108
+1011 : 4, 103
+!totalCnt: 15; totalSize: 0K
+~2019/9/18 19:32:28
+1010 : 6, 84
+1011 : 5, 102
+!totalCnt: 11; totalSize: 0K
+~2019/9/18 20:01:29
+4464 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 20:18:30
+1018 : 1, 186
+81 : 1, 24
+1006 : 1, 24
+1011 : 1, 42
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 20:19:30
+1011 : 10, 258
+3030 : 3, 90
+1006 : 1, 24
+!totalCnt: 14; totalSize: 0K
+~2019/9/18 20:20:30
+1011 : 6, 166
+1006 : 1, 24
+3030 : 1, 56
+!totalCnt: 8; totalSize: 0K
+~2019/9/18 20:32:09
+1018 : 1, 186
+81 : 1, 24
+1006 : 1, 24
+1011 : 1, 42
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 20:33:09
+3030 : 3, 86
+1011 : 8, 194
+3013 : 1, 24
+1006 : 2, 36
+!totalCnt: 14; totalSize: 0K
+~2019/9/18 21:02:10
+4464 : 1, 24
+!totalCnt: 1; totalSize: 0K
+~2019/9/18 21:26:12
+1018 : 1, 186
+81 : 1, 24
+3013 : 7, 96
+4633 : 1, 24
+1010 : 2, 36
+1011 : 1, 36
+!totalCnt: 13; totalSize: 0K
+~2019/9/18 21:27:12
+3011 : 3, 48
+3013 : 6, 84
+!totalCnt: 9; totalSize: 0K
+~2019/9/18 21:28:12
+3011 : 8, 108
+1010 : 2, 36
+3013 : 29, 360
+3017 : 12, 156
+!totalCnt: 51; totalSize: 0K
+~2019/9/18 21:29:12
+3017 : 10, 132
+3013 : 14, 180
+1018 : 1, 186
+81 : 1, 24
+1006 : 1, 46
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 21:30:12
+3013 : 28, 348
+3017 : 6, 84
+1006 : 1, 46
+3011 : 5, 72
+1001 : 3, 48
+!totalCnt: 43; totalSize: 0K
+~2019/9/18 21:31:12
+3017 : 2, 36
+3013 : 18, 228
+1010 : 2, 36
+1011 : 2, 66
+3010 : 2, 36
+3011 : 6, 84
+4633 : 1, 24
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 21:32:12
+3011 : 4, 60
+3013 : 43, 528
+3017 : 17, 216
+1010 : 1, 24
+3010 : 1, 24
+1006 : 3, 48
+4464 : 1, 24
+!totalCnt: 70; totalSize: 0K
+~2019/9/18 21:33:12
+3013 : 16, 204
+3017 : 10, 132
+3011 : 3, 48
+1001 : 3, 48
+1006 : 3, 48
+!totalCnt: 35; totalSize: 0K
+~2019/9/18 21:34:12
+3017 : 2, 36
+3011 : 4, 60
+3013 : 18, 228
+1010 : 7, 96
+1011 : 2, 60
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 21:35:12
+3013 : 17, 216
+3011 : 1, 24
+3017 : 1, 24
+1046 : 6, 84
+!totalCnt: 25; totalSize: 0K
+~2019/9/18 21:36:12
+3017 : 2, 36
+3013 : 30, 372
+1010 : 3, 48
+3010 : 1, 24
+3011 : 2, 36
+1011 : 1, 48
+!totalCnt: 39; totalSize: 0K
+~2019/9/18 21:37:12
+3017 : 1, 24
+3013 : 4, 60
+!totalCnt: 5; totalSize: 0K
+~2019/9/18 21:38:12
+3017 : 1, 24
+3013 : 1, 24
+!totalCnt: 2; totalSize: 0K
+~2019/9/18 21:39:12
+3013 : 5, 72
+!totalCnt: 5; totalSize: 0K
+~2019/9/18 21:41:13
+3017 : 1, 24
+3013 : 5, 72
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 21:42:13
+3013 : 13, 168
+1010 : 3, 48
+1011 : 3, 100
+3017 : 1, 24
+!totalCnt: 20; totalSize: 0K
+~2019/9/18 21:44:13
+3013 : 2, 36
+1006 : 2, 36
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 21:45:13
+3030 : 5, 129
+3017 : 3, 48
+4633 : 1, 24
+3013 : 11, 144
+1010 : 3, 48
+3011 : 6, 84
+1000 : 3, 84
+1001 : 3, 48
+1006 : 4, 60
+1011 : 2, 54
+!totalCnt: 41; totalSize: 0K
+~2019/9/18 21:46:13
+1011 : 11, 253
+1048 : 1, 46
+1006 : 6, 84
+3013 : 22, 276
+1010 : 8, 108
+3011 : 1, 24
+1110 : 1, 34
+4633 : 1, 24
+3017 : 2, 36
+!totalCnt: 53; totalSize: 0K
+~2019/9/18 21:47:13
+3013 : 28, 348
+1009 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+3017 : 3, 48
+3011 : 1, 24
+1010 : 6, 84
+4633 : 1, 24
+1011 : 1, 38
+3025 : 1, 24
+3019 : 1, 24
+1006 : 2, 58
+!totalCnt: 47; totalSize: 0K
+~2019/9/18 21:48:13
+1010 : 2, 36
+1011 : 7, 144
+3017 : 4, 60
+3011 : 5, 72
+3013 : 29, 360
+3025 : 2, 36
+3018 : 4, 60
+1006 : 4, 82
+3019 : 11, 144
+3030 : 1, 60
+1000 : 3, 84
+1001 : 4, 60
+1048 : 1, 46
+!totalCnt: 77; totalSize: 1K
+~2019/9/18 21:49:13
+1010 : 4, 60
+1011 : 4, 120
+1006 : 1, 24
+3017 : 5, 72
+3011 : 5, 72
+3013 : 20, 252
+!totalCnt: 39; totalSize: 0K
+~2019/9/18 21:50:13
+3013 : 40, 492
+3017 : 5, 72
+1010 : 3, 48
+1006 : 4, 93
+3011 : 3, 48
+3010 : 2, 36
+1011 : 4, 89
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 21:51:13
+3013 : 7, 96
+4633 : 2, 36
+3017 : 5, 72
+1006 : 3, 48
+1011 : 5, 107
+1010 : 2, 36
+!totalCnt: 24; totalSize: 0K
+~2019/9/18 21:52:13
+3017 : 6, 84
+3030 : 1, 44
+3011 : 1, 24
+1006 : 2, 58
+1010 : 2, 36
+1011 : 2, 53
+3013 : 5, 72
+1003 : 2, 71
+82 : 1, 24
+3202 : 1, 24
+!totalCnt: 23; totalSize: 0K
+~2019/9/18 21:53:13
+1010 : 6, 84
+3030 : 1, 58
+1011 : 3, 93
+3017 : 5, 72
+3013 : 12, 156
+1006 : 1, 24
+!totalCnt: 28; totalSize: 0K
+~2019/9/18 21:54:13
+3013 : 44, 540
+3017 : 5, 72
+1006 : 7, 184
+3019 : 16, 204
+3025 : 3, 48
+3018 : 5, 72
+4633 : 1, 24
+1010 : 2, 36
+3011 : 1, 24
+!totalCnt: 84; totalSize: 1K
+~2019/9/18 21:55:14
+3017 : 4, 60
+3013 : 17, 216
+1010 : 3, 48
+1011 : 1, 32
+!totalCnt: 25; totalSize: 0K
+~2019/9/18 21:56:14
+3017 : 5, 72
+1006 : 2, 36
+1011 : 5, 113
+3013 : 8, 108
+1010 : 4, 60
+4633 : 1, 24
+!totalCnt: 25; totalSize: 0K
+~2019/9/18 21:57:14
+3013 : 6, 84
+1010 : 4, 60
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 16; totalSize: 0K
+~2019/9/18 21:58:14
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 21:59:14
+3017 : 6, 84
+1006 : 1, 46
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:00:14
+3017 : 5, 72
+1006 : 2, 69
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:01:14
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:02:14
+3017 : 6, 84
+3013 : 10, 132
+1006 : 1, 46
+4633 : 1, 24
+1010 : 1, 24
+!totalCnt: 19; totalSize: 0K
+~2019/9/18 22:03:14
+1010 : 8, 108
+4464 : 1, 24
+1011 : 3, 98
+3013 : 20, 252
+3017 : 5, 72
+!totalCnt: 37; totalSize: 0K
+~2019/9/18 22:04:14
+1010 : 8, 108
+1011 : 3, 104
+3017 : 3, 48
+1006 : 1, 46
+1003 : 2, 71
+3013 : 5, 72
+!totalCnt: 22; totalSize: 0K
+~2019/9/18 22:05:14
+3017 : 3, 48
+4633 : 1, 24
+3013 : 24, 300
+3011 : 1, 24
+1010 : 2, 36
+1011 : 1, 36
+1110 : 1, 28
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 22:06:14
+3017 : 6, 84
+1010 : 4, 60
+1011 : 6, 126
+1110 : 1, 30
+!totalCnt: 17; totalSize: 0K
+~2019/9/18 22:07:14
+3013 : 11, 144
+3017 : 5, 72
+1006 : 3, 70
+1011 : 4, 88
+1010 : 1, 24
+!totalCnt: 24; totalSize: 0K
+~2019/9/18 22:08:14
+3017 : 2, 36
+1011 : 2, 58
+3013 : 18, 228
+3011 : 2, 36
+1010 : 2, 36
+!totalCnt: 26; totalSize: 0K
+~2019/9/18 22:09:14
+3013 : 12, 156
+1011 : 7, 144
+3017 : 4, 60
+1110 : 1, 30
+3011 : 1, 24
+3025 : 4, 60
+3018 : 11, 144
+3019 : 26, 324
+1006 : 3, 92
+!totalCnt: 69; totalSize: 1K
+~2019/9/18 22:10:14
+3019 : 27, 336
+1006 : 8, 207
+3018 : 10, 132
+3017 : 3, 48
+3025 : 2, 36
+3013 : 4, 60
+!totalCnt: 54; totalSize: 0K
+~2019/9/18 22:11:14
+3013 : 15, 192
+3011 : 2, 36
+3019 : 37, 456
+3018 : 12, 156
+3017 : 4, 60
+3025 : 4, 60
+1006 : 13, 300
+4633 : 1, 24
+1010 : 2, 36
+1011 : 1, 38
+!totalCnt: 91; totalSize: 1K
+~2019/9/18 22:12:14
+3013 : 14, 180
+4633 : 1, 24
+3017 : 6, 84
+1010 : 5, 72
+1011 : 1, 48
+!totalCnt: 27; totalSize: 0K
+~2019/9/18 22:13:14
+3011 : 1, 24
+3013 : 4, 60
+3017 : 5, 72
+1006 : 2, 69
+!totalCnt: 12; totalSize: 0K
+~2019/9/18 22:14:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:15:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:16:15
+3017 : 6, 84
+1006 : 1, 46
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:17:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:18:15
+3017 : 6, 84
+1006 : 1, 46
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:19:15
+3017 : 5, 72
+1006 : 2, 69
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:20:15
+3017 : 5, 72
+!totalCnt: 5; totalSize: 0K
+~2019/9/18 22:21:15
+3017 : 6, 84
+1006 : 1, 46
+4464 : 1, 24
+!totalCnt: 8; totalSize: 0K
+~2019/9/18 22:22:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:23:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:24:15
+3017 : 6, 84
+1006 : 1, 46
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 22:25:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:26:15
+3017 : 6, 84
+1006 : 2, 69
+!totalCnt: 8; totalSize: 0K
+~2019/9/18 22:27:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:28:15
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 22:29:15
+3017 : 2, 36
+1009 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+3013 : 19, 240
+1010 : 1, 24
+!totalCnt: 25; totalSize: 0K
+~2019/9/18 22:30:15
+1010 : 1, 24
+1011 : 6, 124
+1006 : 2, 36
+3013 : 2, 36
+3017 : 1, 24
+1048 : 1, 46
+!totalCnt: 13; totalSize: 0K
+~2019/9/18 22:31:15
+1003 : 1, 46
+3017 : 20, 252
+3010 : 4, 60
+3013 : 15, 192
+3011 : 1, 24
+1006 : 1, 46
+!totalCnt: 42; totalSize: 0K
+~2019/9/18 22:32:15
+3017 : 25, 312
+1006 : 1, 46
+!totalCnt: 26; totalSize: 0K
+~2019/9/18 22:33:16
+3017 : 9, 120
+4464 : 1, 24
+4633 : 1, 24
+3013 : 8, 108
+1010 : 2, 36
+1011 : 12, 310
+1006 : 2, 36
+!totalCnt: 35; totalSize: 0K
+~2019/9/18 22:34:16
+1011 : 1, 40
+3011 : 4, 60
+3010 : 2, 36
+3017 : 13, 168
+!totalCnt: 20; totalSize: 0K
+~2019/9/18 22:35:16
+3017 : 23, 288
+3010 : 3, 48
+3013 : 1, 24
+1001 : 1, 24
+3011 : 1, 24
+!totalCnt: 29; totalSize: 0K
+~2019/9/18 22:36:16
+3010 : 6, 84
+3013 : 8, 108
+3011 : 6, 84
+3017 : 13, 168
+1001 : 2, 36
+!totalCnt: 35; totalSize: 0K
+~2019/9/18 22:37:16
+3013 : 27, 336
+1001 : 3, 48
+3017 : 15, 192
+3010 : 2, 36
+!totalCnt: 47; totalSize: 0K
+~2019/9/18 22:38:16
+3017 : 12, 156
+3013 : 8, 108
+3010 : 5, 72
+1006 : 4, 92
+1001 : 2, 36
+1009 : 2, 36
+1018 : 1, 186
+81 : 1, 24
+3011 : 2, 36
+!totalCnt: 37; totalSize: 0K
+~2019/9/18 22:39:16
+1018 : 1, 186
+81 : 1, 24
+3013 : 14, 180
+1003 : 1, 42
+1006 : 1, 24
+1010 : 6, 84
+1011 : 9, 262
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 22:40:16
+1006 : 9, 150
+1011 : 5, 108
+3013 : 20, 252
+3017 : 7, 96
+!totalCnt: 41; totalSize: 0K
+~2019/9/18 22:41:16
+3013 : 51, 624
+3017 : 16, 204
+3030 : 6, 126
+!totalCnt: 73; totalSize: 0K
+~2019/9/18 22:42:16
+3017 : 20, 252
+3013 : 15, 192
+3030 : 4, 90
+3011 : 4, 60
+!totalCnt: 43; totalSize: 0K
+~2019/9/18 22:43:16
+3013 : 24, 300
+3011 : 4, 60
+1001 : 4, 60
+1115 : 1, 24
+3017 : 21, 264
+!totalCnt: 54; totalSize: 0K
+~2019/9/18 22:44:16
+3013 : 38, 468
+3017 : 24, 300
+1006 : 2, 36
+1011 : 6, 151
+!totalCnt: 70; totalSize: 0K
+~2019/9/18 22:45:16
+3013 : 13, 168
+3017 : 25, 312
+1001 : 1, 24
+1010 : 2, 36
+1011 : 13, 252
+!totalCnt: 54; totalSize: 0K
+~2019/9/18 22:46:16
+3013 : 24, 300
+1011 : 2, 54
+1001 : 3, 48
+3011 : 2, 36
+3017 : 25, 312
+!totalCnt: 56; totalSize: 0K
+~2019/9/18 22:47:16
+3017 : 17, 216
+3013 : 30, 372
+1006 : 3, 78
+1011 : 5, 119
+3011 : 6, 84
+1002 : 1, 24
+3010 : 2, 36
+1010 : 2, 36
+3030 : 2, 87
+1115 : 1, 24
+!totalCnt: 69; totalSize: 1K
+~2019/9/18 22:48:16
+3013 : 37, 456
+3017 : 15, 192
+3030 : 1, 54
+1011 : 1, 34
+3010 : 1, 24
+1003 : 3, 88
+4633 : 1, 24
+3011 : 2, 36
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 22:49:16
+3013 : 47, 576
+3017 : 17, 216
+3011 : 1, 24
+1001 : 1, 24
+!totalCnt: 66; totalSize: 0K
+~2019/9/18 22:50:16
+3013 : 47, 576
+3011 : 4, 60
+1001 : 2, 36
+3017 : 15, 192
+!totalCnt: 68; totalSize: 0K
+~2019/9/18 22:51:16
+3013 : 20, 252
+3017 : 20, 252
+1006 : 42, 1146
+!totalCnt: 82; totalSize: 1K
+~2019/9/18 22:52:17
+3013 : 45, 552
+3017 : 17, 216
+1006 : 8, 243
+1001 : 2, 36
+4629 : 1, 24
+!totalCnt: 73; totalSize: 1K
+~2019/9/18 22:53:17
+3013 : 21, 264
+3017 : 16, 204
+1006 : 1, 24
+1011 : 3, 91
+1000 : 1, 38
+!totalCnt: 42; totalSize: 0K
+~2019/9/18 22:54:17
+1000 : 1, 42
+3010 : 3, 48
+3013 : 47, 576
+3011 : 3, 48
+3017 : 10, 132
+!totalCnt: 64; totalSize: 0K
+~2019/9/18 22:55:17
+3013 : 46, 564
+3017 : 15, 192
+3011 : 3, 48
+1001 : 2, 36
+4629 : 1, 24
+1115 : 1, 24
+!totalCnt: 68; totalSize: 0K
+~2019/9/18 22:56:17
+3011 : 4, 60
+3013 : 66, 804
+3017 : 8, 108
+1006 : 1, 24
+1011 : 1, 40
+!totalCnt: 80; totalSize: 1K
+~2019/9/18 22:57:17
+1006 : 1, 24
+1011 : 3, 91
+3017 : 1, 24
+3013 : 61, 744
+3011 : 2, 36
+3010 : 1, 24
+4629 : 1, 24
+!totalCnt: 70; totalSize: 0K
+~2019/9/18 22:58:17
+3013 : 20, 252
+3011 : 3, 48
+3017 : 10, 132
+3010 : 1, 24
+!totalCnt: 34; totalSize: 0K
+~2019/9/18 22:59:17
+3013 : 59, 720
+3011 : 3, 48
+3017 : 1, 24
+1006 : 1, 24
+1011 : 3, 73
+3010 : 2, 36
+!totalCnt: 69; totalSize: 0K
+~2019/9/18 23:00:17
+3011 : 8, 108
+3010 : 4, 60
+4633 : 1, 24
+3013 : 28, 348
+1010 : 4, 60
+1011 : 3, 77
+3017 : 12, 156
+!totalCnt: 60; totalSize: 0K
+~2019/9/18 23:01:17
+3017 : 20, 252
+3013 : 38, 468
+3010 : 1, 24
+!totalCnt: 59; totalSize: 0K
+~2019/9/18 23:02:17
+3017 : 17, 216
+3013 : 49, 600
+3011 : 3, 48
+1001 : 2, 36
+3010 : 1, 24
+!totalCnt: 72; totalSize: 0K
+~2019/9/18 23:03:17
+3013 : 38, 468
+3011 : 2, 36
+1001 : 1, 24
+3017 : 16, 204
+!totalCnt: 57; totalSize: 0K
+~2019/9/18 23:04:17
+3013 : 48, 588
+3017 : 13, 168
+3011 : 8, 108
+3010 : 1, 24
+3030 : 1, 36
+!totalCnt: 71; totalSize: 0K
+~2019/9/18 23:05:17
+3013 : 31, 384
+3017 : 19, 240
+3011 : 3, 48
+!totalCnt: 53; totalSize: 0K
+~2019/9/18 23:06:17
+3017 : 21, 264
+3011 : 11, 144
+1001 : 2, 36
+3013 : 4, 60
+!totalCnt: 38; totalSize: 0K
+~2019/9/18 23:07:17
+3017 : 18, 228
+3013 : 41, 504
+3030 : 1, 36
+3011 : 3, 48
+1001 : 2, 36
+!totalCnt: 65; totalSize: 0K
+~2019/9/18 23:08:17
+3017 : 14, 180
+3013 : 41, 504
+3011 : 2, 36
+4629 : 2, 36
+3010 : 2, 36
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 23:09:18
+3017 : 13, 168
+4464 : 1, 24
+3013 : 47, 576
+1001 : 2, 36
+3011 : 1, 24
+!totalCnt: 64; totalSize: 0K
+~2019/9/18 23:10:18
+3013 : 12, 156
+3011 : 4, 60
+3017 : 20, 252
+!totalCnt: 36; totalSize: 0K
+~2019/9/18 23:11:18
+3017 : 19, 240
+3011 : 8, 108
+1001 : 13, 168
+3013 : 28, 348
+!totalCnt: 68; totalSize: 0K
+~2019/9/18 23:12:18
+3013 : 10, 132
+3011 : 2, 36
+3010 : 1, 24
+3017 : 11, 144
+!totalCnt: 24; totalSize: 0K
+~2019/9/18 23:13:18
+1048 : 1, 42
+1006 : 1, 24
+3017 : 19, 240
+3013 : 8, 108
+3011 : 6, 84
+1001 : 5, 72
+!totalCnt: 40; totalSize: 0K
+~2019/9/18 23:14:18
+3013 : 25, 312
+3011 : 4, 60
+1001 : 1, 24
+3017 : 17, 216
+3010 : 2, 36
+!totalCnt: 49; totalSize: 0K
+~2019/9/18 23:15:18
+3017 : 19, 240
+3013 : 10, 132
+1001 : 1, 24
+3011 : 4, 60
+3010 : 4, 60
+!totalCnt: 38; totalSize: 0K
+~2019/9/18 23:16:18
+3017 : 17, 216
+4633 : 1, 24
+3013 : 28, 348
+1006 : 1, 24
+1011 : 3, 73
+3030 : 6, 126
+!totalCnt: 56; totalSize: 0K
+~2019/9/18 23:17:18
+3013 : 43, 528
+3017 : 15, 192
+3011 : 3, 48
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 23:18:18
+3011 : 3, 48
+1007 : 13, 168
+3017 : 17, 216
+3013 : 27, 336
+1006 : 1, 24
+1011 : 5, 135
+!totalCnt: 66; totalSize: 0K
+~2019/9/18 23:19:18
+1006 : 1, 24
+3017 : 20, 252
+3013 : 34, 420
+1011 : 3, 91
+3011 : 2, 36
+1001 : 1, 24
+!totalCnt: 61; totalSize: 0K
+~2019/9/18 23:20:18
+3017 : 25, 312
+3013 : 51, 624
+3030 : 2, 54
+!totalCnt: 78; totalSize: 0K
+~2019/9/18 23:21:18
+3013 : 54, 660
+3010 : 1, 24
+3011 : 1, 24
+4633 : 1, 24
+1006 : 1, 24
+1011 : 3, 73
+3017 : 5, 72
+!totalCnt: 66; totalSize: 0K
+~2019/9/18 23:22:18
+3017 : 7, 96
+3013 : 26, 324
+4633 : 1, 24
+1006 : 2, 36
+1011 : 5, 108
+3010 : 1, 24
+3011 : 2, 36
+4629 : 3, 48
+!totalCnt: 47; totalSize: 0K
+~2019/9/18 23:23:18
+3013 : 88, 1068
+3017 : 1, 24
+3030 : 1, 36
+4629 : 3, 48
+!totalCnt: 93; totalSize: 1K
+~2019/9/18 23:24:18
+3013 : 46, 564
+3030 : 2, 54
+3017 : 5, 72
+3011 : 2, 36
+4629 : 2, 36
+4633 : 1, 24
+1006 : 2, 36
+1011 : 3, 73
+3010 : 2, 36
+!totalCnt: 65; totalSize: 0K
+~2019/9/18 23:25:19
+3017 : 6, 84
+4633 : 1, 24
+3013 : 2, 36
+1006 : 4, 69
+1011 : 7, 139
+3010 : 1, 24
+3011 : 2, 36
+!totalCnt: 23; totalSize: 0K
+~2019/9/18 23:26:19
+3011 : 3, 48
+3013 : 11, 144
+3010 : 3, 48
+3017 : 3, 48
+1006 : 4, 88
+4633 : 1, 24
+1010 : 2, 36
+1011 : 1, 38
+3030 : 5, 108
+!totalCnt: 33; totalSize: 0K
+~2019/9/18 23:27:19
+3013 : 50, 612
+1010 : 2, 36
+3011 : 3, 48
+1011 : 2, 62
+!totalCnt: 57; totalSize: 0K
+~2019/9/18 23:28:19
+3013 : 23, 288
+3017 : 11, 144
+1010 : 4, 60
+1011 : 1, 42
+!totalCnt: 39; totalSize: 0K
+~2019/9/18 23:29:19
+3017 : 18, 228
+3013 : 8, 108
+1001 : 5, 72
+3011 : 9, 120
+!totalCnt: 40; totalSize: 0K
+~2019/9/18 23:30:19
+1048 : 1, 46
+1006 : 1, 24
+3013 : 30, 372
+3017 : 14, 180
+!totalCnt: 46; totalSize: 0K
+~2019/9/18 23:31:19
+3017 : 14, 180
+1006 : 3, 81
+3013 : 27, 336
+3011 : 2, 36
+!totalCnt: 46; totalSize: 0K
+~2019/9/18 23:32:19
+3017 : 6, 84
+3013 : 72, 876
+3011 : 1, 24
+!totalCnt: 79; totalSize: 0K
+~2019/9/18 23:33:19
+3013 : 29, 360
+3011 : 6, 84
+1006 : 20, 507
+3017 : 2, 36
+4633 : 1, 24
+1000 : 3, 108
+!totalCnt: 61; totalSize: 1K
+~2019/9/18 23:34:19
+1006 : 70, 1917
+3013 : 3, 48
+1009 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+3017 : 1, 24
+!totalCnt: 77; totalSize: 2K
+~2019/9/18 23:35:19
+3013 : 4, 60
+1010 : 2, 36
+1011 : 1, 48
+3011 : 1, 24
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 14; totalSize: 0K
+~2019/9/18 23:36:19
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 23:37:19
+3017 : 6, 84
+1006 : 1, 46
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 23:38:19
+3017 : 5, 72
+1006 : 1, 46
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 23:39:19
+1009 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+3013 : 23, 288
+1010 : 4, 60
+1011 : 3, 85
+3011 : 2, 36
+!totalCnt: 35; totalSize: 0K
+~2019/9/18 23:40:19
+3013 : 18, 228
+3011 : 4, 60
+1010 : 3, 48
+1011 : 3, 80
+!totalCnt: 28; totalSize: 0K
+~2019/9/18 23:41:19
+1011 : 3, 102
+1010 : 1, 24
+!totalCnt: 4; totalSize: 0K
+~2019/9/18 23:42:20
+1011 : 10, 293
+1048 : 1, 44
+3013 : 3, 48
+1010 : 4, 60
+1006 : 1, 24
+!totalCnt: 19; totalSize: 0K
+~2019/9/18 23:43:20
+1048 : 3, 88
+1006 : 3, 48
+1115 : 3, 48
+1010 : 1, 24
+1011 : 9, 266
+!totalCnt: 19; totalSize: 0K
+~2019/9/18 23:44:14
+1011 : 24, 693
+1010 : 1, 24
+1115 : 1, 24
+!totalCnt: 26; totalSize: 0K
+~2019/9/18 23:46:21
+1018 : 1, 186
+81 : 1, 24
+3013 : 15, 192
+!totalCnt: 17; totalSize: 0K
+~2019/9/18 23:49:22
+1018 : 1, 186
+81 : 1, 24
+1010 : 1, 24
+1011 : 4, 135
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 23:51:22
+3013 : 8, 108
+1009 : 1, 24
+1018 : 1, 186
+81 : 1, 24
+3017 : 1, 24
+3011 : 1, 24
+4633 : 1, 24
+3025 : 1, 24
+3019 : 8, 108
+3018 : 2, 36
+!totalCnt: 25; totalSize: 0K
+~2019/9/18 23:52:22
+3019 : 12, 156
+3018 : 12, 156
+3025 : 3, 48
+1006 : 17, 379
+3013 : 4, 60
+3017 : 4, 60
+1010 : 2, 36
+1011 : 9, 268
+3024 : 22, 276
+!totalCnt: 85; totalSize: 1K
+~2019/9/18 23:53:22
+3024 : 28, 348
+3018 : 11, 144
+1006 : 12, 299
+3017 : 6, 84
+3025 : 3, 48
+3019 : 7, 96
+3013 : 5, 72
+1001 : 5, 72
+3011 : 2, 36
+!totalCnt: 79; totalSize: 1K
+~2019/9/18 23:54:22
+1006 : 7, 103
+3017 : 4, 60
+3011 : 1, 24
+1001 : 1, 24
+3013 : 2, 36
+1010 : 1, 24
+1011 : 1, 48
+!totalCnt: 17; totalSize: 0K
+~2019/9/18 23:55:22
+3017 : 6, 84
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 23:56:22
+3017 : 5, 72
+!totalCnt: 5; totalSize: 0K
+~2019/9/18 23:57:22
+3017 : 5, 72
+1006 : 2, 57
+!totalCnt: 7; totalSize: 0K
+~2019/9/18 23:58:22
+3017 : 6, 84
+!totalCnt: 6; totalSize: 0K
+~2019/9/18 23:59:22
+3017 : 5, 72
+!totalCnt: 5; totalSize: 0K

@@ -1,0 +1,1523 @@
+2019-08-03 00:00:03 [BackupSave]: -= 本地备份 =-
+2019-08-03 00:04:17 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:12:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:13:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:14:49 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:25:02 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:42:32 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:47:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:51:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 00:58:30 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:02:32 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:03:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:06:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:13:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:21:45 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:37:31 UnKnown Cmd of TYPE_A:344
+2019-08-03 01:40:21 UnKnown Cmd of TYPE_A:344
+2019-08-03 02:08:49 UnKnown Cmd of TYPE_A:344
+2019-08-03 02:09:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 02:34:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 02:46:52 UnKnown Cmd of TYPE_A:344
+2019-08-03 04:28:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 04:55:45 UnKnown Cmd of TYPE_A:344
+2019-08-03 05:01:56 UnKnown Cmd of TYPE_A:344
+2019-08-03 05:30:03 [BackupSave]: ==== 复制备份昨日数据 ====
+2019-08-03 05:30:04 [BackupSave]: ======================= 数据备份 =======================
+2019-08-03 05:30:04 ======================= 开始拷贝所有数据库中所有数据表文件 =======================
+2019-08-03 05:30:04 ====== 拷贝源数据库 mir3（d:\mud2\mysql\data\mir3）---->目标数据库 mir3_backup（d:\mud2\mysql\data\data_backup\mir3_backup） 完成，共拷贝数据表文件51个======
+2019-08-03 05:30:04 ====== 拷贝源数据库 gamedata（d:\mud2\mysql\data\gamedata）---->目标数据库 gamedata_backup（d:\mud2\mysql\data\data_backup\gamedata_backup） 完成，共拷贝数据表文件144个======
+2019-08-03 05:30:04 ====== 拷贝源数据库 guild（d:\mud2\mysql\data\guild）---->目标数据库 guild_backup（d:\mud2\mysql\data\data_backup\guild_backup） 完成，共拷贝数据表文件21个======
+2019-08-03 05:30:04 ======================= 结束拷贝所有数据库中所有数据表文件，花费时间 0 秒 =======================
+2019-08-03 05:30:04 [BackupSave]: ============ 压缩数据 ============
+2019-08-03 05:30:05 执行外部上传程序d:\mud2\backup\backup.exe
+2019-08-03 05:30:05 [BackupSave]: ======================= 数据备份成功 用时 1 秒 =======================
+2019-08-03 05:31:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 06:00:03 [BackupSave]: -= 本地备份 =-
+2019-08-03 06:02:11 UnKnown Cmd of TYPE_A:344
+2019-08-03 06:19:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 06:19:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 07:00:00 刷新排行榜开始...
+2019-08-03 07:00:00 刷新战神榜共38条记录
+2019-08-03 07:00:00 刷新法神榜共24条记录
+2019-08-03 07:00:00 刷新道尊榜共12条记录
+2019-08-03 07:00:00 刷新玛法群英榜共74条记录
+2019-08-03 07:00:01 刷新名师榜共0条记录
+2019-08-03 07:00:01 刷新战斗力排行榜共0条记录
+2019-08-03 07:00:01 刷新玛法内功榜共0条记录
+2019-08-03 07:00:01 刷新刺客榜共0条记录
+2019-08-03 07:00:01 刷新战士英雄榜共8条记录
+2019-08-03 07:00:02 刷新法师英雄榜共5条记录
+2019-08-03 07:00:02 刷新道士英雄榜共25条记录
+2019-08-03 07:00:02 刷新英雄总排行榜共38条记录
+2019-08-03 07:00:02 刷新排行榜结束，共 36 页
+2019-08-03 07:46:09 UnKnown Cmd of TYPE_A:344
+2019-08-03 07:54:15 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:00:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:09:32 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:11:20 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:11:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:12:00 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:20:05 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:24:18 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:25:18 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:39:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:49:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:49:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:51:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 08:58:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 09:00:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 09:16:16 UnKnown Cmd of TYPE_A:344
+2019-08-03 09:20:12 中断一个非法的 GameServer 连接，IP = 193.106.31.162
+2019-08-03 09:20:12 与M2Server通信错误：ErrorCode=10061
+2019-08-03 09:26:17 UnKnown Cmd of TYPE_A:344
+2019-08-03 09:30:12 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:06:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:07:34 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:35:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:39:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:42:59 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:46:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:47:38 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:56:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 10:59:26 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:03:48 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:04:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:05:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:06:53 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:10:34 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:14:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:20:56 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:28:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:32:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:33:02 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:34:19 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:36:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:38:42 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:46:59 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:50:27 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:51:26 UnKnown Cmd of TYPE_A:344
+2019-08-03 11:57:19 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:00:02 [BackupSave]: -= 本地备份 =-
+2019-08-03 12:02:15 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:05:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:13:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:14:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:16:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:21:18 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:34:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:35:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:36:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:38:58 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:40:11 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:40:53 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:41:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:51:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:52:05 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:52:27 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:53:25 UnKnown Cmd of TYPE_A:344
+2019-08-03 12:56:29 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:04:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:07:44 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:12:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:13:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:13:29 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:14:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:16:47 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:18:26 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:19:42 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:21:25 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:30:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:34:19 UnKnown Cmd of TYPE_A:344
+2019-08-03 13:39:43 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:02:11 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:05:43 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:13:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:29:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:31:24 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:33:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:34:27 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:35:48 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:36:20 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:39:30 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:44:13 UnKnown Cmd of TYPE_A:344
+2019-08-03 14:46:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:06:49 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:14:53 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:23:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:25:43 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:26:43 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:36:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:37:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:39:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:42:56 重复的地图文件配置 EM300
+2019-08-03 15:42:56 重复的地图文件配置 B010~10
+2019-08-03 15:42:56 重复的地图文件配置 Q002
+2019-08-03 15:43:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:44:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:52:39 GameServer 1 已连接.
+2019-08-03 15:53:20 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:53:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:54:21 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:55:11 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:55:40 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:56:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:57:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 15:58:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:01:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:02:26 重复的地图文件配置 EM300
+2019-08-03 16:02:26 重复的地图文件配置 B010~10
+2019-08-03 16:02:26 重复的地图文件配置 Q002
+2019-08-03 16:08:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:11:19 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:11:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:12:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:15:09 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:17:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:18:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:19:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:20:24 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:22:05 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:24:54 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:25:01 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:26:31 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:28:17 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:28:38 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:30:42 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:37:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:39:02 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:41:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:42:56 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:49:17 UnKnown Cmd of TYPE_A:344
+2019-08-03 16:53:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:01:06 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:05:45 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:08:09 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:09:12 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:19:55 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:27:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:34:51 GameServer 1 已连接.
+2019-08-03 17:35:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:38:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:40:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:42:27 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:44:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 17:56:51 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:00:03 [BackupSave]: -= 本地备份 =-
+2019-08-03 18:00:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:14:27 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:20:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:21:32 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:23:25 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:24:24 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:30:06 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:31:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:33:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:37:22 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:38:00 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:39:29 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:43:48 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:43:48 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:55:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:56:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:57:18 GameServer 1 已连接.
+2019-08-03 18:57:48 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:57:57 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:58:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:58:09 UnKnown Cmd of TYPE_A:344
+2019-08-03 18:58:59 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:00:00 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:01:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:02:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:07:23 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:09:47 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:14:38 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:15:40 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:17:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:20:08 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:25:18 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:32:07 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:42:40 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:43:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:44:00 UnKnown Cmd of TYPE_A:344
+2019-08-03 19:48:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:01:21 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:13:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:19:16 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:25:20 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:26:20 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:35:07 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:36:47 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:39:55 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:44:51 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:47:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:58:38 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:58:59 UnKnown Cmd of TYPE_A:344
+2019-08-03 20:59:15 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:02:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:02:40 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:02:45 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:05:15 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:07:03 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:07:51 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:09:02 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:09:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:12:56 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:13:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:27:12 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:27:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:30:11 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:30:24 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:24 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:25 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:25 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:26 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:26 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:27 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:27 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:28 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:28 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:29 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:29 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:30 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:31 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:32 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:33 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:34 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:35 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:35 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:40 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:40 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:41 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:42 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:43 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:44 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:44 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:45 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:45 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:45 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:30:46 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:46 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:47 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:47 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:48 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:48 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:49 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:49 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:50 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:50 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:51 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:51 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:52 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:52 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:53 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:53 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:54 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:54 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:55 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:57 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:30:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:58 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:30:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:30:59 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:31:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:31:00 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:31:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:31:01 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:31:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:31:02 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:31:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:31:03 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:31:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:31:04 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=78805388, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:31:56 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:32:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:06 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:07 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:08 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:09 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:11 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:12 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:13 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:14 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:15 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:16 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:17 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:17 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:18 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:18 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:19 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:19 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:20 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:20 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:21 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:21 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:22 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:22 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:23 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:23 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:24 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:24 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:24 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:24 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:25 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:25 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:25 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:25 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:26 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:26 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:26 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:26 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:27 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:27 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:27 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:27 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:28 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:28 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:28 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:32:28 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:28 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:29 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:29 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:29 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:29 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:30 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:30 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:30 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:31 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:31 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:31 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:32 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:32 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:32 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:33 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:33 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:33 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:34 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:34 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:34 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:35 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:35 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:35 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:35 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:36 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:36 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:37 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:37 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:38 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:38 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:39 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:39 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:40 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:40 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:40 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:40 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:41 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:41 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:41 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:42 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:42 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:42 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:43 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:43 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:43 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:44 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:44 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:44 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:44 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:45 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:45 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:45 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:32:45 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:45 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:46 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:46 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22423610, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:32:46 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:46 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:47 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:47 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:47 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:47 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:48 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:48 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:48 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:48 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:49 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:49 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:49 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:49 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:50 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:50 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:50 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:50 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:51 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:51 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:51 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:51 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:52 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:52 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:52 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:52 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:53 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:53 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:53 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:53 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:54 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:54 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:54 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:54 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:55 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:55 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:55 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:56 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:56 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:56 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:57 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:57 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:58 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:32:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:58 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:32:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:59 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:32:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:32:59 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:00 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:00 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:01 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:01 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:33:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:02 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:02 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:03 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:03 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4669305, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:33:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:04 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:04 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:05 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:05 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:05 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:06 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:06 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:06 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:07 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:07 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:07 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:08 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:08 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:33:08 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:08 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:09 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:09 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:09 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:10 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:10 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:10 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:11 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:11 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:11 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:12 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:12 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:12 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:13 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:13 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:13 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:14 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:14 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:14 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:15 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:15 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:15 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:16 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:16 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:16 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:17 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:17 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:17 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:17 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:18 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:18 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:18 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:18 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:19 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:19 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:19 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:19 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:20 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:20 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:20 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:20 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:21 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:21 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:21 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:21 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:22 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:22 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:22 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:22 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:23 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:23 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:23 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:23 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:24 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:24 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:24 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:24 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:25 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:25 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:25 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:33:25 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:25 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=110 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:26 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:26 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:26 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:26 [PlayerSave]: Update user_index Set PTID="pt14fd866f4ab208cfb6", IsDelete=0,IsSelect=1,Level=46,Job=2,Sex=0,ModifyDate=Now(),Exp=232095620, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=110;
+2019-08-03 21:33:27 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:27 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:28 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:28 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:29 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:29 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:30 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:31 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:32 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:33 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:34 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:35 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:35 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:38 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:33:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:40 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:40 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:41 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:33:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:42 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=63 and (Level<>44 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:33:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:33:43 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=44, Job=1,Sex=0, Exp=1220915, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=63;
+2019-08-03 21:34:18 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:34:59 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:35:39 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:36:46 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:46 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:47 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:47 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:48 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:48 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:49 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:49 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:50 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:50 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:51 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:51 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:52 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:52 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:53 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:53 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:54 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:54 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:55 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:55 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:56 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:57 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:36:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:58 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:36:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:36:59 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:00 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:01 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:02 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:03 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:04 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:05 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:06 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:07 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:07 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:37:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:08 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:09 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:10 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:11 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:12 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:13 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:14 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:15 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:16 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:17 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:17 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:18 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:18 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:19 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:19 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:20 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:20 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:21 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:21 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:22 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:22 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:23 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:23 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:37:25 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:25 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:37:26 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:37:26 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=351648432, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:38:18 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:38:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:30 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:30 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:30 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:31 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:31 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:31 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:32 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:32 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:32 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:33 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:33 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:33 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:34 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:34 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:34 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:35 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:35 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:35 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:35 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:36 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:36 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:37 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:37 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:38 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:38 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:39 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:39 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:40 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:40 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:40 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:40 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:41 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:41 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:41 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:42 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:42 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:42 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:43 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:43 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:43 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:44 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:44 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:44 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:44 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:45 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:45 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:45 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:45 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:46 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:46 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:46 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:46 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:47 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:47 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:47 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:47 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:48 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:48 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:48 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:48 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:49 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:49 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:49 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:49 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:50 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:50 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:50 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:50 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:51 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:51 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:51 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:38:51 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:51 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:51 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:38:52 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:52 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:52 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:52 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:53 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:53 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:53 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:53 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:55 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:55 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:55 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:56 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:56 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:56 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:57 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:57 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:58 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:38:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:58 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:38:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:59 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:38:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:38:59 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:00 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:00 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:01 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:01 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:02 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:02 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:03 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:03 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:04 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:04 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:05 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:05 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:05 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:06 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:06 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:06 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:07 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:07 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:07 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:08 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:08 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:08 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:09 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:09 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=73 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:09 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=131 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:10 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:10 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=36, Job=2,Sex=0, Exp=3050322, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=73;
+2019-08-03 21:39:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:10 [PlayerSave]: Update user_index Set PTID="pt150b476169163a6562", IsDelete=0,IsSelect=1,Level=42,Job=0,Sex=0,ModifyDate=Now(),Exp=26321477, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=131;
+2019-08-03 21:39:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:55 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:56 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:56 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:39:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:56 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:57 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:57 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:39:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:58 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:39:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:58 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:59 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:39:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:39:59 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:00 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:00 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:01 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:01 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:02 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:02 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:02 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:03 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:03 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:04 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:04 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:05 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:05 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:05 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:06 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:06 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:06 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:07 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:07 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:07 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:08 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:08 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:08 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:09 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:09 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:09 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:10 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:10 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:10 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:11 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:11 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:11 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:12 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:12 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:12 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:13 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:13 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:13 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:14 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:14 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:14 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:15 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:15 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:15 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:16 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:16 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:16 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:16 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:17 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:17 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:17 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:17 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:17 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:18 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:18 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:18 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:18 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:19 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:19 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:19 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:19 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:20 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:20 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:20 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:20 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:21 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:21 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:21 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:21 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:22 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:22 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:22 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:22 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:23 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:23 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:23 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:23 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:24 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:24 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:24 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:24 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:25 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:25 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:25 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:25 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:26 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:26 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:26 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:26 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:27 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:27 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:27 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:27 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:28 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:28 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:28 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:28 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:29 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:29 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:29 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:29 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:30 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:30 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:30 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:30 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:31 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:31 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:31 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:31 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:32 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:32 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:32 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:32 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:33 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:33 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:33 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:33 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=94 and (Level<>39 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:34 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:34 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=39, Job=2,Sex=0, Exp=4974714, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=94;
+2019-08-03 21:40:35 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:35 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=178 and (Level<>42 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:36 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:36 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:36 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:36 [PlayerSave]: Update user_index Set PTID="pte92df58ef05a46281f", IsDelete=0,IsSelect=1,Level=42,Job=2,Sex=0,ModifyDate=Now(),Exp=22765315, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=178;
+2019-08-03 21:40:37 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:37 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:37 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:37 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:38 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:38 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:38 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:38 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:39 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:39 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:39 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:39 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:40 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:40 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:40 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:40 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:41 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:41 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:41 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:42 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:42 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:42 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:43 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:43 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:43 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:44 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:44 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:44 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:44 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:44 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:45 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:45 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:45 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:45 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:46 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:46 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:46 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:46 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:47 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:47 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:47 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:47 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:48 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:48 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:48 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:48 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:49 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:49 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:49 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:49 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:50 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:50 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:50 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:50 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:51 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:51 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:51 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:51 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:52 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:52 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:52 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:52 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:53 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:53 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:53 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:53 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:54 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:54 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:54 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:54 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:55 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:55 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:55 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:56 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:56 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:56 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:57 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:57 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:57 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:58 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:40:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:58 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:40:58 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:40:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:59 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:40:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:40:59 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:00 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:00 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:01 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:01 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:02 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:02 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:02 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:03 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:03 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:04 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:04 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:05 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:05 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:05 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:05 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:06 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:06 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:06 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:06 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:07 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:07 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:07 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:07 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:08 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:08 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:08 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:08 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:09 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:09 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:09 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:09 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:10 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:10 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:10 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:10 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:11 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:11 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:11 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:11 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:12 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:12 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:12 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:12 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:13 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:13 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:13 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:13 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:14 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:14 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=64 and (Level<>45 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:14 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:14 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:15 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:15 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=45, Job=2,Sex=1, Exp=80049785, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=64;
+2019-08-03 21:41:15 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:15 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=111 and (Level<>46 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:41:16 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:41:16 [PlayerSave]: Update user_index Set PTID="pte4c3d4be16367c2b98", IsDelete=0,IsSelect=1,Level=46,Job=1,Sex=0,ModifyDate=Now(),Exp=352277923, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=111;
+2019-08-03 21:41:27 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:42:13 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:42:43 [Error]: 骨玉 数据读取错误
+2019-08-03 21:42:43 [Error]: 骨玉 数据读取失败，尝试读取备份库
+2019-08-03 21:42:45 [Error]: 骨玉 备份数据读取错误
+2019-08-03 21:42:54 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:43:07 [Error]: 骨玉 数据读取错误
+2019-08-03 21:43:07 [Error]: 骨玉 数据读取失败，尝试读取备份库
+2019-08-03 21:43:09 [Error]: 骨玉 备份数据读取错误
+2019-08-03 21:43:35 [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:45:34 GameServer 1 已连接.
+2019-08-03 21:47:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:48:49 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:49:04 UnKnown Cmd of TYPE_A:344
+2019-08-03 21:52:41 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:41 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:41 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:41 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:42 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:42 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:42 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:42 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:43 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:43 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:43 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:43 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:44 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:44 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:45 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:45 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:46 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:46 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:46 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:46 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:47 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:47 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:47 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:47 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:48 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:48 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:48 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:48 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:49 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:49 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:49 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:49 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:50 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:50 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:50 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:50 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:51 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:51 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:51 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:51 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:52 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:52 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:52 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:52 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:53 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:53 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:53 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:53 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:54 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:54 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:54 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:54 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:55 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:55 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:55 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:55 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:56 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:56 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:57 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:57 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:57 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:57 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:52:58 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:58 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:52:58 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:58 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:59 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:59 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:52:59 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:52:59 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:53:00 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:00 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:53:00 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:00 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:53:01 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:01 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:53:01 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:01 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:53:02 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:02 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:53:03 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:03 [PlayerSave]: Update user_index set lvChangeTime=Now() where idx=197 and (Level<>36 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:53:03 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:03 [HeroSave]: Update hero_index set lvChangeTime=Now() where idx=107 and (Level<>26 or ForceLv<>0 or sfLevel<>0);
+2019-08-03 21:53:04 [PlayerSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:04 [PlayerSave]: Update user_index Set PTID="pt625dee742787b3c18c", IsDelete=0,IsSelect=1,Level=36,Job=2,Sex=0,ModifyDate=Now(),Exp=1683100, ApprenticeNum=0, HeroCardLv=0,PlatinaChrLv=0, ForceLv=0, ForceExp=0, FightPoints=0, sfLevel=0 where idx=197;
+2019-08-03 21:53:04 [PlayerSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:53:04 [HeroSave]: SQL Error: Can't connect to MySQL server on 'LocalHost' (10061)
+2019-08-03 21:53:04 [HeroSave]: Update hero_index Set IsDelete=0, HeroType=1, Consignation=0, Level=26, Job=1,Sex=1, Exp=285399, ModifyDate=Now(), ForceLv=0, ForceExp=0, sfLevel=0 where idx=107;
+2019-08-03 21:53:04 [HeroSave]: [Error]: 数据写入MYSQL出错！！！！
+2019-08-03 21:56:38 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:01:36 中断一个非法的 GameServer 连接，IP = 104.152.52.39
+2019-08-03 22:01:36 与M2Server通信错误：ErrorCode=10061
+2019-08-03 22:04:33 与 LoginGate 连接断开
+2019-08-03 22:05:28 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:05:28 与 LoginGate 连接成功
+2019-08-03 22:05:45 与 LoginGate 连接断开
+2019-08-03 22:05:46 GameGate 1 断开.
+2019-08-03 22:09:08 ============= DBService Start =============
+2019-08-03 22:09:09 检查基础信息表的更新... 
+2019-08-03 22:09:09 尝试修复数据表:gamedata.attachitem
+2019-08-03 22:09:09 尝试修复数据表:gamedata.attachitem_b
+2019-08-03 22:09:09 尝试修复数据表:gamedata.authenticateuser
+2019-08-03 22:09:09 尝试修复数据表:gamedata.awardcodes
+2019-08-03 22:09:09 尝试修复数据表:gamedata.buyer_order
+2019-08-03 22:09:09 尝试修复数据表:gamedata.buyitem_detail
+2019-08-03 22:09:09 尝试修复数据表:gamedata.castledetail
+2019-08-03 22:09:09 尝试修复数据表:gamedata.castleord
+2019-08-03 22:09:09 尝试修复数据表:gamedata.corps
+2019-08-03 22:09:09 尝试修复数据表:gamedata.corpsmember
+2019-08-03 22:09:09 尝试修复数据表:gamedata.creditcard
+2019-08-03 22:09:09 尝试修复数据表:gamedata.gamelog
+2019-08-03 22:09:09 尝试修复数据表:gamedata.gild
+2019-08-03 22:09:09 尝试修复数据表:gamedata.gildconcern
+2019-08-03 22:09:09 尝试修复数据表:gamedata.gildmember
+2019-08-03 22:09:09 尝试修复数据表:gamedata.gildrelation
+2019-08-03 22:09:09 尝试修复数据表:gamedata.glorylog
+2019-08-03 22:09:09 尝试修复数据表:gamedata.glorypoint
+2019-08-03 22:09:09 尝试修复数据表:gamedata.lipaoobpoint
+2019-08-03 22:09:09 尝试修复数据表:gamedata.m2_yb_deal_setinfo
+2019-08-03 22:09:09 尝试修复数据表:gamedata.mailitem
+2019-08-03 22:09:09 尝试修复数据表:gamedata.mailitem_b
+2019-08-03 22:09:09 尝试修复数据表:gamedata.mirparams
+2019-08-03 22:09:09 尝试修复数据表:gamedata.money_order
+2019-08-03 22:09:09 尝试修复数据表:gamedata.newyearpresentauto
+2019-08-03 22:09:09 尝试修复数据表:gamedata.relation
+2019-08-03 22:09:09 尝试修复数据表:gamedata.requests
+2019-08-03 22:09:09 尝试修复数据表:gamedata.sellitems
+2019-08-03 22:09:09 尝试修复数据表:gamedata.signact
+2019-08-03 22:09:09 尝试修复数据表:gamedata.signacteveryday
+2019-08-03 22:09:09 尝试修复数据表:gamedata.simpleactrank
+2019-08-03 22:09:09 尝试修复数据表:gamedata.simpleactrankex
+2019-08-03 22:09:09 尝试修复数据表:gamedata.stall
+2019-08-03 22:09:09 尝试修复数据表:gamedata.stall_b
+2019-08-03 22:09:09 尝试修复数据表:gamedata.stallitem
+2019-08-03 22:09:09 尝试修复数据表:gamedata.stallitem_b
+2019-08-03 22:09:09 尝试修复数据表:gamedata.stallmsglst
+2019-08-03 22:09:09 尝试修复数据表:gamedata.transferareascore
+2019-08-03 22:09:09 尝试修复数据表:gamedata.transferareascoresendrecord
+2019-08-03 22:09:09 尝试修复数据表:gamedata.user_honor
+2019-08-03 22:09:09 尝试修复数据表:gamedata.votepoint
+2019-08-03 22:09:09 尝试修复数据表:gamedata.weaponupg
+2019-08-03 22:09:09 尝试修复数据表:gamedata.yb_user_data
+2019-08-03 22:09:09 尝试修复数据表:gamedata.ybconsume
+2019-08-03 22:09:09 尝试修复数据表:gamedata.ybdealhis
+2019-08-03 22:09:09 尝试修复数据表:gamedata.zongpaibase
+2019-08-03 22:09:09 尝试修复数据表:gamedata.zongpaimember
+2019-08-03 22:09:09 尝试修复数据表:gamedata.zongpairole
+2019-08-03 22:09:09 尝试修复用户数据表...
+2019-08-03 22:09:09 尝试修复数据表:mir3.user_index
+2019-08-03 22:09:09 尝试修复数据表:mir3.user_data
+2019-08-03 22:09:09 尝试修复数据表:mir3_backup.user_index
+2019-08-03 22:09:09 尝试修复数据表:mir3_backup.user_data
+2019-08-03 22:09:09 尝试修复英雄数据表...
+2019-08-03 22:09:09 尝试修复数据表:mir3.hero_index
+2019-08-03 22:09:09 尝试修复数据表:mir3.hero_data
+2019-08-03 22:09:09 尝试修复数据表:mir3_backup.hero_index
+2019-08-03 22:09:09 尝试修复数据表:mir3_backup.hero_data
+2019-08-03 22:09:09 优化数据表...
+2019-08-03 22:09:09 删除等级小于8级的小号...
+2019-08-03 22:09:09 共删除 0 个小号
+2019-08-03 22:09:09 清除行会无效角色... 
+2019-08-03 22:09:09 检查基础信息表... 
+2019-08-03 22:09:09 设置MySQL访问权限... 
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:110
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:113
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:120
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:125
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:151
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:160
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:210
+2019-08-03 22:09:09 读取 humanmagic Idx不连续:230
+2019-08-03 22:09:09 读取 humanmagic 表成功，记录数:96
+2019-08-03 22:09:09 读取 heromagic Idx不连续:112
+2019-08-03 22:09:09 读取 heromagic Idx不连续:114
+2019-08-03 22:09:09 读取 heromagic Idx不连续:129
+2019-08-03 22:09:09 读取 heromagic Idx不连续:210
+2019-08-03 22:09:09 读取 heromagic Idx不连续:230
+2019-08-03 22:09:09 读取 heromagic 表成功，记录数:80
+2019-08-03 22:09:09 读取 monster 表成功，记录数:1165
+2019-08-03 22:09:10 读取 stditems 成功，记录数:1882
+2019-08-03 22:09:10 读取 AntiqueItems 成功，记录数:293
+2019-08-03 22:09:10 读取 fieldhero 表成功，记录数:129
+2019-08-03 22:09:10 读取 superForce 成功，记录数:100
+2019-08-03 22:09:10 读取 superSkill 成功，记录数:23
+2019-08-03 22:09:10 读取 ForceMagic 表成功，记录数:47
+2019-08-03 22:09:10 重复的地图文件配置 EM300
+2019-08-03 22:09:10 重复的地图文件配置 B010~10
+2019-08-03 22:09:10 重复的地图文件配置 Q002
+2019-08-03 22:09:10 正在删除废弃角色数据
+2019-08-03 22:09:10 已成功删除角色数据, 共0条
+2019-08-03 22:09:10 正在删除没有主号的英雄数据
+2019-08-03 22:09:10 已成功删除英雄数据,共0条
+2019-08-03 22:09:10 载入 IpAddress.txt 成功
+2019-08-03 22:09:10 最大人数限制 = 20000
+2019-08-03 22:09:10 载入 !AbUse.Txt 成功
+2019-08-03 22:09:10 设置当前语言为 中文（中国）
+2019-08-03 22:09:10 刷新排行榜开始...
+2019-08-03 22:09:10 刷新战神榜共43条记录
+2019-08-03 22:09:10 载入 91/91
+2019-08-03 22:09:10 共载入玩家帐号 42，角色 91
+2019-08-03 22:09:10 共载入帐号仓库 0/0
+2019-08-03 22:09:10 [加载]：添加出生点 map: 0 x: 289 y: 618 range: 5
+2019-08-03 22:09:10 [加载]：添加出生点 map: 0 x: 650 y: 631 range: 5
+2019-08-03 22:09:10 载入 48/48
+2019-08-03 22:09:10 共载入有英雄的角色 48，英雄 48
+2019-08-03 22:09:10 共载入宠物 0
+2019-08-03 22:09:10 MySQL宗派信息记录数: 0
+2019-08-03 22:09:10 载入 !AbUseName.Txt 成功
+2019-08-03 22:09:10 [BackupSave]: 重新连接 MySQL.
+2019-08-03 22:09:11 刷新法神榜共29条记录
+2019-08-03 22:09:12 刷新道尊榜共16条记录
+2019-08-03 22:09:12 刷新玛法群英榜共88条记录
+2019-08-03 22:09:12 刷新名师榜共0条记录
+2019-08-03 22:09:12 刷新战斗力排行榜共0条记录
+2019-08-03 22:09:12 刷新玛法内功榜共0条记录
+2019-08-03 22:09:13 刷新刺客榜共0条记录
+2019-08-03 22:09:13 刷新战士英雄榜共10条记录
+2019-08-03 22:09:13 刷新法师英雄榜共8条记录
+2019-08-03 22:09:13 刷新道士英雄榜共30条记录
+2019-08-03 22:09:13 刷新英雄总排行榜共48条记录
+2019-08-03 22:09:14 刷新排行榜结束，共 44 页
+2019-08-03 22:09:21 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:09:39 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:09:59 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:10:03 GameServer 1 已连接.
+2019-08-03 22:10:24 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:10:39 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:10:59 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:11:14 GameGate 49.234.26.20 已连接.
+2019-08-03 22:11:14 GameGate 1 开启
+2019-08-03 22:11:14 Send GameServer Configure to GameGate 1
+2019-08-03 22:11:14 Send MagicDB Configure to GameGate 1
+2019-08-03 22:11:14 Send !AbUse.txt Configure to GameGate 1
+2019-08-03 22:11:47 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:11:57 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:12:17 尝试连接 LoginGate 49.234.26.20
+2019-08-03 22:12:17 与 LoginGate 连接成功
+2019-08-03 22:13:39 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:15:37 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:18:14 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:19:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:23:17 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:26:18 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:29:10 中断一个非法的 GameServer 连接，IP = 193.106.31.162
+2019-08-03 22:29:10 与M2Server通信错误：ErrorCode=10061
+2019-08-03 22:29:49 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:29:55 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:33:00 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:43:10 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:52:45 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:56:50 UnKnown Cmd of TYPE_A:344
+2019-08-03 22:59:41 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:15:33 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:20:35 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:24:36 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:24:47 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:32:46 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:36:54 UnKnown Cmd of TYPE_A:344
+2019-08-03 23:53:32 UnKnown Cmd of TYPE_A:344

@@ -1,0 +1,237 @@
+2019-09-10 00:00:04 [BackupSave]: -= 本地备份 =-
+2019-09-10 00:00:38 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:01:43 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:02:49 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:04:14 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:05:03 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:06:02 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:17 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:47 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:08:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:10:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:10:16 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:11:09 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:11:47 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:11:55 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:21:30 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:23:08 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:24:36 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:25:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:29:39 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:31:20 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:46:12 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:48:58 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:49:25 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:49:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 00:53:13 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:01:37 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:09:31 中断一个非法的 GameServer 连接，IP = 192.173.146.109
+2019-09-10 01:09:31 与M2Server通信错误：ErrorCode=10061
+2019-09-10 01:12:46 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:13:38 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:24:16 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:26:11 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:36:54 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:37:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:47:23 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:55:14 UnKnown Cmd of TYPE_A:344
+2019-09-10 01:58:57 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:01:40 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:02:36 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:03:57 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:19:41 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:26:49 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:29:50 UnKnown Cmd of TYPE_A:344
+2019-09-10 02:48:42 UnKnown Cmd of TYPE_A:344
+2019-09-10 04:16:14 UnKnown Cmd of TYPE_A:344
+2019-09-10 04:22:59 UnKnown Cmd of TYPE_A:344
+2019-09-10 04:36:22 UnKnown Cmd of TYPE_A:344
+2019-09-10 04:50:17 中断一个非法的 GameServer 连接，IP = 183.63.111.186
+2019-09-10 04:50:17 与M2Server通信错误：ErrorCode=10061
+2019-09-10 05:30:04 [BackupSave]: ==== 复制备份昨日数据 ====
+2019-09-10 05:30:05 [BackupSave]: ======================= 数据备份 =======================
+2019-09-10 05:30:05 ======================= 开始拷贝所有数据库中所有数据表文件 =======================
+2019-09-10 05:30:05 ====== 拷贝源数据库 mir3（d:\mud2\mysql\data\mir3）---->目标数据库 mir3_backup（d:\mud2\mysql\data\data_backup\mir3_backup） 完成，共拷贝数据表文件51个======
+2019-09-10 05:30:05 ====== 拷贝源数据库 gamedata（d:\mud2\mysql\data\gamedata）---->目标数据库 gamedata_backup（d:\mud2\mysql\data\data_backup\gamedata_backup） 完成，共拷贝数据表文件144个======
+2019-09-10 05:30:05 ====== 拷贝源数据库 guild（d:\mud2\mysql\data\guild）---->目标数据库 guild_backup（d:\mud2\mysql\data\data_backup\guild_backup） 完成，共拷贝数据表文件21个======
+2019-09-10 05:30:05 ======================= 结束拷贝所有数据库中所有数据表文件，花费时间 0 秒 =======================
+2019-09-10 05:30:05 [BackupSave]: ============ 压缩数据 ============
+2019-09-10 05:30:07 执行外部上传程序d:\mud2\backup\backup.exe
+2019-09-10 05:30:07 [BackupSave]: ======================= 数据备份成功 用时 2 秒 =======================
+2019-09-10 06:00:04 [BackupSave]: -= 本地备份 =-
+2019-09-10 06:27:33 UnKnown Cmd of TYPE_A:344
+2019-09-10 06:34:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 06:40:54 UnKnown Cmd of TYPE_A:344
+2019-09-10 06:45:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 06:52:12 UnKnown Cmd of TYPE_A:344
+2019-09-10 06:52:39 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:00:00 刷新排行榜开始...
+2019-09-10 07:00:00 刷新战神榜共100条记录
+2019-09-10 07:00:00 刷新法神榜共51条记录
+2019-09-10 07:00:00 刷新道尊榜共100条记录
+2019-09-10 07:00:01 刷新玛法群英榜共100条记录
+2019-09-10 07:00:01 刷新名师榜共0条记录
+2019-09-10 07:00:01 刷新战斗力排行榜共0条记录
+2019-09-10 07:00:01 刷新玛法内功榜共0条记录
+2019-09-10 07:00:01 刷新刺客榜共0条记录
+2019-09-10 07:00:02 刷新战士英雄榜共0条记录
+2019-09-10 07:00:02 刷新法师英雄榜共0条记录
+2019-09-10 07:00:02 刷新道士英雄榜共0条记录
+2019-09-10 07:00:02 刷新英雄总排行榜共0条记录
+2019-09-10 07:00:03 刷新排行榜结束，共 53 页
+2019-09-10 07:01:04 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:03:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:04:18 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:07:16 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:26:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:27:55 中断一个非法的 GameServer 连接，IP = 78.128.113.18
+2019-09-10 07:27:55 与M2Server通信错误：ErrorCode=10061
+2019-09-10 07:30:22 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:31:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:31:47 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:32:33 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:39:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:40:03 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:46:15 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:47:38 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:53:39 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:54:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:54:59 UnKnown Cmd of TYPE_A:344
+2019-09-10 07:56:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:01:35 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:03:53 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:04:22 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:05:25 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:06:13 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:17:07 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:18:41 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:20:14 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:39:24 UnKnown Cmd of TYPE_A:344
+2019-09-10 08:43:43 UnKnown Cmd of TYPE_A:344
+2019-09-10 09:10:48 UnKnown Cmd of TYPE_A:344
+2019-09-10 09:11:20 中断一个非法的 GameServer 连接，IP = 183.63.111.186
+2019-09-10 09:11:20 与M2Server通信错误：ErrorCode=10061
+2019-09-10 09:22:33 UnKnown Cmd of TYPE_A:344
+2019-09-10 09:46:01 UnKnown Cmd of TYPE_A:344
+2019-09-10 09:54:09 UnKnown Cmd of TYPE_A:344
+2019-09-10 10:17:05 UnKnown Cmd of TYPE_A:344
+2019-09-10 10:37:33 UnKnown Cmd of TYPE_A:344
+2019-09-10 10:37:37 UnKnown Cmd of TYPE_A:344
+2019-09-10 10:41:27 UnKnown Cmd of TYPE_A:344
+2019-09-10 10:46:41 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:01:23 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:02:27 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:12:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:12:43 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:12:54 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:14:07 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:15:29 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:15:29 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:17:16 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:19:25 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:19:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:20:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:22:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:23:54 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:37:56 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:49:08 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:53:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:54:19 UnKnown Cmd of TYPE_A:344
+2019-09-10 11:59:04 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:00:00 [BackupSave]: -= 本地备份 =-
+2019-09-10 12:03:42 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:09:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:10:12 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:26:00 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:26:58 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:48:28 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:50:17 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:50:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:55:52 UnKnown Cmd of TYPE_A:344
+2019-09-10 12:59:51 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:04:08 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:04:43 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:06:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:10:05 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:11:23 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:13:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:16:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:22:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:30:59 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:33:00 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:43:43 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:44:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:44:40 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:46:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:47:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:47:46 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:51:19 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:56:23 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:57:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 13:59:44 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:16:09 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:17:08 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:18:25 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:18:31 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:22:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:23:22 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:23:42 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:25:10 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:34:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:36:56 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:44:17 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:55:51 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:56:11 UnKnown Cmd of TYPE_A:344
+2019-09-10 14:57:31 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:14:07 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:17:27 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:22:36 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:25:34 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:26:21 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:27:25 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:31:46 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:36:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:39:27 中断一个非法的 GameServer 连接，IP = 92.246.76.72
+2019-09-10 15:39:27 与M2Server通信错误：ErrorCode=10061
+2019-09-10 15:50:04 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:56:26 UnKnown Cmd of TYPE_A:344
+2019-09-10 15:58:18 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:01:39 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:10:34 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:15:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:21:52 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:24:49 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:27:19 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:28:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:30:30 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:31:51 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:32:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:33:09 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:33:47 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:33:55 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:34:50 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:36:12 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:43:17 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:51:32 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:52:22 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:52:31 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:53:40 UnKnown Cmd of TYPE_A:344
+2019-09-10 16:56:16 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:00:28 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:01:45 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:08:07 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:08:54 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:15:51 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:17:50 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:18:05 UnKnown Cmd of TYPE_A:344
+2019-09-10 17:22:06 UnKnown Cmd of TYPE_A:344

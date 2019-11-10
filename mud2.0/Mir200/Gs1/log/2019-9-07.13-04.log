@@ -1,0 +1,56 @@
+2019-09-07 13:04:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-09-07 13:04:08 GS-1 ================ 服务启动 ==============
+2019-09-07 13:04:08 GS-1 TPlayerBody Size - 1616
+2019-09-07 13:04:08 GS-1 TPlayerDB Size - 61608
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Error]: SQL Error: Can't connect to MySQL server on '49.234.26.20' (10061)
+2019-09-07 13:04:08 GS-1 [Exception]: Create Table if not Exists gamelog.AccountLog201909(idx int not null AUTO_INCREMENT PRIMARY KEY, UpdateTime DateTime not null, Context_Id Char(32) not null,Order_Id Char(32) not null,UserID bigint(20) NOT NULL default 0,PTID varchar(20) character set latin1 collate latin1_bin NOT NULL default '',ChrName char(15) character set latin1 collate latin1_bin NOT NULL default '',FromWho char(15) character set latin1 collate latin1_bin NOT NULL default '',Pay_Type Enum('ypYBSystem','ypGHomePay','ypConsignment','ypGMModifyAdd','ypGMModifySub','ypStrengthenEquip','ypYBShop','ypStallBuyItem','ypMailGetYb','ypScriptBuy','ypScriptModifyAdd','ypScriptModifySub'),ItemIdx int,ItemNum int,amount int, nResult int,AccountAct Enum('ltRequestAddYB','ltRequestSubYB','ltExecSQLBefore','ltExecSQLFinished','ltGHomePayEnd','ltGHomePayStart','ltGMRequestModify','ltGMModyfyEnd','ltStallSubYbBegin','ltStallSubYbEnd','ltMailAddYbBegin','ltMailAddYbEnd','ltConsignmentbegin','ltRequestSubBuyerYB','ltRequestAddSellerYB','ltGiveItemsSucess','ltGiveItemsFail','ltConsignmentEnd','ltTimeOutBegin','ltRequestSubPlayerYB','ltGetBackItemsSucess','ltGetBackItemsFail','ltTimeOutEnd','ltStrengthenEquipBegin','ltStrengthenEquipEnd','ltYBShopBuyBegin','ltYBShopBuyEnd','ltYBScriptBuyBegin','ltYBScriptBuyEnd','ltScriptRequestModify','ltScriptModyfyEnd'),ActDesc varchar(255) character set latin1 collate latin1_bin NOT NULL default '',index Query1_index(UserID, Pay_Type, nResult, UpdateTime), index Query2_index(Context_Id, Order_Id, Pay_Type, nResult, AccountAct), index Time_Index(UpdateTime)) Max_ROWS=20000000000;
+2019-09-07 13:04:08 GS-1 [Exception]: ExecuteQuery: Show COLUMNS From gamelog.AccountLog201909 like 'Pay_Type';: Database connection component is not assigned
+2019-09-07 13:04:08 GS-1 [Exception]: ExecuteQuery: Show COLUMNS From gamelog.AccountLog201909 like 'AccountAct';: Database connection component is not assigned
+2019-09-07 13:04:08 GS-1 *** ***Gamelog 的下次清理时间为 : 09月14日03时*** ***
+2019-09-07 13:04:08 GS-1 ==加载GM指令定义完成==
+2019-09-07 13:06:33 GS-1 释放--魔龙冰晶升级对象--结束
+2019-09-07 13:06:33 GS-1 释放--天赐宝箱1--结束
+2019-09-07 13:06:33 GS-1 释放--天赐宝箱2--结束
+2019-09-07 13:06:33 GS-1 释放--一点充--结束
+2019-09-07 13:06:33 GS-1 释放--事件管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--任务管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--升级提醒管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--GDMsg管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--跨地图寻路管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--沙巴克管理对象--结束
+2019-09-07 13:06:33 GS-1 释放--中央活动服务器客户端--结束
+2019-09-07 13:06:33 GS-1 释放--乾坤包--结束
+2019-09-07 13:06:33 GS-1 [Execption]: TMainThread.Finalize:[FATAL] 对象重复释放：新元宝变动管理
+2019-09-07 13:06:33 GS-1 ================ 服务停止 ==============
+2019-09-07 13:06:33 GS-1 [Exception]: Create table if not exists WeaponUpg(idx int AUTO_INCREMENT PRIMARY KEY,ItemIdx int default -1,ItemID int unsigned default 0,PTID Char(21) default "",CharName Char(15) binary,IntoTime DATETIME,UpDc int Default 0,UpSc int Default 0,UpMc int Default 0,UpCc int Default 0,UpDura int Default 0,WeaponData Text default "", Index CharName_Index(CharName, IntoTime),Index IntoTime_Index(IntoTime));
+2019-09-07 13:06:33 GS-1 [Exception]: ExecuteQuery: show fields from WeaponUpg like "UpCC";: Database connection component is not assigned
+2019-09-07 13:06:33 GS-1 [Exception]: Delete from WeaponUpg where date_Add(IntoTime, interval 4 month) < Now();
+2019-09-07 13:06:33 GS-1 [Exception]: CREATE TABLE IF NOT EXISTS gamedata.yb_user_data (  Idx int(11) NOT NULL auto_increment,  UserID bigint(20) NOT NULL default 0,  PTID varchar(20) character set latin1 collate latin1_bin NOT NULL default '',  ChrName char(15) character set latin1 collate latin1_bin NOT NULL default '',  YBNum int(10) unsigned default 0 comment '元宝数',  GHomePayTotal int(10) unsigned default 0 comment 'G家充值累计',  LastModifyYBNumTime datetime default '2000-01-01 00:00:00' comment '修改元宝数最后时间',  PRIMARY KEY (Idx),  UNIQUE KEY UserID_Index (UserID))comment='元宝用户数据表'; 

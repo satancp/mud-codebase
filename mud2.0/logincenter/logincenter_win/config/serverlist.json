@@ -1,0 +1,30 @@
+{
+	"shopurl":"http://www.yuanmanpay.com/pay?id=3109",
+	"notice":"<b><param size=25 textcolor=255|0|0  /><t \n 流云传说 公告:\n /></b><b><param size=20 textcolor=255|222|173 /><t \n本服为1.76-180复古结合版本绝非快餐三天服\n\n本服长久稳定开放 无英雄 无赞助 长久耐玩\n\n请爱护游戏环境绿色文明游戏\n\n与君相知一场,愿今后的岁月,你我仍可欢笑并肩\n\n唯一客服QQ:331482507\n\n玩家QQ交流群:652048917\n  /></b>",
+	"verinfo":
+	[
+		{
+			"verid":2,
+			"vername":"1.80复古",
+			"verindex":2,
+			"clientver":180
+		}
+	],
+	"servers":
+	[
+		{
+		    "ConfigName":"config185.zip",
+	        "ConfigVer":"2019822",
+			"verid":2,
+			"serverinfo":" 自由交易,装备保值,散人天堂   qq群:652048917  180复古",
+			"zoneid":2,
+			"zonename":"逐鹿中原",
+			"zoneip":"192.168.50.29:7000",
+			"area":180,
+			"suggest":1,
+			"heat":4
+
+
+		}
+	]
+}

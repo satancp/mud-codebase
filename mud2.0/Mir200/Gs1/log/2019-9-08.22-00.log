@@ -1,0 +1,1518 @@
+2019-09-08 22:00:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:00:46 GS-1 ================ 服务启动 ==============
+2019-09-08 22:00:46 GS-1 TPlayerBody Size - 1616
+2019-09-08 22:00:46 GS-1 TPlayerDB Size - 61608
+2019-09-08 22:00:46 GS-1 ======== 连接MySQL成功 =======
+2019-09-08 22:00:46 GS-1 *** ***Gamelog 的下次清理时间为 : 09月15日03时*** ***
+2019-09-08 22:00:46 GS-1 ==加载GM指令定义完成==
+2019-09-08 22:00:46 GS-1 与 DB 服务器连接成功
+2019-09-08 22:00:46 GS-1 [Error]: 火龙珠奖励配置错误！
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:赤金天赐->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:白银天赐->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:紫铜天赐->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:神秘天赐->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:檀木天赐->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: 抽取概率错误:宝藏天赐 ->宝箱1:概率7
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的天赐：新年天赐
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的钥匙：新年钥匙
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的钥匙：春节钥匙
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的钥匙：节日钥匙
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的天赐：感恩天赐
+2019-09-08 22:00:46 GS-1 [Error]: StdItems 不存在的钥匙：感恩钥匙
+2019-09-08 22:00:46 GS-1 系统参数初始化完毕
+2019-09-08 22:00:46 GS-1 准备加载NPC，共529个
+2019-09-08 22:00:46 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\RollMsg.txt！
+2019-09-08 22:00:46 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\系统信息管理\掉落物品提示.txt！
+2019-09-08 22:00:46 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\卧龙英雄管理\Fortress.txt！
+2019-09-08 22:00:46 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\游戏元素点阵管理\GMActEvent.txt！
+2019-09-08 22:00:46 GS-1    加载邮件信息成功,加载13个玩家的邮件。
+2019-09-08 22:00:46 GS-1    加载邮件信息成功,加载60个玩家的邮件。
+2019-09-08 22:00:46 GS-1 已加载d:\Mud2.0\Mir200\Share\EngineConfig\摆摊交易\摊位基础设置.ini！
+2019-09-08 22:00:46 GS-1 刷新摊位过期将在2:55执行！
+2019-09-08 22:00:46 GS-1   加载Stall成功，共加载摊位2个
+2019-09-08 22:00:46 GS-1 [Information]: 寄售表创建成功!
+2019-09-08 22:00:46 GS-1 [Information]: 寄售历史表创建成功!
+2019-09-08 22:00:46 GS-1 [Information]: 更新超时订单成功!
+2019-09-08 22:00:46 GS-1 已加载刷新商城时间：00:00:00.
+2019-09-08 22:00:46 GS-1 已加载刷新商城时间：06:00:00.
+2019-09-08 22:00:46 GS-1 已加载刷新商城时间：12:00:00.
+2019-09-08 22:00:46 GS-1 载入商城物品列表，共5个类别，41种商品
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 补给类：5/5
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 强化类：15/15
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 限量类：8/8
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 好友类：2/2
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 类：0/0
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 类：0/0
+2019-09-08 22:00:46 GS-1 ==> 加载商城物品 类：0/0
+2019-09-08 22:00:46 GS-1    [删除错误数据] 删除用户表中不存在的战队成员
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除战队队长不存在的项
+2019-09-08 22:00:46 GS-1    [删除错误数据] 不存在战队的成员
+2019-09-08 22:00:46 GS-1    正在加载战队...
+2019-09-08 22:00:46 GS-1    战队表数量 : 3
+2019-09-08 22:00:46 GS-1    战队表数量 : 0
+2019-09-08 22:00:46 GS-1    加载战队数量:3
+2019-09-08 22:00:46 GS-1    正在加载战队成员...
+2019-09-08 22:00:46 GS-1    战队成员总数:30 加载成员数:30
+2019-09-08 22:00:46 GS-1    正在检测战队数据有效性...
+2019-09-08 22:00:46 GS-1    战队数据有效性检测完毕
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除会长战队不存在行会
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除行会不存在的行会成员
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除行会不存在的行会关系ID排列错误的项
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除行会不存在行会关系
+2019-09-08 22:00:46 GS-1    [删除错误数据] 清除行会不存在关注行会
+2019-09-08 22:00:46 GS-1    加载行会数量 : 3
+2019-09-08 22:00:46 GS-1    加载行会成员(战队)数量 : 3
+2019-09-08 22:00:46 GS-1    加载行会关系数量 : 0
+2019-09-08 22:00:46 GS-1    加载关注行会数量 : 0
+2019-09-08 22:00:46 GS-1    加载请求数量:0
+2019-09-08 22:00:46 GS-1 [Error]: 小助手 不存在！
+2019-09-08 22:00:46 GS-1 D411地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-09-08 22:00:46 GS-1 D415地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-09-08 22:00:46 GS-1 D416地图配置在MapInfo.txt 中不是LIMITBAGITEMDROP属性
+2019-09-08 22:00:46 GS-1 信用分验证功能：开
+2019-09-08 22:00:46 GS-1 GS脚本版本号：10001
+2019-09-08 22:00:46 GS-1 更新排行榜，共计：52 页
+2019-09-08 22:01:21 GS-1 载入商城热销商品列表，共36个。
+2019-09-08 22:01:21 GS-1 ==> 加载商城热销榜:5
+2019-09-08 22:01:23 GS-1 Gate 1 开启
+2019-09-08 22:03:34 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-08 22:03:47 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-08 22:05:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3227
+---[Human]: Max RunDelay: 141; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 43; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:10:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 860; Max RunCount 3248
+---[Human]: Max RunDelay: 359; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 19; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:11:19 GS-1 09-08 22:11:19 User = 10 / 10
+2019-09-08 22:15:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3181
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 54; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 22:20:23 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-08 22:20:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 422; Max RunCount 3175
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:21:20 GS-1 09-08 22:21:20 User = 12 / 12
+2019-09-08 22:25:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3190
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-08 22:30:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3189
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:31:21 GS-1 09-08 22:31:21 User = 14 / 14
+2019-09-08 22:34:22 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-08 22:34:22 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-08 22:35:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 984; Max RunCount 3208
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 13; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:40:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 828; Max RunCount 3332
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 29; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:41:20 GS-1 09-08 22:41:20 User = 16 / 16
+2019-09-08 22:45:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3242
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:50:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3291
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 22:51:21 GS-1 09-08 22:51:21 User = 16 / 16
+2019-09-08 22:55:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3233
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 23:00:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3240
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 23:01:21 GS-1 载入商城热销商品列表，共36个。
+2019-09-08 23:01:21 GS-1 ==> 加载商城热销榜:5
+2019-09-08 23:01:21 GS-1 09-08 23:01:21 User = 18 / 18
+2019-09-08 23:05:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 3317
+---[Human]: Max RunDelay: 110; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:11:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 3315
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 65; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:11:22 GS-1 09-08 23:11:22 User = 18 / 18
+2019-09-08 23:16:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3343
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:21:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3341
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:21:22 GS-1 09-08 23:21:22 User = 17 / 17
+2019-09-08 23:26:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3350
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 52; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:31:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3344
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 70; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:31:22 GS-1 09-08 23:31:22 User = 18 / 18
+2019-09-08 23:36:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 3350
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 63; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:41:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 594; Max RunCount 3342
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 49; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 23:41:22 GS-1 09-08 23:41:22 User = 18 / 18
+2019-09-08 23:46:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 594; Max RunCount 3363
+---[Human]: Max RunDelay: 359; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 48; Max RunDelay 47
+-----------------------------------------------------
+2019-09-08 23:51:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3348
+---[Human]: Max RunDelay: 360; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-08 23:51:22 GS-1 09-08 23:51:22 User = 24 / 24
+2019-09-08 23:56:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3340
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 00:00:00 GS-1 载入商城物品列表，共5个类别，41种商品
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 补给类：5/5
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 强化类：15/15
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 限量类：8/8
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 好友类：2/2
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 00:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 00:01:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 562; Max RunCount 3275
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 27; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:01:22 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 00:01:22 GS-1 ==> 加载商城热销榜:5
+2019-09-09 00:01:23 GS-1 09-09 00:01:23 User = 24 / 24
+2019-09-09 00:06:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 672; Max RunCount 3428
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 62; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 00:11:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3358
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 00:11:23 GS-1 09-09 00:11:23 User = 23 / 23
+2019-09-09 00:14:35 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 00:16:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3339
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:21:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3370
+---[Human]: Max RunDelay: 360; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 68; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 00:21:23 GS-1 09-09 00:21:23 User = 25 / 25
+2019-09-09 00:26:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3464
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 00:31:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3439
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:31:24 GS-1 09-09 00:31:24 User = 25 / 25
+2019-09-09 00:36:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3445
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:41:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3382
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 00:41:24 GS-1 09-09 00:41:24 User = 24 / 24
+2019-09-09 00:46:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 421; Max RunCount 3498
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:51:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3476
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 00:51:24 GS-1 09-09 00:51:24 User = 24 / 24
+2019-09-09 00:56:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3537
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 01:01:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3460
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:01:23 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 01:01:23 GS-1 ==> 加载商城热销榜:5
+2019-09-09 01:01:24 GS-1 09-09 01:01:24 User = 24 / 24
+2019-09-09 01:06:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 235; Max RunCount 3369
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 01:11:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 3475
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:11:23 GS-1 09-09 01:11:23 User = 23 / 23
+2019-09-09 01:16:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 204; Max RunCount 3479
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:21:24 GS-1 09-09 01:21:24 User = 23 / 23
+2019-09-09 01:21:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3383
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:26:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3341
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 01:31:24 GS-1 09-09 01:31:24 User = 21 / 21
+2019-09-09 01:31:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3349
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:36:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3508
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:41:24 GS-1 09-09 01:41:24 User = 23 / 23
+2019-09-09 01:41:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3321
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 01:42:59 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 01:42:59 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 01:46:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3588
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 01:51:24 GS-1 09-09 01:51:24 User = 22 / 22
+2019-09-09 01:51:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3584
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 01:56:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3442
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:01:23 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 02:01:23 GS-1 ==> 加载商城热销榜:5
+2019-09-09 02:01:24 GS-1 09-09 02:01:24 User = 21 / 21
+2019-09-09 02:01:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3318
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 02:01:43 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 02:02:09 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 02:02:29 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 02:02:29 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 02:04:21 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 02:04:21 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 02:06:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3558
+---[Human]: Max RunDelay: 359; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 37; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 02:11:24 GS-1 09-09 02:11:24 User = 21 / 21
+2019-09-09 02:11:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3443
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:16:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3371
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 02:21:24 GS-1 09-09 02:21:24 User = 21 / 21
+2019-09-09 02:21:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3474
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:26:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3457
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:31:24 GS-1 09-09 02:31:24 User = 21 / 21
+2019-09-09 02:31:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3440
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:36:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3440
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:41:24 GS-1 09-09 02:41:24 User = 23 / 23
+2019-09-09 02:41:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3404
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:46:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3450
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:51:24 GS-1 09-09 02:51:24 User = 23 / 23
+2019-09-09 02:51:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 235; Max RunCount 3434
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 02:56:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 188; Max RunCount 3333
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:01:24 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 03:01:24 GS-1 ==> 加载商城热销榜:5
+2019-09-09 03:01:25 GS-1 09-09 03:01:25 User = 23 / 23
+2019-09-09 03:01:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 407; Max RunCount 3734
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:04:43 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 03:06:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 360; Max RunCount 3670
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:11:25 GS-1 09-09 03:11:25 User = 23 / 23
+2019-09-09 03:11:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3544
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 03:16:45 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 03:16:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3505
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 03:21:25 GS-1 09-09 03:21:25 User = 22 / 22
+2019-09-09 03:21:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 546; Max RunCount 3683
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:26:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3537
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 03:31:25 GS-1 09-09 03:31:25 User = 21 / 21
+2019-09-09 03:31:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3397
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:36:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3475
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 03:41:25 GS-1 09-09 03:41:25 User = 21 / 21
+2019-09-09 03:41:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3413
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 03:46:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3550
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:51:25 GS-1 09-09 03:51:25 User = 20 / 20
+2019-09-09 03:51:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 437; Max RunCount 3636
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 03:56:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3579
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 04:01:24 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 04:01:24 GS-1 ==> 加载商城热销榜:5
+2019-09-09 04:01:25 GS-1 09-09 04:01:25 User = 20 / 20
+2019-09-09 04:01:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3517
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 04:06:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3585
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 04:11:25 GS-1 09-09 04:11:25 User = 20 / 20
+2019-09-09 04:11:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3492
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 04:14:51 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-09 04:14:59 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-09 04:17:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3664
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 04:21:25 GS-1 09-09 04:21:25 User = 20 / 20
+2019-09-09 04:22:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 234; Max RunCount 3450
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 04:27:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3419
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 04:31:25 GS-1 09-09 04:31:25 User = 21 / 21
+2019-09-09 04:32:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3386
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 04:37:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3488
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 04:41:25 GS-1 09-09 04:41:25 User = 20 / 20
+2019-09-09 04:42:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 188; Max RunCount 3392
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 04:45:59 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 04:45:59 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 04:47:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 265; Max RunCount 3510
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 04:51:25 GS-1 09-09 04:51:25 User = 21 / 21
+2019-09-09 04:52:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3519
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 04:57:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 516; Max RunCount 3443
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:01:24 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 05:01:24 GS-1 ==> 加载商城热销榜:5
+2019-09-09 05:01:25 GS-1 09-09 05:01:25 User = 21 / 21
+2019-09-09 05:02:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3513
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:07:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3563
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:11:25 GS-1 09-09 05:11:25 User = 21 / 21
+2019-09-09 05:12:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3502
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:17:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3493
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:21:25 GS-1 09-09 05:21:25 User = 21 / 21
+2019-09-09 05:22:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3427
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:27:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 235; Max RunCount 3462
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:31:25 GS-1 09-09 05:31:25 User = 21 / 21
+2019-09-09 05:32:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3503
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:37:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 265; Max RunCount 3616
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 05:40:13 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 05:41:25 GS-1 09-09 05:41:25 User = 20 / 20
+2019-09-09 05:42:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 235; Max RunCount 3537
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:47:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3396
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 05:47:50 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 05:51:25 GS-1 09-09 05:51:25 User = 20 / 20
+2019-09-09 05:52:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3371
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 05:57:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 531; Max RunCount 3479
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 63; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:00:00 GS-1 载入商城物品列表，共5个类别，41种商品
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 补给类：5/5
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 强化类：15/15
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 限量类：8/8
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 好友类：2/2
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 06:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 06:01:24 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 06:01:24 GS-1 ==> 加载商城热销榜:5
+2019-09-09 06:01:25 GS-1 09-09 06:01:25 User = 20 / 20
+2019-09-09 06:02:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3628
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 63; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:07:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3459
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 06:11:23 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 06:11:25 GS-1 09-09 06:11:25 User = 19 / 19
+2019-09-09 06:12:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3453
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:16:51 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 06:17:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3355
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:21:25 GS-1 09-09 06:21:25 User = 19 / 19
+2019-09-09 06:22:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3346
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:27:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3339
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:31:25 GS-1 09-09 06:31:25 User = 20 / 20
+2019-09-09 06:32:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3448
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 06:37:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3353
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 06:41:25 GS-1 09-09 06:41:25 User = 21 / 21
+2019-09-09 06:41:32 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-09 06:42:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3426
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:47:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 265; Max RunCount 3414
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 06:51:25 GS-1 09-09 06:51:25 User = 21 / 21
+2019-09-09 06:52:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3346
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 66; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 06:57:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3483
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:00:02 GS-1 更新排行榜，共计：53 页
+2019-09-09 07:01:24 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 07:01:24 GS-1 ==> 加载商城热销榜:5
+2019-09-09 07:01:25 GS-1 09-09 07:01:25 User = 21 / 21
+2019-09-09 07:02:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 265; Max RunCount 3526
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:03:00 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 07:07:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3606
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:11:25 GS-1 09-09 07:11:25 User = 19 / 19
+2019-09-09 07:12:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3656
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:17:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 204; Max RunCount 3552
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:21:25 GS-1 09-09 07:21:25 User = 20 / 20
+2019-09-09 07:22:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 203; Max RunCount 3436
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:27:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3404
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:31:26 GS-1 09-09 07:31:26 User = 21 / 21
+2019-09-09 07:32:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 235; Max RunCount 3373
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 07:37:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3417
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:41:26 GS-1 09-09 07:41:26 User = 21 / 21
+2019-09-09 07:42:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3380
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:47:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3515
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 51; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:51:26 GS-1 09-09 07:51:26 User = 22 / 22
+2019-09-09 07:52:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3576
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 07:57:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3402
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:01:25 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 08:01:25 GS-1 ==> 加载商城热销榜:5
+2019-09-09 08:01:26 GS-1 09-09 08:01:26 User = 23 / 23
+2019-09-09 08:02:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3404
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:07:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 3632
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:11:26 GS-1 09-09 08:11:26 User = 24 / 24
+2019-09-09 08:12:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3424
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 08:17:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3391
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:21:26 GS-1 09-09 08:21:26 User = 24 / 24
+2019-09-09 08:22:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3340
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:27:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3450
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 08:28:08 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 08:28:08 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 08:31:26 GS-1 09-09 08:31:26 User = 24 / 24
+2019-09-09 08:32:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3407
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:37:03 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 08:37:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3523
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 68; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 08:41:26 GS-1 09-09 08:41:26 User = 24 / 24
+2019-09-09 08:42:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3467
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 08:47:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3488
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:51:26 GS-1 09-09 08:51:26 User = 23 / 23
+2019-09-09 08:52:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 265; Max RunCount 3378
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 08:57:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3395
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:00:46 GS-1   玩家： 疯狂，邮件Idx:  987，功加载了 1附件。
+2019-09-09 09:00:52 GS-1   玩家： 疯狂，邮件Idx:  1026，功加载了 2附件。
+2019-09-09 09:01:25 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 09:01:25 GS-1 ==> 加载商城热销榜:5
+2019-09-09 09:01:26 GS-1 09-09 09:01:26 User = 23 / 23
+2019-09-09 09:02:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3516
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:07:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3522
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:11:27 GS-1 09-09 09:11:27 User = 23 / 23
+2019-09-09 09:13:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 360; Max RunCount 3631
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:15:33 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 09:18:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3694
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 31
+---[App]: Min PerSecRun: 65; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 09:21:27 GS-1 09-09 09:21:27 User = 22 / 22
+2019-09-09 09:23:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 562; Max RunCount 3703
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 38; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:28:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 390; Max RunCount 3686
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:31:27 GS-1 09-09 09:31:27 User = 23 / 23
+2019-09-09 09:33:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3668
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:38:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3513
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 09:41:27 GS-1 09-09 09:41:27 User = 23 / 23
+2019-09-09 09:43:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3585
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 46
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:48:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3547
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 09:51:27 GS-1 09-09 09:51:27 User = 23 / 23
+2019-09-09 09:53:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3516
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 09:57:03 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 09:58:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3639
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:01:25 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 10:01:25 GS-1 ==> 加载商城热销榜:5
+2019-09-09 10:01:27 GS-1 09-09 10:01:27 User = 21 / 21
+2019-09-09 10:02:31 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 10:02:39 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 10:03:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3881
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 47
+-----------------------------------------------------
+2019-09-09 10:05:06 GS-1   玩家： 易妙思，邮件Idx:  1077，功加载了 1附件。
+2019-09-09 10:08:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 3800
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:11:27 GS-1 09-09 10:11:27 User = 24 / 24
+2019-09-09 10:13:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3857
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:18:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3460
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:21:27 GS-1 09-09 10:21:27 User = 24 / 24
+2019-09-09 10:23:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3559
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:28:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3505
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:29:52 GS-1   玩家： 聆听心雨，邮件Idx:  1071，功加载了 2附件。
+2019-09-09 10:31:27 GS-1 09-09 10:31:27 User = 25 / 25
+2019-09-09 10:33:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3638
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 10:35:11 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:35:12 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:35:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:35:14 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:35:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:35:15 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 10:38:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3734
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 10:41:27 GS-1 09-09 10:41:27 User = 24 / 24
+2019-09-09 10:43:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3744
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 69; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 10:48:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3690
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:51:27 GS-1 09-09 10:51:27 User = 23 / 23
+2019-09-09 10:53:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3529
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 10:58:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3611
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 11:01:25 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 11:01:25 GS-1 ==> 加载商城热销榜:5
+2019-09-09 11:01:27 GS-1 09-09 11:01:27 User = 24 / 24
+2019-09-09 11:03:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3677
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:07:14 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 11:07:14 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 11:08:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3611
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 46
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 11:11:27 GS-1 09-09 11:11:27 User = 24 / 24
+2019-09-09 11:13:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 329; Max RunCount 3674
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:18:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3644
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:21:27 GS-1 09-09 11:21:27 User = 21 / 21
+2019-09-09 11:23:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3620
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:28:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3481
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 11:31:28 GS-1 09-09 11:31:28 User = 24 / 24
+2019-09-09 11:33:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3742
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:38:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3812
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:39:54 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-09 11:41:28 GS-1 09-09 11:41:28 User = 24 / 24
+2019-09-09 11:43:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3684
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:48:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3515
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 11:51:28 GS-1 09-09 11:51:28 User = 23 / 23
+2019-09-09 11:53:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3627
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 11:58:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3744
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 12:00:00 GS-1 载入商城物品列表，共5个类别，41种商品
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 装饰类：11/11
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 补给类：5/5
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 强化类：15/15
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 限量类：8/8
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 好友类：2/2
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 12:00:00 GS-1 ==> 加载商城物品 类：0/0
+2019-09-09 12:01:26 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 12:01:26 GS-1 ==> 加载商城热销榜:5
+2019-09-09 12:01:28 GS-1 09-09 12:01:28 User = 24 / 24
+2019-09-09 12:03:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 3883
+---[Human]: Max RunDelay: 204; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 59; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 12:04:54 GS-1   玩家： 印玉龙，邮件Idx:  1079，功加载了 1附件。
+2019-09-09 12:08:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 578; Max RunCount 3886
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 12:11:28 GS-1 09-09 12:11:28 User = 23 / 23
+2019-09-09 12:13:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3866
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 12:14:06 GS-1   玩家： 颜箫吟，邮件Idx:  1074，功加载了 18附件。
+2019-09-09 12:18:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3847
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 12:21:28 GS-1 09-09 12:21:28 User = 24 / 24
+2019-09-09 12:21:48 GS-1   玩家： 颜箫吟，邮件Idx:  1080，功加载了 1附件。
+2019-09-09 12:21:48 GS-1   玩家： 颜箫吟，邮件Idx:  1081，功加载了 1附件。
+2019-09-09 12:21:48 GS-1   玩家： 颜箫吟，邮件Idx:  1082，功加载了 1附件。
+2019-09-09 12:23:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 3736
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 57; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 12:28:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3689
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 12:31:28 GS-1 09-09 12:31:28 User = 25 / 25
+2019-09-09 12:33:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3526
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 12:36:34 GS-1   玩家： 易妙思，邮件Idx:  1078，功加载了 19附件。
+2019-09-09 12:38:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3719
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 12:41:28 GS-1 09-09 12:41:28 User = 24 / 24
+2019-09-09 12:43:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3654
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 12:48:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3831
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 12:51:28 GS-1 09-09 12:51:28 User = 23 / 23
+2019-09-09 12:53:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3686
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 12:57:33 GS-1 [数据错误] 玩家 销魂 不在的战队的成员列表中，从战队中清除.
+2019-09-09 12:58:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3664
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:01:26 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 13:01:26 GS-1 ==> 加载商城热销榜:5
+2019-09-09 13:01:28 GS-1 09-09 13:01:28 User = 24 / 24
+2019-09-09 13:02:13 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 13:02:13 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 13:02:31 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 13:02:31 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 13:03:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3582
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:08:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 203; Max RunCount 3463
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:11:28 GS-1 09-09 13:11:28 User = 24 / 24
+2019-09-09 13:13:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3443
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 13:18:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 219; Max RunCount 3578
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:21:28 GS-1 09-09 13:21:28 User = 24 / 24
+2019-09-09 13:23:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3860
+---[Human]: Max RunDelay: 359; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:28:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 515; Max RunCount 3898
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 51; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:31:29 GS-1 09-09 13:31:29 User = 25 / 25
+2019-09-09 13:33:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3779
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 51; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:38:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3877
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 51; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 13:41:29 GS-1 09-09 13:41:29 User = 24 / 24
+2019-09-09 13:43:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3692
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:45:13 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-09 13:48:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3559
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:51:29 GS-1 09-09 13:51:29 User = 25 / 25
+2019-09-09 13:53:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 437; Max RunCount 3759
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 13:58:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3843
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 14:01:26 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 14:01:26 GS-1 ==> 加载商城热销榜:5
+2019-09-09 14:01:29 GS-1 09-09 14:01:29 User = 26 / 26
+2019-09-09 14:01:55 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 14:01:59 GS-1 [脚本(散财猪.pas)缺函数]: AfterScatterItems
+2019-09-09 14:03:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3674
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 14:08:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3728
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 14:11:29 GS-1 09-09 14:11:29 User = 24 / 24
+2019-09-09 14:13:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3660
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:19:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3745
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:21:29 GS-1 09-09 14:21:29 User = 23 / 23
+2019-09-09 14:24:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3780
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:29:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3616
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 14:31:29 GS-1 09-09 14:31:29 User = 24 / 24
+2019-09-09 14:34:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3945
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:39:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 4031
+---[Human]: Max RunDelay: 344; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:41:29 GS-1 09-09 14:41:29 User = 24 / 24
+2019-09-09 14:44:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3754
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:47:00 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-09 14:48:09 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 14:48:09 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 14:49:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3845
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:51:30 GS-1 09-09 14:51:30 User = 23 / 23
+2019-09-09 14:54:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3893
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 14:59:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 344; Max RunCount 3577
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:01:27 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 15:01:27 GS-1 ==> 加载商城热销榜:5
+2019-09-09 15:01:30 GS-1 09-09 15:01:30 User = 24 / 24
+2019-09-09 15:04:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 422; Max RunCount 3951
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 60; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 15:09:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3677
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:11:30 GS-1 09-09 15:11:30 User = 26 / 26
+2019-09-09 15:14:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3911
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 66; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:19:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3885
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 15:21:30 GS-1 09-09 15:21:30 User = 23 / 23
+2019-09-09 15:24:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 546; Max RunCount 4063
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:29:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3947
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:31:30 GS-1 09-09 15:31:30 User = 25 / 25
+2019-09-09 15:34:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3661
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:39:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 329; Max RunCount 3617
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:41:30 GS-1 09-09 15:41:30 User = 23 / 23
+2019-09-09 15:44:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3652
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 15:49:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3957
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 15:51:30 GS-1 09-09 15:51:30 User = 23 / 23
+2019-09-09 15:54:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3867
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 15:59:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3654
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:01:27 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 16:01:27 GS-1 ==> 加载商城热销榜:5
+2019-09-09 16:01:30 GS-1 09-09 16:01:30 User = 22 / 22
+2019-09-09 16:04:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3949
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:09:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3570
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:11:30 GS-1 09-09 16:11:30 User = 23 / 23
+2019-09-09 16:14:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3804
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:19:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3876
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:21:30 GS-1 09-09 16:21:30 User = 23 / 23
+2019-09-09 16:24:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3679
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:29:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 594; Max RunCount 3890
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 44; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:31:30 GS-1 09-09 16:31:30 User = 23 / 23
+2019-09-09 16:34:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 563; Max RunCount 3992
+---[Human]: Max RunDelay: 140; [Socket]: Max RunDelay: 125
+---[App]: Min PerSecRun: 55; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:39:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3879
+---[Human]: Max RunDelay: 266; [Socket]: Max RunDelay: 31
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:41:31 GS-1 09-09 16:41:31 User = 12 / 12
+2019-09-09 16:44:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 641; Max RunCount 3618
+---[Human]: Max RunDelay: 313; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:49:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3640
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 16:51:31 GS-1 09-09 16:51:31 User = 12 / 12
+2019-09-09 16:54:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1453; Max RunCount 3996
+---[Human]: Max RunDelay: 937; [Socket]: Max RunDelay: 641
+---[App]: Min PerSecRun: 9; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 16:59:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 641; Max RunCount 3912
+---[Human]: Max RunDelay: 360; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 22; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 17:01:27 GS-1 载入商城热销商品列表，共36个。
+2019-09-09 17:01:27 GS-1 ==> 加载商城热销榜:5
+2019-09-09 17:01:31 GS-1 09-09 17:01:31 User = 24 / 24
+2019-09-09 17:04:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 3940
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 17:09:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3825
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 17:11:32 GS-1 09-09 17:11:32 User = 11 / 11
+2019-09-09 17:14:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1079; Max RunCount 3957
+---[Human]: Max RunDelay: 438; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 38; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 17:19:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 625; Max RunCount 3881
+---[Human]: Max RunDelay: 172; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 17:21:31 GS-1 09-09 17:21:31 User = 22 / 22
+2019-09-09 17:24:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3963
+---[Human]: Max RunDelay: 141; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 56; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 17:29:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 813; Max RunCount 3955
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 29; Max RunDelay 15
+-----------------------------------------------------
+2019-09-09 17:31:33 GS-1 09-09 17:31:33 User = 23 / 23
+2019-09-09 17:32:35 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 17:32:35 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 17:34:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 516; Max RunCount 3917
+---[Human]: Max RunDelay: 328; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 56; Max RunDelay 0
+-----------------------------------------------------
+2019-09-09 17:39:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 703; Max RunCount 4055
+---[Human]: Max RunDelay: 422; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 41; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 17:41:33 GS-1 09-09 17:41:33 User = 25 / 25
+2019-09-09 17:44:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3779
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 16
+-----------------------------------------------------
+2019-09-09 17:45:57 GS-1 [脚本(修炼圣地-3.pas)缺函数]: ForgeDiaYB
+2019-09-09 17:45:57 GS-1 --ReInitializet-- 因为点击NPC失败，重新刷新NPC...
+2019-09-09 17:49:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 343; Max RunCount 3955
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 57; Max RunDelay 0
+-----------------------------------------------------

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--  Rnd = 分子 Ranger = 分母  
+  --> 
+
+<Describle>
+	<Overview>特殊地图特殊包裹物品</Overview>
+	<Maps>
+		<Map>
+			<Name> D411~01 </Name>
+			<Items>
+				<i Name="黑铁矿石" Rnd="1" Ranger = "2"/>
+				<i Name="银矿" Rnd="4" Ranger = "5"/>
+				<i Name="金矿" Rnd="4" Ranger = "5"/>
+				<i Name="铜矿" Rnd="4" Ranger = "5"/>
+				<i Name="铁矿" Rnd="4" Ranger = "5"/>
+			</Items>
+		</Map>
+		<Map>
+			<Name> D415~01 </Name>
+			<Items>
+				<i Name="黑铁矿石" Rnd="1" Ranger = "2"/>
+				<i Name="银矿" Rnd="1" Ranger = "2"/>
+				<i Name="金矿" Rnd="4" Ranger = "5"/>
+				<i Name="铜矿" Rnd="1" Ranger = "2"/>
+				<i Name="铁矿" Rnd="4" Ranger = "5"/>
+			</Items>
+		</Map>
+		<Map>
+			<Name> D416~01 </Name>
+			<Items>
+				<i Name="黑铁矿石" Rnd="1" Ranger = "2"/>
+				<i Name="银矿" Rnd="4" Ranger = "5"/>
+				<i Name="金矿" Rnd="1" Ranger = "2"/>
+				<i Name="铜矿" Rnd="4" Ranger = "5"/>
+				<i Name="铁矿" Rnd="1" Ranger = "2"/>
+			</Items>
+		</Map>
+	</Maps>
+</Describle>

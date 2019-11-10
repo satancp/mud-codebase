@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	exp的大小按从小到大的顺序
+  -->
+<Describle>
+	<Overview>衰减系统</Overview>
+	<Info>
+		<Level Lv="0">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="1">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="2">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="3">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="4">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="5">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="6">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="7">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="8">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="9">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="10">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="11">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="12">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="13">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="14">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="15">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="16">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="17">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="18">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="19">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="20">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="21">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="22">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="23">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="24">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="25">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="26">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="27">
+			<Rates>
+				<i Exp="1000000" Discount="5"/>
+				<i Exp="1500000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="28">
+			<Rates>
+				<i Exp="1848000" Discount="5"/>
+				<i Exp="7096320" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="29">
+			<Rates>
+				<i Exp="2062500" Discount="5"/>
+				<i Exp="7920000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="30">
+			<Rates>
+				<i Exp="2042857" Discount="5"/>
+				<i Exp="7844571" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="31">
+			<Rates>
+				<i Exp="2227500" Discount="5"/>
+				<i Exp="8553600" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="32">
+			<Rates>
+				<i Exp="2395556" Discount="5"/>
+				<i Exp="9198933" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="33">
+			<Rates>
+				<i Exp="2435714" Discount="5"/>
+				<i Exp="9353143" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="34">
+			<Rates>
+				<i Exp="2475000" Discount="5"/>
+				<i Exp="9504000" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="35">
+			<Rates>
+				<i Exp="2535500" Discount="5"/>
+				<i Exp="9736320" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="36">
+			<Rates>
+				<i Exp="2575610" Discount="5"/>
+				<i Exp="9890341" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="37">
+			<Rates>
+				<i Exp="2874667" Discount="5"/>
+				<i Exp="11038720" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="38">
+			<Rates>
+				<i Exp="3030538" Discount="5"/>
+				<i Exp="11637266" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="39">
+			<Rates>
+				<i Exp="2883205" Discount="5"/>
+				<i Exp="11071509" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="40">
+			<Rates>
+				<i Exp="3213815" Discount="5"/>
+				<i Exp="12341050" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="41">
+			<Rates>
+				<i Exp="3413190" Discount="5"/>
+				<i Exp="13106650" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="42">
+			<Rates>
+				<i Exp="3681865" Discount="5"/>
+				<i Exp="14138362" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="43">
+			<Rates>
+				<i Exp="3900930" Discount="5"/>
+				<i Exp="14979571" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="44">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="45">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="46">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="47">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="48">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="49">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="50">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="51">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="52">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="53">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="54">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="55">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="56">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="57">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="58">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="59">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="60">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="61">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="62">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="63">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="64">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="65">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="66">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="67">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="68">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="69">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="70">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="71">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="72">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="73">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="74">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="75">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="76">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="77">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="78">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="79">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="80">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="81">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="82">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="83">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="84">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="85">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="86">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="87">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="88">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="89">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="90">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="91">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="92">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="93">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="94">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="95">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="96">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="97">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="98">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+		<Level Lv="99">
+			<Rates>
+				<i Exp="4086445" Discount="5"/>
+				<i Exp="15691949" Discount="1"/>
+			</Rates>
+		</Level>
+	</Info>
+</Describle>

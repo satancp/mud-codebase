@@ -1,0 +1,11 @@
+[EventTime]
+Start=23:00:00
+Stop= 23:00:00
+
+[Config1]
+Map=g001
+X=40
+Y=35
+EffectType=1
+Range=2
+Space=5

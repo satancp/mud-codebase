@@ -1,0 +1,1 @@
+.\Openresty_For_Windows_1.13.5.1001_64Bit\x64\nginx\nginx.exe -p "D:\mud2.0\LoginCenter\logincenter_win"

@@ -1,0 +1,6 @@
+2019-11-09 00:00:03 [BackupSave]: -= 本地备份 =-
+2019-11-09 02:37:21 与 LoginGate 连接断开
+2019-11-09 02:37:21 GameGate 1 断开.
+2019-11-09 02:37:21 与M2Server通信错误：ErrorCode=0
+2019-11-09 02:37:21 与M2Server通信错误：ErrorCode=0
+2019-11-09 02:37:21 与M2Server通信错误：ErrorCode=0

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	job id 按顺序
+	Magic id 为 技能id
+		1; //(小)火球术
+		2; //(小)治疗术
+		3; //基本剑术
+		4; //精神力战法
+		5; //(大)火球
+		6; //施毒术
+        7; //攻杀
+		8; //抗拒火环
+		9; //地狱火
+		10; //激光电影
+		11; //雷电术
+		12; //刺杀剑术
+		13; //灵魂火符
+		14; //幽灵盾
+		15; //神圣战甲术
+		16; //困魔咒;
+		17; //召唤骷髅;
+		18; //隐身术
+		19; //集体隐身术
+		20; //诱惑之光
+		21; //瞬息移动
+		22; //火墙
+		23; //爆裂火焰
+		24; //地狱雷光
+		25; //半月弯刀
+		26; //烈火剑法
+		27; //野蛮冲撞
+		28; //心灵启示
+		29; //群体治愈术
+		30; //召唤神兽
+		31; //魔法盾
+		32; //圣言术
+		33; //冰咆哮
+		35; //灭天火
+		36; //无极真气
+		37; //气功波
+		39; //寒冰掌
+		43; //狮子吼
+    48; //噬血术
+
+  -->
+<Describle>
+	<Overview>玩家活跃度</Overview>
+	<Jobs>
+		<Job Id = "0">
+			<Lucks>
+				<Luck LuckValue = "9" Value = "30"/>
+			</Lucks>
+			<Magics>
+				<Magic Id = "43" Value = "10"/>
+				<Magic Id = "58" Value = "30"/>
+			</Magics>
+			<Properties>
+				<prop Min = "43" value = "10"/>
+			</Properties>
+		</Job>
+		<Job Id = "1">
+			<Lucks>
+				<Luck LuckValue = "9" Value = "30"/>
+			</Lucks>
+			<Magics>
+				<Magic Id = "39" Value = "10"/>
+				<Magic Id = "35" Value = "10"/>
+				<Magic Id = "59" Value = "30"/>
+			</Magics>
+			<Properties>
+				<prop Min = "21" value = "10"/>
+			</Properties>
+		</Job>
+		<Job Id = "2">
+			<Lucks>
+				<Luck LuckValue = "9" Value = "30"/>
+			</Lucks>
+			<Magics>
+				<Magic Id = "37" Value = "10"/>
+				<Magic Id = "36" Value = "10"/>
+        <Magic Id = "48" Value = "30"/>
+			</Magics>
+			<Properties>
+				<prop Min = "100" value = "0"/>
+			</Properties>
+		</Job>
+	</Jobs>
+</Describle>

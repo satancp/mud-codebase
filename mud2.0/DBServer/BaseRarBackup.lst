@@ -1,0 +1,6 @@
+d:\mud2\mysql\data\mir3_backup\user_index.*			// 备份的MySQL数据表
+d:\mud2\mysql\data\mir3_backup\user_data.*			// 备份的MySQL数据表
+d:\mud2\mysql\data\mir3_backup\hero_index.*			// 备份的MySQL数据表
+d:\mud2\mysql\data\mir3_backup\hero_data.*			// 备份的MySQL数据表
+d:\mud2\mysql\data\mir3_backup\user_storage.*			// 备份的MySQL数据表
+d:\mud2\mysql\data\mir3_backup\dominatorpet.*			// 备份的MySQL数据表

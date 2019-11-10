@@ -1,0 +1,1084 @@
+2019-09-02 08:08:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 0; Max RunCount 0
+---[Human]: Max RunDelay: 0; [Socket]: Max RunDelay: 0
+---[App]: Min PerSecRun: 100; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:08:02 GS-1 ================ ·şÎñÆô¶¯ ==============
+2019-09-02 08:08:02 GS-1 TPlayerBody Size - 1616
+2019-09-02 08:08:02 GS-1 TPlayerDB Size - 61608
+2019-09-02 08:08:02 GS-1 ======== Á¬½ÓMySQL³É¹¦ =======
+2019-09-02 08:08:02 GS-1 *** ***Gamelog µÄÏÂ´ÎÇåÀíÊ±¼äÎª : 09ÔÂ09ÈÕ03Ê±*** ***
+2019-09-02 08:08:02 GS-1 ==¼ÓÔØGMÖ¸Áî¶¨ÒåÍê³É==
+2019-09-02 08:08:02 GS-1 Óë DB ·şÎñÆ÷Á¬½Ó³É¹¦
+2019-09-02 08:08:02 GS-1 [Error]: »ğÁúÖé½±ÀøÅäÖÃ´íÎó£¡
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:³à½ğÌì´Í->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:°×ÒøÌì´Í->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:×ÏÍ­Ìì´Í->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:ÉñÃØÌì´Í->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:Ì´Ä¾Ìì´Í->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: ³éÈ¡¸ÅÂÊ´íÎó:±¦²ØÌì´Í ->±¦Ïä1:¸ÅÂÊ7
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÌì´Í£ºĞÂÄêÌì´Í
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÔ¿³×£ºĞÂÄêÔ¿³×
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÔ¿³×£º´º½ÚÔ¿³×
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÔ¿³×£º½ÚÈÕÔ¿³×
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÌì´Í£º¸Ğ¶÷Ìì´Í
+2019-09-02 08:08:02 GS-1 [Error]: StdItems ²»´æÔÚµÄÔ¿³×£º¸Ğ¶÷Ô¿³×
+2019-09-02 08:08:02 GS-1 ÏµÍ³²ÎÊı³õÊ¼»¯Íê±Ï
+2019-09-02 08:08:02 GS-1 ×¼±¸¼ÓÔØNPC£¬¹²522¸ö
+2019-09-02 08:08:02 GS-1 [¼ÓÔØDBÎ´ÖªµÀ¾ß]: d:\Mud2.0\Mir200\Envir\PsNpcScripts\·âÄ§¹ÈÑ§Õß-b343.pas - "ÖĞÇïÔÂ±ı"
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØd:\Mud2.0\Mir200\Share\EngineConfig\ÏµÍ³ĞÅÏ¢¹ÜÀí\RollMsg.txt£¡
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØd:\Mud2.0\Mir200\Share\EngineConfig\ÏµÍ³ĞÅÏ¢¹ÜÀí\µôÂäÎïÆ·ÌáÊ¾.txt£¡
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØd:\Mud2.0\Mir200\Share\EngineConfig\ÎÔÁúÓ¢ĞÛ¹ÜÀí\Fortress.txt£¡
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØd:\Mud2.0\Mir200\Share\EngineConfig\ÓÎÏ·ÔªËØµãÕó¹ÜÀí\GMActEvent.txt£¡
+2019-09-02 08:08:02 GS-1    ¼ÓÔØÓÊ¼şĞÅÏ¢³É¹¦,¼ÓÔØ14¸öÍæ¼ÒµÄÓÊ¼ş¡£
+2019-09-02 08:08:02 GS-1    ¼ÓÔØÓÊ¼şĞÅÏ¢³É¹¦,¼ÓÔØ53¸öÍæ¼ÒµÄÓÊ¼ş¡£
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØd:\Mud2.0\Mir200\Share\EngineConfig\°ÚÌ¯½»Ò×\Ì¯Î»»ù´¡ÉèÖÃ.ini£¡
+2019-09-02 08:08:02 GS-1 Ë¢ĞÂÌ¯Î»¹ıÆÚ½«ÔÚ2:55Ö´ĞĞ£¡
+2019-09-02 08:08:02 GS-1   ¼ÓÔØStall³É¹¦£¬¹²¼ÓÔØÌ¯Î»3¸ö
+2019-09-02 08:08:02 GS-1 [Information]: ¼ÄÊÛ±í´´½¨³É¹¦!
+2019-09-02 08:08:02 GS-1 [Information]: ¼ÄÊÛÀúÊ·±í´´½¨³É¹¦!
+2019-09-02 08:08:02 GS-1 [Information]: ¸üĞÂ³¬Ê±¶©µ¥³É¹¦!
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØË¢ĞÂÉÌ³ÇÊ±¼ä£º00:00:00.
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØË¢ĞÂÉÌ³ÇÊ±¼ä£º06:00:00.
+2019-09-02 08:08:02 GS-1 ÒÑ¼ÓÔØË¢ĞÂÉÌ³ÇÊ±¼ä£º12:00:00.
+2019-09-02 08:08:02 GS-1 ÔØÈëÉÌ³ÇÎïÆ·ÁĞ±í£¬¹²5¸öÀà±ğ£¬40ÖÖÉÌÆ·
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ×°ÊÎÀà£º11/11
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ²¹¸øÀà£º5/5
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Ç¿»¯Àà£º15/15
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ÏŞÁ¿Àà£º7/7
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ºÃÓÑÀà£º2/2
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 08:08:02 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] É¾³ıÓÃ»§±íÖĞ²»´æÔÚµÄÕ½¶Ó³ÉÔ±
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ıÕ½¶Ó¶Ó³¤²»´æÔÚµÄÏî
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] ²»´æÔÚÕ½¶ÓµÄ³ÉÔ±
+2019-09-02 08:08:02 GS-1    ÕıÔÚ¼ÓÔØÕ½¶Ó...
+2019-09-02 08:08:02 GS-1    Õ½¶Ó±íÊıÁ¿ : 2
+2019-09-02 08:08:02 GS-1    Õ½¶Ó±íÊıÁ¿ : 0
+2019-09-02 08:08:02 GS-1    ¼ÓÔØÕ½¶ÓÊıÁ¿:2
+2019-09-02 08:08:02 GS-1    ÕıÔÚ¼ÓÔØÕ½¶Ó³ÉÔ±...
+2019-09-02 08:08:02 GS-1    Õ½¶Ó³ÉÔ±×ÜÊı:9 ¼ÓÔØ³ÉÔ±Êı:9
+2019-09-02 08:08:02 GS-1    ÕıÔÚ¼ì²âÕ½¶ÓÊı¾İÓĞĞ§ĞÔ...
+2019-09-02 08:08:02 GS-1    Õ½¶ÓÊı¾İÓĞĞ§ĞÔ¼ì²âÍê±Ï
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ı»á³¤Õ½¶Ó²»´æÔÚĞĞ»á
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ıĞĞ»á²»´æÔÚµÄĞĞ»á³ÉÔ±
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ıĞĞ»á²»´æÔÚµÄĞĞ»á¹ØÏµIDÅÅÁĞ´íÎóµÄÏî
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ıĞĞ»á²»´æÔÚĞĞ»á¹ØÏµ
+2019-09-02 08:08:02 GS-1    [É¾³ı´íÎóÊı¾İ] Çå³ıĞĞ»á²»´æÔÚ¹Ø×¢ĞĞ»á
+2019-09-02 08:08:02 GS-1    ¼ÓÔØĞĞ»áÊıÁ¿ : 2
+2019-09-02 08:08:02 GS-1    ¼ÓÔØĞĞ»á³ÉÔ±(Õ½¶Ó)ÊıÁ¿ : 2
+2019-09-02 08:08:02 GS-1    ¼ÓÔØĞĞ»á¹ØÏµÊıÁ¿ : 0
+2019-09-02 08:08:02 GS-1    ¼ÓÔØ¹Ø×¢ĞĞ»áÊıÁ¿ : 0
+2019-09-02 08:08:02 GS-1    ¼ÓÔØÇëÇóÊıÁ¿:3
+2019-09-02 08:08:02 GS-1 [Error]: Ğ¡ÖúÊÖ ²»´æÔÚ£¡
+2019-09-02 08:08:02 GS-1 D411µØÍ¼ÅäÖÃÔÚMapInfo.txt ÖĞ²»ÊÇLIMITBAGITEMDROPÊôĞÔ
+2019-09-02 08:08:02 GS-1 D415µØÍ¼ÅäÖÃÔÚMapInfo.txt ÖĞ²»ÊÇLIMITBAGITEMDROPÊôĞÔ
+2019-09-02 08:08:02 GS-1 D416µØÍ¼ÅäÖÃÔÚMapInfo.txt ÖĞ²»ÊÇLIMITBAGITEMDROPÊôĞÔ
+2019-09-02 08:08:02 GS-1 ĞÅÓÃ·ÖÑéÖ¤¹¦ÄÜ£º¿ª
+2019-09-02 08:08:02 GS-1 GS½Å±¾°æ±¾ºÅ£º10001
+2019-09-02 08:08:02 GS-1 ¸üĞÂÅÅĞĞ°ñ£¬¹²¼Æ£º39 Ò³
+2019-09-02 08:08:38 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 08:08:38 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 08:08:45 GS-1 Gate 1 ¿ªÆô
+2019-09-02 08:11:22 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 08:13:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 360; Max RunCount 3120
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:18:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 3132
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 08:18:37 GS-1 09-02 08:18:37 User = 12 / 12
+2019-09-02 08:23:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3166
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:28:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 438; Max RunCount 3214
+---[Human]: Max RunDelay: 204; [Socket]: Max RunDelay: 62
+---[App]: Min PerSecRun: 61; Max RunDelay 78
+-----------------------------------------------------
+2019-09-02 08:28:37 GS-1 09-02 08:28:37 User = 12 / 12
+2019-09-02 08:33:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3192
+---[Human]: Max RunDelay: 140; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 47; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:38:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3182
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:38:37 GS-1 09-02 08:38:37 User = 13 / 13
+2019-09-02 08:43:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 563; Max RunCount 3195
+---[Human]: Max RunDelay: 203; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 41; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:48:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3241
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:48:38 GS-1 09-02 08:48:38 User = 10 / 10
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  955£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  893£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  901£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  902£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  922£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  923£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  924£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:50:39 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  925£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 08:53:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3241
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:58:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 407; Max RunCount 3172
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 08:58:38 GS-1 09-02 08:58:38 User = 11 / 11
+2019-09-02 09:03:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 546; Max RunCount 3305
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:08:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3183
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:08:38 GS-1 09-02 09:08:38 User = 10 / 10
+2019-09-02 09:08:39 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 09:08:39 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 09:13:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3246
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:18:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 343; Max RunCount 3253
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:18:38 GS-1 09-02 09:18:38 User = 12 / 12
+2019-09-02 09:23:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3200
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 09:28:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3209
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:28:38 GS-1 09-02 09:28:38 User = 11 / 11
+2019-09-02 09:33:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3204
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:38:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3205
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:38:38 GS-1 09-02 09:38:38 User = 11 / 11
+2019-09-02 09:42:48 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 09:43:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3218
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:48:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 3276
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 54; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:48:38 GS-1 09-02 09:48:38 User = 10 / 10
+2019-09-02 09:53:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3279
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:58:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 454; Max RunCount 3227
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 31
+---[App]: Min PerSecRun: 52; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 09:58:38 GS-1 09-02 09:58:38 User = 10 / 10
+2019-09-02 10:03:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3232
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:08:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3278
+---[Human]: Max RunDelay: 32; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:08:38 GS-1 09-02 10:08:38 User = 9 / 9
+2019-09-02 10:08:39 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 10:08:39 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 10:13:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3202
+---[Human]: Max RunDelay: 32; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:18:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3201
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:18:38 GS-1 09-02 10:18:38 User = 9 / 9
+2019-09-02 10:23:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3200
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:28:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3205
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:28:38 GS-1 09-02 10:28:38 User = 11 / 11
+2019-09-02 10:33:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3205
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:38:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3187
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:38:38 GS-1 09-02 10:38:38 User = 10 / 10
+2019-09-02 10:43:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3168
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:48:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3191
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:48:38 GS-1 09-02 10:48:38 User = 10 / 10
+2019-09-02 10:53:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3255
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:58:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3210
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 10:58:38 GS-1 09-02 10:58:38 User = 10 / 10
+2019-09-02 11:03:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3210
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 109
+---[App]: Min PerSecRun: 44; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:08:26 GS-1   Íæ¼Ò£º ´óÊ¥¹éÀ´£¬ÓÊ¼şIdx:  956£¬¹¦¼ÓÔØÁË 10¸½¼ş¡£
+2019-09-02 11:08:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3251
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:08:38 GS-1 09-02 11:08:38 User = 12 / 12
+2019-09-02 11:08:39 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 11:08:39 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 11:09:19 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 11:13:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 640; Max RunCount 3250
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 47; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:18:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 719; Max RunCount 3254
+---[Human]: Max RunDelay: 547; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 34; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:18:39 GS-1 09-02 11:18:39 User = 6 / 6
+2019-09-02 11:23:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 3262
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 55; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:28:39 GS-1 09-02 11:28:39 User = 15 / 15
+2019-09-02 11:28:39 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 3251
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:28:43 GS-1   Íæ¼Ò£º ºÇºÇßÕ£¬ÓÊ¼şIdx:  952£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 11:28:44 GS-1   Íæ¼Ò£º ºÇºÇßÕ£¬ÓÊ¼şIdx:  951£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 11:29:51 GS-1   Íæ¼Ò£º ÎŞÓ°½££¬ÓÊ¼şIdx:  957£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 11:33:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3209
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:38:39 GS-1 09-02 11:38:39 User = 16 / 16
+2019-09-02 11:38:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3181
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:43:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3248
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:47:10 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-02 11:48:39 GS-1 09-02 11:48:39 User = 13 / 13
+2019-09-02 11:48:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3291
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 11:53:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 485; Max RunCount 3442
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 42; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 11:54:43 GS-1 [½Å±¾(ĞŞÁ¶Ê¥µØ-3.pas)È±º¯Êı]: ForgeDiaYB
+2019-09-02 11:54:43 GS-1 --ReInitializet-- ÒòÎªµã»÷NPCÊ§°Ü£¬ÖØĞÂË¢ĞÂNPC...
+2019-09-02 11:58:38 GS-1 09-02 11:58:38 User = 14 / 14
+2019-09-02 11:58:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3378
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:00:00 GS-1 ÔØÈëÉÌ³ÇÎïÆ·ÁĞ±í£¬¹²5¸öÀà±ğ£¬40ÖÖÉÌÆ·
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ×°ÊÎÀà£º11/11
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ²¹¸øÀà£º5/5
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Ç¿»¯Àà£º15/15
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ÏŞÁ¿Àà£º7/7
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· ºÃÓÑÀà£º2/2
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 12:00:00 GS-1 ==> ¼ÓÔØÉÌ³ÇÎïÆ· Àà£º0/0
+2019-09-02 12:02:08 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 12:03:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 453; Max RunCount 3274
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 59; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 12:07:49 GS-1 [½Å±¾(ĞŞÁ¶Ê¥µØ-3.pas)È±º¯Êı]: ForgeDiaYB
+2019-09-02 12:07:49 GS-1 --ReInitializet-- ÒòÎªµã»÷NPCÊ§°Ü£¬ÖØĞÂË¢ĞÂNPC...
+2019-09-02 12:08:39 GS-1 09-02 12:08:39 User = 14 / 14
+2019-09-02 12:08:40 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 12:08:40 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 12:08:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 407; Max RunCount 3369
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 56; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:13:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 438; Max RunCount 3421
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 60; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 12:18:39 GS-1 09-02 12:18:39 User = 12 / 12
+2019-09-02 12:18:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3410
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 12:23:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3332
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:28:39 GS-1 09-02 12:28:39 User = 5 / 5
+2019-09-02 12:28:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3322
+---[Human]: Max RunDelay: 32; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 75; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:33:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3322
+---[Human]: Max RunDelay: 32; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:38:39 GS-1 09-02 12:38:39 User = 12 / 12
+2019-09-02 12:38:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3304
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:43:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3338
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:48:39 GS-1 09-02 12:48:39 User = 12 / 12
+2019-09-02 12:48:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3379
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 12:53:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 3348
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 66; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 12:58:39 GS-1 09-02 12:58:39 User = 11 / 11
+2019-09-02 12:58:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 3424
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:03:57 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3421
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 66; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 13:08:39 GS-1 09-02 13:08:39 User = 11 / 11
+2019-09-02 13:08:40 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 13:08:40 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 13:08:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3420
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:13:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3404
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 66; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:18:39 GS-1 09-02 13:18:39 User = 11 / 11
+2019-09-02 13:18:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 3293
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:23:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 3351
+---[Human]: Max RunDelay: 79; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 62; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 13:28:39 GS-1 09-02 13:28:39 User = 14 / 14
+2019-09-02 13:29:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3351
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:34:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3328
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:38:39 GS-1 09-02 13:38:39 User = 11 / 11
+2019-09-02 13:39:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 3349
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:44:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 390; Max RunCount 3351
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 65; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:48:39 GS-1 09-02 13:48:39 User = 14 / 14
+2019-09-02 13:49:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3351
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:54:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 312; Max RunCount 3351
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 13:58:39 GS-1 09-02 13:58:39 User = 14 / 14
+2019-09-02 13:59:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3361
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:04:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3360
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:06:50 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-02 14:08:39 GS-1 09-02 14:08:39 User = 14 / 14
+2019-09-02 14:08:40 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 14:08:40 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 14:09:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3470
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 14:09:23 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 14:14:09 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3309
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:18:39 GS-1 09-02 14:18:39 User = 14 / 14
+2019-09-02 14:19:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 343; Max RunCount 3369
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 14:24:11 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3336
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:28:39 GS-1 09-02 14:28:39 User = 13 / 13
+2019-09-02 14:29:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3397
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:32:59 GS-1 [½Å±¾(ĞŞÁ¶Ê¥µØ-3.pas)È±º¯Êı]: ForgeDiaYB
+2019-09-02 14:32:59 GS-1 --ReInitializet-- ÒòÎªµã»÷NPCÊ§°Ü£¬ÖØĞÂË¢ĞÂNPC...
+2019-09-02 14:34:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3511
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 54; Max RunDelay 47
+-----------------------------------------------------
+2019-09-02 14:38:39 GS-1 09-02 14:38:39 User = 13 / 13
+2019-09-02 14:39:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3361
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:41:43 GS-1   Íæ¼Ò£º ÏÂÓêÌì£¬ÓÊ¼şIdx:  958£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 14:44:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3343
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:48:39 GS-1 09-02 14:48:39 User = 13 / 13
+2019-09-02 14:49:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3552
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 50; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:54:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 547; Max RunCount 3596
+---[Human]: Max RunDelay: 344; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 53; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 14:58:39 GS-1 09-02 14:58:39 User = 12 / 12
+2019-09-02 14:59:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3518
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:04:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3524
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:08:40 GS-1 09-02 15:08:40 User = 13 / 13
+2019-09-02 15:08:41 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 15:08:41 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 15:09:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3542
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:14:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3542
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:18:40 GS-1 09-02 15:18:40 User = 13 / 13
+2019-09-02 15:19:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 296; Max RunCount 3489
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:24:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3491
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:28:40 GS-1 09-02 15:28:40 User = 14 / 14
+2019-09-02 15:29:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3354
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:34:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3361
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:38:40 GS-1 09-02 15:38:40 User = 14 / 14
+2019-09-02 15:39:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3308
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 15:44:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3486
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:48:40 GS-1 09-02 15:48:40 User = 14 / 14
+2019-09-02 15:49:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3486
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:54:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3298
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 15:58:40 GS-1 09-02 15:58:40 User = 14 / 14
+2019-09-02 15:59:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3256
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:04:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3826
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:08:40 GS-1 09-02 16:08:40 User = 14 / 14
+2019-09-02 16:08:41 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 16:08:41 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 16:09:32 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3978
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:14:33 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4130
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:18:40 GS-1 09-02 16:18:40 User = 13 / 13
+2019-09-02 16:19:34 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4069
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:24:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3894
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:28:39 GS-1 09-02 16:28:39 User = 12 / 12
+2019-09-02 16:29:35 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3794
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:34:36 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 4035
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:38:39 GS-1 09-02 16:38:39 User = 12 / 12
+2019-09-02 16:39:37 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4206
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:44:38 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 4099
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:48:40 GS-1 09-02 16:48:40 User = 12 / 12
+2019-09-02 16:49:40 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1390; Max RunCount 4684
+---[Human]: Max RunDelay: 594; [Socket]: Max RunDelay: 203
+---[App]: Min PerSecRun: 9; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:54:41 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 407; Max RunCount 4685
+---[Human]: Max RunDelay: 109; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 16:58:40 GS-1 09-02 16:58:40 User = 13 / 13
+2019-09-02 16:59:42 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 406; Max RunCount 4594
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 62; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:04:43 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 532; Max RunCount 4684
+---[Human]: Max RunDelay: 250; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 49; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:08:41 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 17:08:41 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 17:08:42 GS-1 09-02 17:08:42 User = 13 / 13
+2019-09-02 17:09:44 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 4499
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 17:09:56 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 17:12:47 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 17:14:45 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 594; Max RunCount 4619
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 45; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:18:41 GS-1 09-02 17:18:41 User = 13 / 13
+2019-09-02 17:19:46 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 4545
+---[Human]: Max RunDelay: 265; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:24:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 4635
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 55; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:28:42 GS-1 09-02 17:28:42 User = 13 / 13
+2019-09-02 17:29:47 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 359; Max RunCount 4562
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 61; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:34:48 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 4421
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 57; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:38:42 GS-1 09-02 17:38:42 User = 12 / 12
+2019-09-02 17:39:49 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 500; Max RunCount 4525
+---[Human]: Max RunDelay: 94; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 56; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:44:50 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 4449
+---[Human]: Max RunDelay: 125; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 66; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 17:48:42 GS-1 09-02 17:48:42 User = 13 / 13
+2019-09-02 17:49:51 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4400
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 66; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 17:54:52 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3931
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 17:58:42 GS-1 09-02 17:58:42 User = 7 / 7
+2019-09-02 17:59:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4421
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:04:53 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 4490
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:08:41 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 18:08:41 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 18:08:42 GS-1 09-02 18:08:42 User = 13 / 13
+2019-09-02 18:09:54 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3737
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:14:55 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3909
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 18:18:42 GS-1 09-02 18:18:42 User = 13 / 13
+2019-09-02 18:19:56 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3869
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:24:58 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 266; Max RunCount 3827
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 18:28:43 GS-1 09-02 18:28:43 User = 13 / 13
+2019-09-02 18:29:59 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3691
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 74; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:35:00 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 313; Max RunCount 3755
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 18:37:21 GS-1 [Error]: ==> YBSocketError, ErrorCode=10060
+2019-09-02 18:38:43 GS-1 09-02 18:38:43 User = 12 / 12
+2019-09-02 18:40:01 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 4209
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:45:02 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4210
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 18:48:43 GS-1 09-02 18:48:43 User = 15 / 15
+2019-09-02 18:50:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 4075
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 70; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 18:55:03 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4428
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 18:58:42 GS-1 09-02 18:58:42 User = 15 / 15
+2019-09-02 19:00:04 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4569
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:05:05 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4037
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 19:08:41 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 19:08:41 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 19:08:42 GS-1 09-02 19:08:42 User = 16 / 16
+2019-09-02 19:10:06 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4285
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 19:15:07 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4585
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:18:42 GS-1 09-02 19:18:42 User = 15 / 15
+2019-09-02 19:20:08 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 4605
+---[Human]: Max RunDelay: 78; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:25:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4073
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:28:43 GS-1 09-02 19:28:43 User = 16 / 16
+2019-09-02 19:30:10 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3444
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:35:12 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3918
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 71; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:38:43 GS-1 09-02 19:38:43 User = 16 / 16
+2019-09-02 19:40:13 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 3765
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 67; Max RunDelay 15
+-----------------------------------------------------
+2019-09-02 19:45:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 328; Max RunCount 3882
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 68; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:48:43 GS-1 09-02 19:48:43 User = 16 / 16
+2019-09-02 19:50:14 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1156; Max RunCount 4694
+---[Human]: Max RunDelay: 765; [Socket]: Max RunDelay: 672
+---[App]: Min PerSecRun: 22; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:55:15 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1875; Max RunCount 4695
+---[Human]: Max RunDelay: 610; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 28; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 19:58:43 GS-1 09-02 19:58:43 User = 17 / 17
+2019-09-02 20:00:16 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 844; Max RunCount 4668
+---[Human]: Max RunDelay: 219; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 28; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:00:32 GS-1   Íæ¼Ò£º ñöÌıĞÄÓê£¬ÓÊ¼şIdx:  959£¬¹¦¼ÓÔØÁË 17¸½¼ş¡£
+2019-09-02 20:05:17 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 1032; Max RunCount 4699
+---[Human]: Max RunDelay: 610; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 17; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:08:42 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 20:08:42 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 20:08:45 GS-1 09-02 20:08:45 User = 16 / 16
+2019-09-02 20:09:23 GS-1 [½Å±¾(É¢²ÆÖí.pas)È±º¯Êı]: AfterScatterItems
+2019-09-02 20:10:18 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 3999
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:15:19 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4556
+---[Human]: Max RunDelay: 62; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:18:45 GS-1 09-02 20:18:45 User = 15 / 15
+2019-09-02 20:20:20 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4584
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:25:21 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4493
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:28:45 GS-1 09-02 20:28:45 User = 15 / 15
+2019-09-02 20:30:22 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 282; Max RunCount 4440
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:35:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 281; Max RunCount 3893
+---[Human]: Max RunDelay: 63; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:38:45 GS-1 09-02 20:38:45 User = 16 / 16
+2019-09-02 20:40:18 GS-1 [Exception]: ProcClientMsg: ñöÌıĞÄÓê  4535  Access violation at address 6D5F2065. Write of address 6D5F2065 ×Fx
+2019-09-02 20:40:23 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 422; Max RunCount 4468
+---[Human]: Max RunDelay: 157; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 16
+-----------------------------------------------------
+2019-09-02 20:42:04 GS-1   Íæ¼Ò£º Óİ¼ÎÄê£¬ÓÊ¼şIdx:  935£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:42:06 GS-1   Íæ¼Ò£º Óİ¼ÎÄê£¬ÓÊ¼şIdx:  880£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:44:27 GS-1 [½Å±¾(ĞŞÁ¶Ê¥µØ-3.pas)È±º¯Êı]: ForgeDiaYB
+2019-09-02 20:44:27 GS-1 --ReInitializet-- ÒòÎªµã»÷NPCÊ§°Ü£¬ÖØĞÂË¢ĞÂNPC...
+2019-09-02 20:45:24 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 468; Max RunCount 4653
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 55; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:48:45 GS-1 09-02 20:48:45 User = 18 / 18
+2019-09-02 20:50:25 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 375; Max RunCount 4643
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 64; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:53:04 GS-1   Íæ¼Ò£º ÑøÜ°ÈÙ£¬ÓÊ¼şIdx:  961£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:53:04 GS-1   Íæ¼Ò£º ÑøÜ°ÈÙ£¬ÓÊ¼şIdx:  962£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:53:04 GS-1   Íæ¼Ò£º ÑøÜ°ÈÙ£¬ÓÊ¼şIdx:  963£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:53:04 GS-1   Íæ¼Ò£º ÑøÜ°ÈÙ£¬ÓÊ¼şIdx:  964£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:53:04 GS-1   Íæ¼Ò£º ÑøÜ°ÈÙ£¬ÓÊ¼şIdx:  937£¬¹¦¼ÓÔØÁË 1¸½¼ş¡£
+2019-09-02 20:55:26 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 953; Max RunCount 4703
+---[Human]: Max RunDelay: 93; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 32; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 20:55:40 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 20:58:45 GS-1 09-02 20:58:45 User = 16 / 16
+2019-09-02 21:00:27 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 609; Max RunCount 4694
+---[Human]: Max RunDelay: 140; [Socket]: Max RunDelay: 47
+---[App]: Min PerSecRun: 47; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:05:28 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 484; Max RunCount 4626
+---[Human]: Max RunDelay: 235; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 58; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:08:42 GS-1 ÔØÈëÉÌ³ÇÈÈÏúÉÌÆ·ÁĞ±í£¬¹²34¸ö¡£
+2019-09-02 21:08:42 GS-1 ==> ¼ÓÔØÉÌ³ÇÈÈÏú°ñ:5
+2019-09-02 21:08:45 GS-1 09-02 21:08:45 User = 16 / 16
+2019-09-02 21:10:29 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 250; Max RunCount 4017
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 69; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:10:44 GS-1   Íæ¼Ò£º Ó¡ÓñÁú£¬ÓÊ¼şIdx:  949£¬¹¦¼ÓÔØÁË 5¸½¼ş¡£
+2019-09-02 21:15:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 687; Max RunCount 4351
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 15
+---[App]: Min PerSecRun: 40; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:18:14 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 21:18:15 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 21:18:15 GS-1 [Error]: GameGate ServerSocketError, ErrorCode=10061
+2019-09-02 21:18:46 GS-1 09-02 21:18:46 User = 15 / 15
+2019-09-02 21:20:30 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 391; Max RunCount 4647
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 72; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:25:31 GS-1 -----------------------------------------------------
+---[Monster]: Max RunDelay: 297; Max RunCount 4280
+---[Human]: Max RunDelay: 47; [Socket]: Max RunDelay: 16
+---[App]: Min PerSecRun: 73; Max RunDelay 0
+-----------------------------------------------------
+2019-09-02 21:26:50 GS-1 [Exception]: ProcClientMsg: ÎÒÊÇĞ¡·¨Ê¦  3030  Access violation at address 007059BB in module 'M2Server.exe'. Read of address 0000024F !#Ë­ÓĞ¹·Êé
+2019-09-02 21:26:58 GS-1 [Exception]: ProcClientMsg: ÎÒÊÇĞ¡·¨Ê¦  3030  Access violation at address 007059BB in module 'M2Server.exe'. Read of address 0000024F !#Ë­ÓĞ¹·Êé
+2019-09-02 21:28:46 GS-1 09-02 21:28:46 User = 16 / 16
+2019-09-02 21:30:11 GS-1 [Warning]: ÓëDB ·şÎñÆ÷¶Ï¿ªÁ¬½Ó....
+2019-09-02 21:30:12 GS-1 21:30:13 Gate 1 (49.234.26.20) ¹Ø±Õ
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ä§Áú±ù¾§Éı¼¶¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ìì´Í±¦Ïä1--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ìì´Í±¦Ïä2--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ò»µã³ä--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ÊÂ¼ş¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ÈÎÎñ¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Éı¼¶ÌáĞÑ¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--GDMsg¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--¿çµØÍ¼Ñ°Â·¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--É³°Í¿Ë¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ÖĞÑë»î¶¯·şÎñÆ÷¿Í»§¶Ë--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ç¬À¤°ü--½áÊø
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ÎÔÁúÓ¢ĞÛ¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ÎÔÁúÓ¢ĞÛ¹ÜÀí\Fortress-HERO1.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ÎÔÁúÓ¢ĞÛ¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ÎÔÁúÓ¢ĞÛ¹ÜÀí\Fortress.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ÓÎÏ·ÔªËØµãÕó¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ÓÎÏ·ÔªËØµãÕó¹ÜÀí\GMActEvent.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ĞÅÓÃ·Ö¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ĞÅÓÃ·Ö¹ÜÀí\PlayerActivePoint.xml
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ĞÅÓÃ·Ö¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ĞÅÓÃ·Ö¹ÜÀí\MapActivePoint.xml
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-°ÚÌ¯½»Ò×-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\°ÚÌ¯½»Ò×\Ì¯Î»»ù´¡ÉèÖÃ.ini
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-Ôª±¦ÉÌ³Ç¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\Ôª±¦ÉÌ³Ç¹ÜÀí\YBGoods.sql
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-Ğ¡ÖúÊÖ¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\Ğ¡ÖúÊÖ¹ÜÀí\Ğ¡ÖúÊÖ.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-¾²Ì¬µØÍ¼¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\¾²Ì¬µØÍ¼¹ÜÀí\MapDropLimitBagItems.xml
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-×°±¸ºÏ³É¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\×°±¸ºÏ³É¹ÜÀí\StrengthenEquip.xml
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-²Ø±¦Í¼¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\²Ø±¦Í¼¹ÜÀí\ĞŞ¸´²Ø±¦Í¼.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-²Ø±¦Í¼¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\²Ø±¦Í¼¹ÜÀí\Ä§Áú²Ø±¦Í¼ºÏ³É×°±¸.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ÒÂ·şÉı¼¶¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ÒÂ·şÉı¼¶¹ÜÀí\UpdateClothes.xml
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-µÀ¾ß¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\µÀ¾ß¹ÜÀí\±¦Ê¯ÅäÖÃ.txt
+2019-09-02 21:30:18 GS-1 ÕıÔÚÇå³ıÄ£¿é-ÊÀ½ç±©ÂÊ¹ÜÀí-µÄÅäÖÃ±íd:\Mud2.0\Mir200\Share\EngineConfig\ÊÀ½ç±©ÂÊ¹ÜÀí\ÊÀ½ç±¬ÂÊÎÄ¼ş1.txt
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--¿çGSÏûÏ¢¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--gate¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ä§·¨¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ì××°¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ĞÂ±©ÂÊ¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--½ÇÉ«ĞÅÏ¢³õÊ¼»¯¹ÜÀí¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--GS±¾µØÈÕÖ¾--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--DBEngn¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ÈÎÎñÁĞ±í--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--buffer¹ÜÀíÀà--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--ÅÅĞĞ°ñ--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--Ãâ·Ñ»ØÊÕ--½áÊø
+2019-09-02 21:30:18 GS-1 ÊÍ·Å--mysql¶ÔÏó--½áÊø
+2019-09-02 21:30:18 GS-1 ================ ·şÎñÍ£Ö¹ ==============
