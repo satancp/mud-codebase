@@ -19,7 +19,8 @@ begin
    '沙巴克就在盟重，你想去一睹沙巴克城主的风采吗？\ \'
    +'|{cmd}<进入庄园/@baodian>      ^<关于PK/@pk>\'
    +'|{cmd}<想去商店/@move0>          ^<想去毒蛇山谷/@moveDS>\'
-   +'|{cmd}<想去苍月岛/@move4>          ^<洞穴传送/@goMonMap>\' 
+   +'|{cmd}<想去苍月岛(2000金币)/@move4>          ^<洞穴传送/@goMonMap>\' 
+   +'|{cmd}<想去魔龙城(5000金币)/@move5>          ^<想去想去魔龙城(10万金币)/@move6>\' 
    +'|{cmd}<退出/@exit>'
    +ActiveValidateStr
    );
@@ -117,7 +118,20 @@ begin
 end;
 procedure _move4; 
 begin
+This_Player.DecGold(2000);
 This_Player.Flyto('5',140,330);
+end;
+
+procedure _move5; 
+begin
+This_Player.DecGold(5000);
+This_Player.Flyto('6',0,0);
+end;
+
+procedure _move6; 
+begin
+This_Player.DecGold(100000);
+This_Player.Flyto('H001',0,0);
 end;
 
 
