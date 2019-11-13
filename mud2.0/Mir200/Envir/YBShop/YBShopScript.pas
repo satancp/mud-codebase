@@ -1,7 +1,7 @@
 PROGRAM Mir2;
 
 const                                       // 赤金钥匙|白银钥匙|紫铜钥匙|神秘钥匙|                                                                                                                                                                         传音筒|
-  C_NeedLoadGoodsNames_001 = '烟花|个性发型|金条|气血石(小)|魔血石(大)|比奇传送石|盟重传送石|坚硬的桦木|乾坤令包|双倍秘籍|双倍宝典|书页|金砖|随机传送石|勋章之心|1000元宝|修复神水|雪霜捆药绳|疗伤药捆药绳|太阳水捆药绳|千里传音|千里传音(大)|50倍卷轴|5声望包|10声望包|20声望包|50声望包|100声望包|50金刚石|100金刚石|200金刚石|500金刚石|1元宝|5元宝|10元宝|50元宝|100元宝|飞火流星|召唤强化卷|至尊凭证';
+  C_NeedLoadGoodsNames_001 = '烟花|个性发型|金条|气血石(小)|魔血石(大)|比奇传送石|盟重传送石|c|乾坤令包|双倍秘籍|双倍宝典|书页|金砖|随机传送石|勋章之心|1000元宝|修复神水|雪霜捆药绳|疗伤药捆药绳|太阳水捆药绳|千里传音|千里传音(大)|50倍卷轴|5声望包|10声望包|20声望包|50声望包|100声望包|50金刚石|100金刚石|200金刚石|500金刚石|1元宝|5元宝|10元宝|50元宝|100元宝|飞火流星|召唤强化卷|至尊凭证';
   C_NeedLoadGoodsNames_002 = '烟花|个性发型|金条|气血石(小)|魔血石(大)|比奇传送石|盟重传送石|坚硬的桦木|乾坤令包|双倍秘籍|双倍宝典|书页|金砖|随机传送石|勋章之心|1000元宝|修复神水|雪霜捆药绳|疗伤药捆药绳|太阳水捆药绳|千里传音|千里传音(大)|50倍卷轴|5声望包|10声望包|20声望包|50声望包|100声望包|50金刚石|100金刚石|200金刚石|500金刚石|1元宝|5元宝|10元宝|50元宝|100元宝|飞火流星|召唤强化卷|至尊凭证';
 
 var                                      
@@ -94,71 +94,6 @@ begin
           vGoodsExplain := '可改变发型|使用后恢复成原来的发型|购买后与角色绑定'; 
           
         end; 
-        '10声望包': 
-        begin 
-          vClassName := '装饰'; 
-          vItemList := '10声望包:1'; 
-          vGoodsIdx := 262; 
-          vSrcPrice := 20; //原价  
-          vCurPrice := 20; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '可开启获得10点声望||使用方法:双击|'; 
-        end; 
-        '5声望包': 
-        begin 
-          vClassName := '装饰'; 
-          vItemList := '5声望包:1'; 
-          vGoodsIdx := 262; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '可开启获得5点声望||使用方法:双击|'; 
-        end; 
-        '20声望包': 
-        begin 
-          vClassName := '装饰'; 
-          vItemList := '20声望包:1'; 
-          vGoodsIdx := 262; 
-          vSrcPrice := 40; //原价  
-          vCurPrice := 40; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '可开启获得20点声望||使用方法:双击|'; 
-        end; 
-        '50声望包': 
-        begin 
-          vClassName := '装饰'; 
-          vItemList := '50声望包:1'; 
-          vGoodsIdx := 262; 
-          vSrcPrice := 70; //原价  
-          vCurPrice := 70; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '可开启获得50点声望||使用方法:双击|'; 
-        end; 
-        '100声望包': 
-        begin 
-          vClassName := '装饰'; 
-          vItemList := '100声望包:1'; 
-          vGoodsIdx := 262; 
-          vSrcPrice := 120; //原价  
-          vCurPrice := 120; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '可开启获得100点声望||使用方法:双击|'; 
-        end; 
         '50金刚石': 
         begin 
           vClassName := '装饰'; 
@@ -210,46 +145,7 @@ begin
           vEffectImg := 380; 
           vEffectCount := 1; 
           vGoodsExplain := '可开启获得500金刚石||使用方法:双击|'; 
-        end;             
-        '金条': 
-        begin 
-          vClassName := '补给'; 
-          vItemList := '金条:1'; 
-          vGoodsIdx := 390; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '价值100万金币|双击即可使用|也可至庄园仓库|管理员处兑换100万金币|每次扣除2000金币手续费'; 
-        end; 
-        '书页': 
-        begin 
-          vClassName := '补给'; 
-          vItemList := '书页:1'; 
-          vGoodsIdx := 202; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 479; 
-          vEffectCount := 7; 
-          vGoodsExplain := '交给比奇皇宫的大学士，可以用于兑换47级技能书'; 
-        end; 
-        '乾坤令包': 
-        begin 
-          vClassName := '补给'; 
-          vItemList := '乾坤令包:1'; 
-          vGoodsIdx := 203; 
-          vSrcPrice := 5; //原价  
-          vCurPrice := 5; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 479; 
-          vEffectCount := 7; 
-          vGoodsExplain := '双击获得5个乾坤令，用于进入藏宝阁'; 
-        end; 
+        end;      
         '气血石(小)': 
         begin 
           vClassName := '补给'; 
@@ -355,32 +251,6 @@ begin
           vEffectCount := 1; 
           vGoodsExplain := '修复全部装备|放于包裹中|双击即可特修所有|已穿戴装备|可累计修复100点持久|非绑定物品'; 
         end; 
-        '坚硬的桦木': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '坚硬的桦木:1'; 
-          vGoodsIdx := 402; 
-          vSrcPrice := 30; //原价  
-          vCurPrice := 30; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '扩充仓库|在仓库保管员处|可增扩大仓库'; 
-        end; 
-        '金砖': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '金砖:1'; 
-          vGoodsIdx := 235; 
-          vSrcPrice := 60; //原价  
-          vCurPrice := 60; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '金砖,价值500W'; 
-        end; 
         '雪霜捆药绳': 
         begin 
           vClassName := '强化'; 
@@ -473,150 +343,7 @@ begin
           vEffectCount := 1; 
           vGoodsExplain := '可兑换2种焰火|可在盟重镇魔守将处兑换|成长空火舞包、|如雾似梦包|双击兑换获得的焰火包|即可变为6个礼花'; 
         end; 
-        '50倍卷轴': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '50倍卷轴:1'; 
-          vGoodsIdx := 337; 
-          vSrcPrice := 50; //原价  
-          vCurPrice := 50; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 490; 
-          vEffectCount := 8; 
-          vGoodsExplain := '2小时50倍经验|获得2小时50倍经验|让您事半功倍|购买后与角色绑定'; 
-        end;
-        '双倍宝典': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '双倍宝典:1'; 
-          vGoodsIdx := 337; 
-          vSrcPrice := 20; //原价  
-          vCurPrice := 20; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 490; 
-          vEffectCount := 8; 
-          vGoodsExplain := '24小时双倍经验|获得24小时双倍经验|让您事半功倍|购买后与角色绑定'; 
-        end;
-        '双倍秘籍': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '双倍秘籍:1'; 
-          vGoodsIdx := 337; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 490; 
-          vEffectCount := 8; 
-          vGoodsExplain := '12小时双倍经验|获得12小时双倍经验|让您事半功倍|购买后与角色绑定'; 
-        end; 
-        '勋章之心': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '勋章之心:1'; 
-          vGoodsIdx := 335; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 490; 
-          vEffectCount := 8; 
-          vGoodsExplain := '合成勋章必备'; 
-        end; 
-        '1000元宝': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '1000元宝:1'; 
-          vGoodsIdx := 336; 
-          vSrcPrice := 1000; //原价  
-          vCurPrice := 1000; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 490; 
-          vEffectCount := 8; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '1元宝': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '1元宝:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 1; //原价  
-          vCurPrice := 1; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '5元宝': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '5元宝:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 5; //原价  
-          vCurPrice := 5; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '10元宝': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '10元宝:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 10; //原价  
-          vCurPrice := 10; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '50元宝': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '50元宝:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 50; //原价  
-          vCurPrice := 50; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '100元宝': 
-        begin 
-          vClassName := '强化'; 
-          vItemList := '100元宝:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 100; //原价  
-          vCurPrice := 100; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 380; 
-          vEffectCount := 1; 
-          vGoodsExplain := '双击使用|获得等额元宝'; 
-        end; 
-        '召唤强化卷': 
-        begin 
-          vClassName := '限量'; 
-          vItemList := '召唤强化卷:1'; 
-          vGoodsIdx := 214; 
-          vSrcPrice := 200; //原价  
-          vCurPrice := 200; //折扣价  
-          vLimitType := 0; //限购类型  
-          vLimitCount := 0; //限购数量  
-          vEffectImg := 470; 
-          vEffectCount := 8; 
-          vGoodsExplain := '道士专属卷轴|可将神兽瞬间提升至7级'; 
-        end;
-		'飞火流星': 
+		    '飞火流星': 
         begin 
           vClassName := '限量'; 
           vItemList := '飞火流星:1'; 
@@ -629,19 +356,71 @@ begin
           vEffectCount := 8; 
           vGoodsExplain := '进入沙巴克藏宝阁的必要品'; 
         end;
-        '至尊凭证': 
+        '会员令牌': 
         begin 
           vClassName := '限量'; 
-          vItemList := '至尊凭证:1'; 
-          vGoodsIdx := 403; 
-          vSrcPrice := 200; //原价  
-          vCurPrice := 200; //折扣价  
+          vItemList := '会员令牌:1'; 
+          vGoodsIdx := 999; 
+          vSrcPrice := 999; //原价  
+          vCurPrice := 999; //折扣价  
           vLimitType := 0; //限购类型  
           vLimitCount := 0; //限购数量  
           vEffectImg := 380; 
           vEffectCount := 1; 
-          vGoodsExplain := '至尊土豪的象征|用于召唤虚空怪物|有几率获得装备'; 
-        end; 		
+          vGoodsExplain := '体现会员尊贵身份的令牌'; 
+        end;
+        '祝福罐': 
+        begin 
+          vClassName := '强化'; 
+          vItemList := '祝福罐:1'; 
+          vGoodsIdx := 257; 
+          vSrcPrice := 3; //原价  
+          vCurPrice := 3; //折扣价  
+          vLimitType := 0; //限购类型  
+          vLimitCount := 0; //限购数量  
+          vEffectImg := 380; 
+          vEffectCount := 1; 
+          vGoodsExplain := '可存50瓶祝福油|放在人物栏毒符位，可把|祝福油放入，在包裹中可|双击释放，每次1瓶|释放1次持久少1|持久为0祝福罐消失'; 
+        end;
+        '超级护身符': 
+        begin 
+          vClassName := '强化'; 
+          vItemList := '超级护身符:1'; 
+          vGoodsIdx := 257; 
+          vSrcPrice := 3; //原价  
+          vCurPrice := 3; //折扣价  
+          vLimitType := 0; //限购类型  
+          vLimitCount := 0; //限购数量  
+          vEffectImg := 380; 
+          vEffectCount := 1; 
+          vGoodsExplain := '超级护身符'; 
+        end;
+        '超级灰色药粉': 
+        begin 
+          vClassName := '强化'; 
+          vItemList := '超级灰色药粉:1'; 
+          vGoodsIdx := 257; 
+          vSrcPrice := 3; //原价  
+          vCurPrice := 3; //折扣价  
+          vLimitType := 0; //限购类型  
+          vLimitCount := 0; //限购数量  
+          vEffectImg := 380; 
+          vEffectCount := 1; 
+          vGoodsExplain := '超级灰色药粉'; 
+        end;
+        '超级黄色药粉': 
+        begin 
+          vClassName := '强化'; 
+          vItemList := '超级黄色药粉:1'; 
+          vGoodsIdx := 257; 
+          vSrcPrice := 3; //原价  
+          vCurPrice := 3; //折扣价  
+          vLimitType := 0; //限购类型  
+          vLimitCount := 0; //限购数量  
+          vEffectImg := 380; 
+          vEffectCount := 1; 
+          vGoodsExplain := '超级黄色药粉'; 
+        end;
   end;
 
   if (vClassName <> '') and IsUsingGoodsName(GoodsName)  then
